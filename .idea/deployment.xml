@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="skaminsk@148.81.54.244:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Liczyk3_IPPT_PAN">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/skaminsk/Pulpit" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="skaminsk@148.81.54.244:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/skaminsk/Pulpit/obrazy_med_analiza" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

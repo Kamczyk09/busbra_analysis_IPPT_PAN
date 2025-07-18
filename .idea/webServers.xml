@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9f3623ad-f36a-4787-802f-d06cde4dfc2f" name="Liczyk3_IPPT_PAN">
+        <fileTransfer rootFolder="/home/skaminsk/pycharm_remote/" accessType="SFTP" host="148.81.54.244" port="22" sshConfigId="a08625ef-b558-4f8d-a36f-127620050a53" sshConfig="skaminsk@148.81.54.244:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

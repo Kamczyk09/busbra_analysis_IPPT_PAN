@@ -1,0 +1,1764 @@
+dataset,label,image_path,mask_path,fold0,fold1,fold2,fold3,fold4
+busi,0,Dataset_BUSI_with_GT/benign/benign (1).png,Dataset_BUSI_with_GT/benign/benign (1)_mask.png,train,train,val,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (3).png,Dataset_BUSI_with_GT/benign/benign (3)_mask.png,val,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (7).png,Dataset_BUSI_with_GT/benign/benign (7)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (8).png,Dataset_BUSI_with_GT/benign/benign (8)_mask.png,train,train,train,test,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (10).png,Dataset_BUSI_with_GT/benign/benign (10)_mask.png,test,train,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (12).png,Dataset_BUSI_with_GT/benign/benign (12)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (15).png,Dataset_BUSI_with_GT/benign/benign (15)_mask.png,train,test,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (16).png,Dataset_BUSI_with_GT/benign/benign (16)_mask.png,val,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (17).png,Dataset_BUSI_with_GT/benign/benign (17)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (18).png,Dataset_BUSI_with_GT/benign/benign (18)_mask.png,val,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (19).png,Dataset_BUSI_with_GT/benign/benign (19)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (20).png,Dataset_BUSI_with_GT/benign/benign (20)_mask.png,val,val,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (21).png,Dataset_BUSI_with_GT/benign/benign (21)_mask.png,train,val,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (23).png,Dataset_BUSI_with_GT/benign/benign (23)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (24).png,Dataset_BUSI_with_GT/benign/benign (24)_mask.png,val,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (26).png,Dataset_BUSI_with_GT/benign/benign (26)_mask.png,train,test,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (27).png,Dataset_BUSI_with_GT/benign/benign (27)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (28).png,Dataset_BUSI_with_GT/benign/benign (28)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (29).png,Dataset_BUSI_with_GT/benign/benign (29)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (30).png,Dataset_BUSI_with_GT/benign/benign (30)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (31).png,Dataset_BUSI_with_GT/benign/benign (31)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (32).png,Dataset_BUSI_with_GT/benign/benign (32)_mask.png,train,train,val,val,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (33).png,Dataset_BUSI_with_GT/benign/benign (33)_mask.png,test,train,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (34).png,Dataset_BUSI_with_GT/benign/benign (34)_mask.png,train,train,val,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (35).png,Dataset_BUSI_with_GT/benign/benign (35)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (36).png,Dataset_BUSI_with_GT/benign/benign (36)_mask.png,test,train,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (37).png,Dataset_BUSI_with_GT/benign/benign (37)_mask.png,train,train,train,test,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (38).png,Dataset_BUSI_with_GT/benign/benign (38)_mask.png,test,train,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (39).png,Dataset_BUSI_with_GT/benign/benign (39)_mask.png,val,train,train,val,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (40).png,Dataset_BUSI_with_GT/benign/benign (40)_mask.png,train,train,val,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (41).png,Dataset_BUSI_with_GT/benign/benign (41)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (43).png,Dataset_BUSI_with_GT/benign/benign (43)_mask.png,val,val,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (44).png,Dataset_BUSI_with_GT/benign/benign (44)_mask.png,train,train,val,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (45).png,Dataset_BUSI_with_GT/benign/benign (45)_mask.png,train,train,train,test,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (46).png,Dataset_BUSI_with_GT/benign/benign (46)_mask.png,train,train,test,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (47).png,Dataset_BUSI_with_GT/benign/benign (47)_mask.png,train,val,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (48).png,Dataset_BUSI_with_GT/benign/benign (48)_mask.png,train,test,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (49).png,Dataset_BUSI_with_GT/benign/benign (49)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (50).png,Dataset_BUSI_with_GT/benign/benign (50)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (51).png,Dataset_BUSI_with_GT/benign/benign (51)_mask.png,train,test,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (52).png,Dataset_BUSI_with_GT/benign/benign (52)_mask.png,test,train,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (53).png,Dataset_BUSI_with_GT/benign/benign (53)_mask.png,train,val,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (55).png,Dataset_BUSI_with_GT/benign/benign (55)_mask.png,test,train,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (56).png,Dataset_BUSI_with_GT/benign/benign (56)_mask.png,train,val,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (57).png,Dataset_BUSI_with_GT/benign/benign (57)_mask.png,val,test,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (58).png,Dataset_BUSI_with_GT/benign/benign (58)_mask.png,train,val,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (59).png,Dataset_BUSI_with_GT/benign/benign (59)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (60).png,Dataset_BUSI_with_GT/benign/benign (60)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (62).png,Dataset_BUSI_with_GT/benign/benign (62)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (63).png,Dataset_BUSI_with_GT/benign/benign (63)_mask.png,train,val,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (65).png,Dataset_BUSI_with_GT/benign/benign (65)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (66).png,Dataset_BUSI_with_GT/benign/benign (66)_mask.png,val,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (67).png,Dataset_BUSI_with_GT/benign/benign (67)_mask.png,val,test,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (68).png,Dataset_BUSI_with_GT/benign/benign (68)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (69).png,Dataset_BUSI_with_GT/benign/benign (69)_mask.png,train,test,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (70).png,Dataset_BUSI_with_GT/benign/benign (70)_mask.png,val,val,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (71).png,Dataset_BUSI_with_GT/benign/benign (71)_mask.png,val,test,val,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (72).png,Dataset_BUSI_with_GT/benign/benign (72)_mask.png,val,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (73).png,Dataset_BUSI_with_GT/benign/benign (73)_mask.png,train,train,val,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (74).png,Dataset_BUSI_with_GT/benign/benign (74)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (75).png,Dataset_BUSI_with_GT/benign/benign (75)_mask.png,train,train,val,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (76).png,Dataset_BUSI_with_GT/benign/benign (76)_mask.png,train,val,val,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (77).png,Dataset_BUSI_with_GT/benign/benign (77)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (78).png,Dataset_BUSI_with_GT/benign/benign (78)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (80).png,Dataset_BUSI_with_GT/benign/benign (80)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (81).png,Dataset_BUSI_with_GT/benign/benign (81)_mask.png,train,test,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (82).png,Dataset_BUSI_with_GT/benign/benign (82)_mask.png,val,test,train,val,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (84).png,Dataset_BUSI_with_GT/benign/benign (84)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (87).png,Dataset_BUSI_with_GT/benign/benign (87)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (88).png,Dataset_BUSI_with_GT/benign/benign (88)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (89).png,Dataset_BUSI_with_GT/benign/benign (89)_mask.png,train,train,train,val,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (90).png,Dataset_BUSI_with_GT/benign/benign (90)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (91).png,Dataset_BUSI_with_GT/benign/benign (91)_mask.png,train,train,val,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (94).png,Dataset_BUSI_with_GT/benign/benign (94)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (95).png,Dataset_BUSI_with_GT/benign/benign (95)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (96).png,Dataset_BUSI_with_GT/benign/benign (96)_mask.png,val,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (101).png,Dataset_BUSI_with_GT/benign/benign (101)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (102).png,Dataset_BUSI_with_GT/benign/benign (102)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (103).png,Dataset_BUSI_with_GT/benign/benign (103)_mask.png,test,train,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (104).png,Dataset_BUSI_with_GT/benign/benign (104)_mask.png,train,test,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (105).png,Dataset_BUSI_with_GT/benign/benign (105)_mask.png,test,val,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (106).png,Dataset_BUSI_with_GT/benign/benign (106)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (107).png,Dataset_BUSI_with_GT/benign/benign (107)_mask.png,train,test,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (108).png,Dataset_BUSI_with_GT/benign/benign (108)_mask.png,test,train,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (109).png,Dataset_BUSI_with_GT/benign/benign (109)_mask.png,train,test,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (110).png,Dataset_BUSI_with_GT/benign/benign (110)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (111).png,Dataset_BUSI_with_GT/benign/benign (111)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (113).png,Dataset_BUSI_with_GT/benign/benign (113)_mask.png,test,train,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (117).png,Dataset_BUSI_with_GT/benign/benign (117)_mask.png,test,train,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (118).png,Dataset_BUSI_with_GT/benign/benign (118)_mask.png,train,train,train,test,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (120).png,Dataset_BUSI_with_GT/benign/benign (120)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (121).png,Dataset_BUSI_with_GT/benign/benign (121)_mask.png,train,train,test,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (124).png,Dataset_BUSI_with_GT/benign/benign (124)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (125).png,Dataset_BUSI_with_GT/benign/benign (125)_mask.png,train,test,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (137).png,Dataset_BUSI_with_GT/benign/benign (137)_mask.png,test,train,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (142).png,Dataset_BUSI_with_GT/benign/benign (142)_mask.png,test,train,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (143).png,Dataset_BUSI_with_GT/benign/benign (143)_mask.png,test,train,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (144).png,Dataset_BUSI_with_GT/benign/benign (144)_mask.png,test,train,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (145).png,Dataset_BUSI_with_GT/benign/benign (145)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (146).png,Dataset_BUSI_with_GT/benign/benign (146)_mask.png,val,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (147).png,Dataset_BUSI_with_GT/benign/benign (147)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (148).png,Dataset_BUSI_with_GT/benign/benign (148)_mask.png,val,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (149).png,Dataset_BUSI_with_GT/benign/benign (149)_mask.png,val,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (159).png,Dataset_BUSI_with_GT/benign/benign (159)_mask.png,train,train,test,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (160).png,Dataset_BUSI_with_GT/benign/benign (160)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (161).png,Dataset_BUSI_with_GT/benign/benign (161)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (162).png,Dataset_BUSI_with_GT/benign/benign (162)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (165).png,Dataset_BUSI_with_GT/benign/benign (165)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (166).png,Dataset_BUSI_with_GT/benign/benign (166)_mask.png,val,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (167).png,Dataset_BUSI_with_GT/benign/benign (167)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (168).png,Dataset_BUSI_with_GT/benign/benign (168)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (169).png,Dataset_BUSI_with_GT/benign/benign (169)_mask.png,train,val,test,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (170).png,Dataset_BUSI_with_GT/benign/benign (170)_mask.png,train,train,test,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (171).png,Dataset_BUSI_with_GT/benign/benign (171)_mask.png,train,train,val,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (172).png,Dataset_BUSI_with_GT/benign/benign (172)_mask.png,train,val,val,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (174).png,Dataset_BUSI_with_GT/benign/benign (174)_mask.png,train,test,train,val,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (175).png,Dataset_BUSI_with_GT/benign/benign (175)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (176).png,Dataset_BUSI_with_GT/benign/benign (176)_mask.png,train,val,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (178).png,Dataset_BUSI_with_GT/benign/benign (178)_mask.png,val,test,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (179).png,Dataset_BUSI_with_GT/benign/benign (179)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (180).png,Dataset_BUSI_with_GT/benign/benign (180)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (182).png,Dataset_BUSI_with_GT/benign/benign (182)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (183).png,Dataset_BUSI_with_GT/benign/benign (183)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (184).png,Dataset_BUSI_with_GT/benign/benign (184)_mask.png,train,train,val,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (185).png,Dataset_BUSI_with_GT/benign/benign (185)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (186).png,Dataset_BUSI_with_GT/benign/benign (186)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (187).png,Dataset_BUSI_with_GT/benign/benign (187)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (188).png,Dataset_BUSI_with_GT/benign/benign (188)_mask.png,train,train,val,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (189).png,Dataset_BUSI_with_GT/benign/benign (189)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (190).png,Dataset_BUSI_with_GT/benign/benign (190)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (191).png,Dataset_BUSI_with_GT/benign/benign (191)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (192).png,Dataset_BUSI_with_GT/benign/benign (192)_mask.png,val,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (193).png,Dataset_BUSI_with_GT/benign/benign (193)_mask.png,test,val,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (194).png,Dataset_BUSI_with_GT/benign/benign (194)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (196).png,Dataset_BUSI_with_GT/benign/benign (196)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (198).png,Dataset_BUSI_with_GT/benign/benign (198)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (199).png,Dataset_BUSI_with_GT/benign/benign (199)_mask.png,train,val,test,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (201).png,Dataset_BUSI_with_GT/benign/benign (201)_mask.png,test,train,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (202).png,Dataset_BUSI_with_GT/benign/benign (202)_mask.png,train,train,train,test,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (205).png,Dataset_BUSI_with_GT/benign/benign (205)_mask.png,train,val,train,val,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (207).png,Dataset_BUSI_with_GT/benign/benign (207)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (208).png,Dataset_BUSI_with_GT/benign/benign (208)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (210).png,Dataset_BUSI_with_GT/benign/benign (210)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (211).png,Dataset_BUSI_with_GT/benign/benign (211)_mask.png,train,test,train,val,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (212).png,Dataset_BUSI_with_GT/benign/benign (212)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (219).png,Dataset_BUSI_with_GT/benign/benign (219)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (223).png,Dataset_BUSI_with_GT/benign/benign (223)_mask.png,train,test,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (224).png,Dataset_BUSI_with_GT/benign/benign (224)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (225).png,Dataset_BUSI_with_GT/benign/benign (225)_mask.png,val,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (228).png,Dataset_BUSI_with_GT/benign/benign (228)_mask.png,val,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (233).png,Dataset_BUSI_with_GT/benign/benign (233)_mask.png,val,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (235).png,Dataset_BUSI_with_GT/benign/benign (235)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (236).png,Dataset_BUSI_with_GT/benign/benign (236)_mask.png,test,train,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (243).png,Dataset_BUSI_with_GT/benign/benign (243)_mask.png,test,train,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (247).png,Dataset_BUSI_with_GT/benign/benign (247)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (248).png,Dataset_BUSI_with_GT/benign/benign (248)_mask.png,train,train,val,test,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (254).png,Dataset_BUSI_with_GT/benign/benign (254)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (256).png,Dataset_BUSI_with_GT/benign/benign (256)_mask.png,train,val,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (257).png,Dataset_BUSI_with_GT/benign/benign (257)_mask.png,val,val,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (269).png,Dataset_BUSI_with_GT/benign/benign (269)_mask.png,train,test,val,val,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (272).png,Dataset_BUSI_with_GT/benign/benign (272)_mask.png,test,val,val,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (283).png,Dataset_BUSI_with_GT/benign/benign (283)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (288).png,Dataset_BUSI_with_GT/benign/benign (288)_mask.png,train,val,val,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (291).png,Dataset_BUSI_with_GT/benign/benign (291)_mask.png,train,train,train,val,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (292).png,Dataset_BUSI_with_GT/benign/benign (292)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (294).png,Dataset_BUSI_with_GT/benign/benign (294)_mask.png,train,test,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (298).png,Dataset_BUSI_with_GT/benign/benign (298)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (299).png,Dataset_BUSI_with_GT/benign/benign (299)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (301).png,Dataset_BUSI_with_GT/benign/benign (301)_mask.png,train,train,train,test,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (302).png,Dataset_BUSI_with_GT/benign/benign (302)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (304).png,Dataset_BUSI_with_GT/benign/benign (304)_mask.png,train,val,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (306).png,Dataset_BUSI_with_GT/benign/benign (306)_mask.png,train,val,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (307).png,Dataset_BUSI_with_GT/benign/benign (307)_mask.png,test,train,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (310).png,Dataset_BUSI_with_GT/benign/benign (310)_mask.png,train,val,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (311).png,Dataset_BUSI_with_GT/benign/benign (311)_mask.png,train,val,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (312).png,Dataset_BUSI_with_GT/benign/benign (312)_mask.png,train,test,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (313).png,Dataset_BUSI_with_GT/benign/benign (313)_mask.png,val,train,train,test,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (314).png,Dataset_BUSI_with_GT/benign/benign (314)_mask.png,train,test,val,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (317).png,Dataset_BUSI_with_GT/benign/benign (317)_mask.png,val,val,train,test,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (334).png,Dataset_BUSI_with_GT/benign/benign (334)_mask.png,val,test,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (335).png,Dataset_BUSI_with_GT/benign/benign (335)_mask.png,train,train,val,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (336).png,Dataset_BUSI_with_GT/benign/benign (336)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (337).png,Dataset_BUSI_with_GT/benign/benign (337)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (338).png,Dataset_BUSI_with_GT/benign/benign (338)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (339).png,Dataset_BUSI_with_GT/benign/benign (339)_mask.png,test,train,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (340).png,Dataset_BUSI_with_GT/benign/benign (340)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (341).png,Dataset_BUSI_with_GT/benign/benign (341)_mask.png,train,train,train,val,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (342).png,Dataset_BUSI_with_GT/benign/benign (342)_mask.png,val,train,val,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (343).png,Dataset_BUSI_with_GT/benign/benign (343)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (344).png,Dataset_BUSI_with_GT/benign/benign (344)_mask.png,train,test,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (345).png,Dataset_BUSI_with_GT/benign/benign (345)_mask.png,val,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (347).png,Dataset_BUSI_with_GT/benign/benign (347)_mask.png,test,val,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (348).png,Dataset_BUSI_with_GT/benign/benign (348)_mask.png,val,train,val,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (349).png,Dataset_BUSI_with_GT/benign/benign (349)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (350).png,Dataset_BUSI_with_GT/benign/benign (350)_mask.png,val,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (351).png,Dataset_BUSI_with_GT/benign/benign (351)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (352).png,Dataset_BUSI_with_GT/benign/benign (352)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (353).png,Dataset_BUSI_with_GT/benign/benign (353)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (354).png,Dataset_BUSI_with_GT/benign/benign (354)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (355).png,Dataset_BUSI_with_GT/benign/benign (355)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (356).png,Dataset_BUSI_with_GT/benign/benign (356)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (357).png,Dataset_BUSI_with_GT/benign/benign (357)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (358).png,Dataset_BUSI_with_GT/benign/benign (358)_mask.png,train,train,train,val,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (360).png,Dataset_BUSI_with_GT/benign/benign (360)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (361).png,Dataset_BUSI_with_GT/benign/benign (361)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (362).png,Dataset_BUSI_with_GT/benign/benign (362)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (363).png,Dataset_BUSI_with_GT/benign/benign (363)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (364).png,Dataset_BUSI_with_GT/benign/benign (364)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (365).png,Dataset_BUSI_with_GT/benign/benign (365)_mask.png,val,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (367).png,Dataset_BUSI_with_GT/benign/benign (367)_mask.png,train,val,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (368).png,Dataset_BUSI_with_GT/benign/benign (368)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (369).png,Dataset_BUSI_with_GT/benign/benign (369)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (370).png,Dataset_BUSI_with_GT/benign/benign (370)_mask.png,train,test,train,val,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (371).png,Dataset_BUSI_with_GT/benign/benign (371)_mask.png,train,val,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (372).png,Dataset_BUSI_with_GT/benign/benign (372)_mask.png,val,train,test,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (375).png,Dataset_BUSI_with_GT/benign/benign (375)_mask.png,train,val,train,val,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (376).png,Dataset_BUSI_with_GT/benign/benign (376)_mask.png,train,train,test,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (377).png,Dataset_BUSI_with_GT/benign/benign (377)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (378).png,Dataset_BUSI_with_GT/benign/benign (378)_mask.png,train,test,train,val,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (379).png,Dataset_BUSI_with_GT/benign/benign (379)_mask.png,test,train,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (380).png,Dataset_BUSI_with_GT/benign/benign (380)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (381).png,Dataset_BUSI_with_GT/benign/benign (381)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (382).png,Dataset_BUSI_with_GT/benign/benign (382)_mask.png,test,train,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (383).png,Dataset_BUSI_with_GT/benign/benign (383)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (384).png,Dataset_BUSI_with_GT/benign/benign (384)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (385).png,Dataset_BUSI_with_GT/benign/benign (385)_mask.png,train,val,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (386).png,Dataset_BUSI_with_GT/benign/benign (386)_mask.png,test,train,train,train,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (387).png,Dataset_BUSI_with_GT/benign/benign (387)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (388).png,Dataset_BUSI_with_GT/benign/benign (388)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (389).png,Dataset_BUSI_with_GT/benign/benign (389)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (390).png,Dataset_BUSI_with_GT/benign/benign (390)_mask.png,train,train,train,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (391).png,Dataset_BUSI_with_GT/benign/benign (391)_mask.png,train,val,val,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (392).png,Dataset_BUSI_with_GT/benign/benign (392)_mask.png,train,train,train,test,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (394).png,Dataset_BUSI_with_GT/benign/benign (394)_mask.png,train,val,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (395).png,Dataset_BUSI_with_GT/benign/benign (395)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (396).png,Dataset_BUSI_with_GT/benign/benign (396)_mask.png,train,test,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (397).png,Dataset_BUSI_with_GT/benign/benign (397)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (398).png,Dataset_BUSI_with_GT/benign/benign (398)_mask.png,train,val,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (400).png,Dataset_BUSI_with_GT/benign/benign (400)_mask.png,test,train,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (401).png,Dataset_BUSI_with_GT/benign/benign (401)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (402).png,Dataset_BUSI_with_GT/benign/benign (402)_mask.png,train,train,val,test,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (403).png,Dataset_BUSI_with_GT/benign/benign (403)_mask.png,val,val,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (404).png,Dataset_BUSI_with_GT/benign/benign (404)_mask.png,test,train,val,val,val
+busi,0,Dataset_BUSI_with_GT/benign/benign (405).png,Dataset_BUSI_with_GT/benign/benign (405)_mask.png,test,val,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (407).png,Dataset_BUSI_with_GT/benign/benign (407)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (408).png,Dataset_BUSI_with_GT/benign/benign (408)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (409).png,Dataset_BUSI_with_GT/benign/benign (409)_mask.png,train,test,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (410).png,Dataset_BUSI_with_GT/benign/benign (410)_mask.png,test,train,train,val,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (414).png,Dataset_BUSI_with_GT/benign/benign (414)_mask.png,train,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (417).png,Dataset_BUSI_with_GT/benign/benign (417)_mask.png,val,train,val,train,test
+busi,0,Dataset_BUSI_with_GT/benign/benign (418).png,Dataset_BUSI_with_GT/benign/benign (418)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (420).png,Dataset_BUSI_with_GT/benign/benign (420)_mask.png,train,val,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (429).png,Dataset_BUSI_with_GT/benign/benign (429)_mask.png,val,test,train,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (430).png,Dataset_BUSI_with_GT/benign/benign (430)_mask.png,train,train,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (431).png,Dataset_BUSI_with_GT/benign/benign (431)_mask.png,val,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (434).png,Dataset_BUSI_with_GT/benign/benign (434)_mask.png,train,train,test,train,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (435).png,Dataset_BUSI_with_GT/benign/benign (435)_mask.png,train,val,train,test,train
+busi,0,Dataset_BUSI_with_GT/benign/benign (437).png,Dataset_BUSI_with_GT/benign/benign (437)_mask.png,train,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (1).png,Dataset_BUSI_with_GT/malignant/malignant (1)_mask.png,train,test,val,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (3).png,Dataset_BUSI_with_GT/malignant/malignant (3)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (4).png,Dataset_BUSI_with_GT/malignant/malignant (4)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (11).png,Dataset_BUSI_with_GT/malignant/malignant (11)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (16).png,Dataset_BUSI_with_GT/malignant/malignant (16)_mask.png,test,train,train,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (17).png,Dataset_BUSI_with_GT/malignant/malignant (17)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (19).png,Dataset_BUSI_with_GT/malignant/malignant (19)_mask.png,test,train,train,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (20).png,Dataset_BUSI_with_GT/malignant/malignant (20)_mask.png,train,train,test,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (21).png,Dataset_BUSI_with_GT/malignant/malignant (21)_mask.png,train,train,val,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (22).png,Dataset_BUSI_with_GT/malignant/malignant (22)_mask.png,train,test,train,val,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (23).png,Dataset_BUSI_with_GT/malignant/malignant (23)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (24).png,Dataset_BUSI_with_GT/malignant/malignant (24)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (25).png,Dataset_BUSI_with_GT/malignant/malignant (25)_mask.png,train,train,val,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (28).png,Dataset_BUSI_with_GT/malignant/malignant (28)_mask.png,train,val,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (29).png,Dataset_BUSI_with_GT/malignant/malignant (29)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (30).png,Dataset_BUSI_with_GT/malignant/malignant (30)_mask.png,train,train,val,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (31).png,Dataset_BUSI_with_GT/malignant/malignant (31)_mask.png,test,train,train,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (32).png,Dataset_BUSI_with_GT/malignant/malignant (32)_mask.png,train,val,val,test,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (33).png,Dataset_BUSI_with_GT/malignant/malignant (33)_mask.png,val,train,train,val,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (34).png,Dataset_BUSI_with_GT/malignant/malignant (34)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (35).png,Dataset_BUSI_with_GT/malignant/malignant (35)_mask.png,train,val,test,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (36).png,Dataset_BUSI_with_GT/malignant/malignant (36)_mask.png,train,train,train,val,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (37).png,Dataset_BUSI_with_GT/malignant/malignant (37)_mask.png,train,test,val,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (38).png,Dataset_BUSI_with_GT/malignant/malignant (38)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (39).png,Dataset_BUSI_with_GT/malignant/malignant (39)_mask.png,train,test,val,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (40).png,Dataset_BUSI_with_GT/malignant/malignant (40)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (41).png,Dataset_BUSI_with_GT/malignant/malignant (41)_mask.png,train,train,test,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (43).png,Dataset_BUSI_with_GT/malignant/malignant (43)_mask.png,val,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (44).png,Dataset_BUSI_with_GT/malignant/malignant (44)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (45).png,Dataset_BUSI_with_GT/malignant/malignant (45)_mask.png,test,val,val,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (46).png,Dataset_BUSI_with_GT/malignant/malignant (46)_mask.png,test,train,train,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (47).png,Dataset_BUSI_with_GT/malignant/malignant (47)_mask.png,train,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (48).png,Dataset_BUSI_with_GT/malignant/malignant (48)_mask.png,train,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (49).png,Dataset_BUSI_with_GT/malignant/malignant (49)_mask.png,train,val,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (50).png,Dataset_BUSI_with_GT/malignant/malignant (50)_mask.png,train,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (54).png,Dataset_BUSI_with_GT/malignant/malignant (54)_mask.png,test,train,train,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (55).png,Dataset_BUSI_with_GT/malignant/malignant (55)_mask.png,train,test,val,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (56).png,Dataset_BUSI_with_GT/malignant/malignant (56)_mask.png,train,train,test,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (57).png,Dataset_BUSI_with_GT/malignant/malignant (57)_mask.png,train,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (58).png,Dataset_BUSI_with_GT/malignant/malignant (58)_mask.png,train,val,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (59).png,Dataset_BUSI_with_GT/malignant/malignant (59)_mask.png,val,val,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (60).png,Dataset_BUSI_with_GT/malignant/malignant (60)_mask.png,train,val,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (61).png,Dataset_BUSI_with_GT/malignant/malignant (61)_mask.png,train,train,test,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (62).png,Dataset_BUSI_with_GT/malignant/malignant (62)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (63).png,Dataset_BUSI_with_GT/malignant/malignant (63)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (64).png,Dataset_BUSI_with_GT/malignant/malignant (64)_mask.png,train,train,val,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (66).png,Dataset_BUSI_with_GT/malignant/malignant (66)_mask.png,train,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (67).png,Dataset_BUSI_with_GT/malignant/malignant (67)_mask.png,test,train,train,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (68).png,Dataset_BUSI_with_GT/malignant/malignant (68)_mask.png,test,train,train,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (69).png,Dataset_BUSI_with_GT/malignant/malignant (69)_mask.png,train,val,val,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (71).png,Dataset_BUSI_with_GT/malignant/malignant (71)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (72).png,Dataset_BUSI_with_GT/malignant/malignant (72)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (73).png,Dataset_BUSI_with_GT/malignant/malignant (73)_mask.png,train,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (74).png,Dataset_BUSI_with_GT/malignant/malignant (74)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (75).png,Dataset_BUSI_with_GT/malignant/malignant (75)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (76).png,Dataset_BUSI_with_GT/malignant/malignant (76)_mask.png,train,val,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (79).png,Dataset_BUSI_with_GT/malignant/malignant (79)_mask.png,train,train,test,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (82).png,Dataset_BUSI_with_GT/malignant/malignant (82)_mask.png,val,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (84).png,Dataset_BUSI_with_GT/malignant/malignant (84)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (85).png,Dataset_BUSI_with_GT/malignant/malignant (85)_mask.png,train,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (86).png,Dataset_BUSI_with_GT/malignant/malignant (86)_mask.png,train,train,test,val,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (87).png,Dataset_BUSI_with_GT/malignant/malignant (87)_mask.png,train,train,test,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (89).png,Dataset_BUSI_with_GT/malignant/malignant (89)_mask.png,test,val,val,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (90).png,Dataset_BUSI_with_GT/malignant/malignant (90)_mask.png,val,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (91).png,Dataset_BUSI_with_GT/malignant/malignant (91)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (96).png,Dataset_BUSI_with_GT/malignant/malignant (96)_mask.png,train,train,val,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (99).png,Dataset_BUSI_with_GT/malignant/malignant (99)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (100).png,Dataset_BUSI_with_GT/malignant/malignant (100)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (101).png,Dataset_BUSI_with_GT/malignant/malignant (101)_mask.png,val,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (102).png,Dataset_BUSI_with_GT/malignant/malignant (102)_mask.png,val,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (103).png,Dataset_BUSI_with_GT/malignant/malignant (103)_mask.png,val,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (104).png,Dataset_BUSI_with_GT/malignant/malignant (104)_mask.png,train,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (105).png,Dataset_BUSI_with_GT/malignant/malignant (105)_mask.png,train,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (108).png,Dataset_BUSI_with_GT/malignant/malignant (108)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (113).png,Dataset_BUSI_with_GT/malignant/malignant (113)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (115).png,Dataset_BUSI_with_GT/malignant/malignant (115)_mask.png,train,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (117).png,Dataset_BUSI_with_GT/malignant/malignant (117)_mask.png,train,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (120).png,Dataset_BUSI_with_GT/malignant/malignant (120)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (133).png,Dataset_BUSI_with_GT/malignant/malignant (133)_mask.png,train,val,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (134).png,Dataset_BUSI_with_GT/malignant/malignant (134)_mask.png,train,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (135).png,Dataset_BUSI_with_GT/malignant/malignant (135)_mask.png,train,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (136).png,Dataset_BUSI_with_GT/malignant/malignant (136)_mask.png,val,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (137).png,Dataset_BUSI_with_GT/malignant/malignant (137)_mask.png,val,train,val,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (138).png,Dataset_BUSI_with_GT/malignant/malignant (138)_mask.png,val,test,train,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (139).png,Dataset_BUSI_with_GT/malignant/malignant (139)_mask.png,train,val,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (140).png,Dataset_BUSI_with_GT/malignant/malignant (140)_mask.png,train,val,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (141).png,Dataset_BUSI_with_GT/malignant/malignant (141)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (142).png,Dataset_BUSI_with_GT/malignant/malignant (142)_mask.png,train,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (143).png,Dataset_BUSI_with_GT/malignant/malignant (143)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (144).png,Dataset_BUSI_with_GT/malignant/malignant (144)_mask.png,test,train,train,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (146).png,Dataset_BUSI_with_GT/malignant/malignant (146)_mask.png,val,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (147).png,Dataset_BUSI_with_GT/malignant/malignant (147)_mask.png,val,test,train,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (148).png,Dataset_BUSI_with_GT/malignant/malignant (148)_mask.png,train,test,train,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (149).png,Dataset_BUSI_with_GT/malignant/malignant (149)_mask.png,train,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (150).png,Dataset_BUSI_with_GT/malignant/malignant (150)_mask.png,val,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (151).png,Dataset_BUSI_with_GT/malignant/malignant (151)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (152).png,Dataset_BUSI_with_GT/malignant/malignant (152)_mask.png,test,train,train,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (153).png,Dataset_BUSI_with_GT/malignant/malignant (153)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (154).png,Dataset_BUSI_with_GT/malignant/malignant (154)_mask.png,train,test,train,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (155).png,Dataset_BUSI_with_GT/malignant/malignant (155)_mask.png,train,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (156).png,Dataset_BUSI_with_GT/malignant/malignant (156)_mask.png,val,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (158).png,Dataset_BUSI_with_GT/malignant/malignant (158)_mask.png,test,train,val,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (159).png,Dataset_BUSI_with_GT/malignant/malignant (159)_mask.png,val,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (160).png,Dataset_BUSI_with_GT/malignant/malignant (160)_mask.png,train,val,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (161).png,Dataset_BUSI_with_GT/malignant/malignant (161)_mask.png,val,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (162).png,Dataset_BUSI_with_GT/malignant/malignant (162)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (163).png,Dataset_BUSI_with_GT/malignant/malignant (163)_mask.png,train,train,test,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (164).png,Dataset_BUSI_with_GT/malignant/malignant (164)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (165).png,Dataset_BUSI_with_GT/malignant/malignant (165)_mask.png,test,train,train,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (166).png,Dataset_BUSI_with_GT/malignant/malignant (166)_mask.png,train,test,train,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (167).png,Dataset_BUSI_with_GT/malignant/malignant (167)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (168).png,Dataset_BUSI_with_GT/malignant/malignant (168)_mask.png,train,test,train,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (170).png,Dataset_BUSI_with_GT/malignant/malignant (170)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (171).png,Dataset_BUSI_with_GT/malignant/malignant (171)_mask.png,train,train,train,val,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (172).png,Dataset_BUSI_with_GT/malignant/malignant (172)_mask.png,test,val,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (173).png,Dataset_BUSI_with_GT/malignant/malignant (173)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (174).png,Dataset_BUSI_with_GT/malignant/malignant (174)_mask.png,train,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (175).png,Dataset_BUSI_with_GT/malignant/malignant (175)_mask.png,train,train,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (176).png,Dataset_BUSI_with_GT/malignant/malignant (176)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (177).png,Dataset_BUSI_with_GT/malignant/malignant (177)_mask.png,train,train,train,test,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (178).png,Dataset_BUSI_with_GT/malignant/malignant (178)_mask.png,train,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (179).png,Dataset_BUSI_with_GT/malignant/malignant (179)_mask.png,val,train,train,test,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (180).png,Dataset_BUSI_with_GT/malignant/malignant (180)_mask.png,val,val,train,test,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (181).png,Dataset_BUSI_with_GT/malignant/malignant (181)_mask.png,val,train,val,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (182).png,Dataset_BUSI_with_GT/malignant/malignant (182)_mask.png,train,test,train,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (183).png,Dataset_BUSI_with_GT/malignant/malignant (183)_mask.png,train,test,val,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (184).png,Dataset_BUSI_with_GT/malignant/malignant (184)_mask.png,train,train,val,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (185).png,Dataset_BUSI_with_GT/malignant/malignant (185)_mask.png,train,test,train,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (186).png,Dataset_BUSI_with_GT/malignant/malignant (186)_mask.png,train,val,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (187).png,Dataset_BUSI_with_GT/malignant/malignant (187)_mask.png,test,train,train,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (188).png,Dataset_BUSI_with_GT/malignant/malignant (188)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (189).png,Dataset_BUSI_with_GT/malignant/malignant (189)_mask.png,train,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (190).png,Dataset_BUSI_with_GT/malignant/malignant (190)_mask.png,train,val,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (191).png,Dataset_BUSI_with_GT/malignant/malignant (191)_mask.png,train,val,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (192).png,Dataset_BUSI_with_GT/malignant/malignant (192)_mask.png,train,train,val,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (193).png,Dataset_BUSI_with_GT/malignant/malignant (193)_mask.png,train,test,train,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (194).png,Dataset_BUSI_with_GT/malignant/malignant (194)_mask.png,train,train,train,test,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (195).png,Dataset_BUSI_with_GT/malignant/malignant (195)_mask.png,train,train,val,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (196).png,Dataset_BUSI_with_GT/malignant/malignant (196)_mask.png,train,val,test,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (197).png,Dataset_BUSI_with_GT/malignant/malignant (197)_mask.png,val,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (199).png,Dataset_BUSI_with_GT/malignant/malignant (199)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (200).png,Dataset_BUSI_with_GT/malignant/malignant (200)_mask.png,train,train,val,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (201).png,Dataset_BUSI_with_GT/malignant/malignant (201)_mask.png,val,train,train,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (202).png,Dataset_BUSI_with_GT/malignant/malignant (202)_mask.png,test,val,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (203).png,Dataset_BUSI_with_GT/malignant/malignant (203)_mask.png,train,val,val,train,test
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (204).png,Dataset_BUSI_with_GT/malignant/malignant (204)_mask.png,val,test,train,train,val
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (205).png,Dataset_BUSI_with_GT/malignant/malignant (205)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (206).png,Dataset_BUSI_with_GT/malignant/malignant (206)_mask.png,train,train,test,val,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (207).png,Dataset_BUSI_with_GT/malignant/malignant (207)_mask.png,train,train,train,test,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (208).png,Dataset_BUSI_with_GT/malignant/malignant (208)_mask.png,test,train,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (209).png,Dataset_BUSI_with_GT/malignant/malignant (209)_mask.png,train,test,train,train,train
+busi,1,Dataset_BUSI_with_GT/malignant/malignant (210).png,Dataset_BUSI_with_GT/malignant/malignant (210)_mask.png,train,train,val,val,test
+udiat,0,udiat/original/000001.png,udiat/GT/000001.png,val,train,train,train,test
+udiat,0,udiat/original/000002.png,udiat/GT/000002.png,train,train,test,train,train
+udiat,0,udiat/original/000003.png,udiat/GT/000003.png,train,train,train,train,test
+udiat,0,udiat/original/000004.png,udiat/GT/000004.png,train,test,train,train,train
+udiat,0,udiat/original/000005.png,udiat/GT/000005.png,train,train,val,test,train
+udiat,0,udiat/original/000006.png,udiat/GT/000006.png,train,train,test,train,val
+udiat,0,udiat/original/000007.png,udiat/GT/000007.png,train,train,train,val,test
+udiat,0,udiat/original/000008.png,udiat/GT/000008.png,train,train,train,test,train
+udiat,0,udiat/original/000009.png,udiat/GT/000009.png,test,train,train,train,train
+udiat,0,udiat/original/000010.png,udiat/GT/000010.png,train,train,val,train,test
+udiat,0,udiat/original/000011.png,udiat/GT/000011.png,test,train,train,train,val
+udiat,0,udiat/original/000012.png,udiat/GT/000012.png,test,train,train,val,train
+udiat,0,udiat/original/000013.png,udiat/GT/000013.png,test,val,train,train,train
+udiat,0,udiat/original/000014.png,udiat/GT/000014.png,test,val,train,val,train
+udiat,0,udiat/original/000015.png,udiat/GT/000015.png,test,train,train,train,train
+udiat,0,udiat/original/000016.png,udiat/GT/000016.png,train,train,test,train,val
+udiat,0,udiat/original/000017.png,udiat/GT/000017.png,train,train,test,train,train
+udiat,0,udiat/original/000019.png,udiat/GT/000019.png,test,train,train,val,train
+udiat,0,udiat/original/000020.png,udiat/GT/000020.png,train,train,test,train,train
+udiat,0,udiat/original/000021.png,udiat/GT/000021.png,train,train,val,val,test
+udiat,0,udiat/original/000022.png,udiat/GT/000022.png,val,test,train,train,train
+udiat,0,udiat/original/000026.png,udiat/GT/000026.png,train,val,train,train,test
+udiat,0,udiat/original/000032.png,udiat/GT/000032.png,test,train,train,train,val
+udiat,0,udiat/original/000033.png,udiat/GT/000033.png,train,test,train,train,train
+udiat,0,udiat/original/000034.png,udiat/GT/000034.png,train,val,train,train,test
+udiat,0,udiat/original/000035.png,udiat/GT/000035.png,val,val,train,train,test
+udiat,0,udiat/original/000036.png,udiat/GT/000036.png,train,train,test,train,train
+udiat,0,udiat/original/000037.png,udiat/GT/000037.png,train,train,train,test,train
+udiat,0,udiat/original/000038.png,udiat/GT/000038.png,train,test,train,train,train
+udiat,0,udiat/original/000039.png,udiat/GT/000039.png,train,val,test,train,train
+udiat,0,udiat/original/000051.png,udiat/GT/000051.png,train,train,val,train,test
+udiat,0,udiat/original/000052.png,udiat/GT/000052.png,train,train,train,train,test
+udiat,0,udiat/original/000056.png,udiat/GT/000056.png,test,val,train,train,train
+udiat,0,udiat/original/000058.png,udiat/GT/000058.png,val,test,train,train,val
+udiat,0,udiat/original/000059.png,udiat/GT/000059.png,train,train,test,train,train
+udiat,0,udiat/original/000060.png,udiat/GT/000060.png,train,val,test,train,train
+udiat,0,udiat/original/000061.png,udiat/GT/000061.png,val,train,test,val,train
+udiat,0,udiat/original/000062.png,udiat/GT/000062.png,val,val,val,train,test
+udiat,0,udiat/original/000063.png,udiat/GT/000063.png,test,train,train,train,train
+udiat,0,udiat/original/000064.png,udiat/GT/000064.png,train,train,test,train,train
+udiat,0,udiat/original/000065.png,udiat/GT/000065.png,train,test,val,train,train
+udiat,0,udiat/original/000066.png,udiat/GT/000066.png,test,train,train,train,train
+udiat,0,udiat/original/000067.png,udiat/GT/000067.png,train,train,test,train,train
+udiat,0,udiat/original/000068.png,udiat/GT/000068.png,test,train,train,train,train
+udiat,0,udiat/original/000069.png,udiat/GT/000069.png,train,train,train,train,test
+udiat,0,udiat/original/000070.png,udiat/GT/000070.png,train,train,train,test,val
+udiat,0,udiat/original/000071.png,udiat/GT/000071.png,train,train,train,train,test
+udiat,0,udiat/original/000072.png,udiat/GT/000072.png,train,train,test,train,train
+udiat,0,udiat/original/000073.png,udiat/GT/000073.png,test,train,train,train,train
+udiat,0,udiat/original/000074.png,udiat/GT/000074.png,train,test,train,train,train
+udiat,0,udiat/original/000075.png,udiat/GT/000075.png,train,train,train,test,train
+udiat,0,udiat/original/000076.png,udiat/GT/000076.png,train,test,train,val,val
+udiat,0,udiat/original/000077.png,udiat/GT/000077.png,train,train,train,test,train
+udiat,0,udiat/original/000078.png,udiat/GT/000078.png,train,test,train,train,train
+udiat,0,udiat/original/000079.png,udiat/GT/000079.png,train,train,train,train,test
+udiat,0,udiat/original/000080.png,udiat/GT/000080.png,train,train,test,train,val
+udiat,0,udiat/original/000081.png,udiat/GT/000081.png,train,test,train,train,train
+udiat,0,udiat/original/000082.png,udiat/GT/000082.png,train,test,train,train,train
+udiat,0,udiat/original/000083.png,udiat/GT/000083.png,val,train,val,test,val
+udiat,0,udiat/original/000084.png,udiat/GT/000084.png,test,val,train,train,train
+udiat,0,udiat/original/000085.png,udiat/GT/000085.png,train,train,test,train,train
+udiat,0,udiat/original/000086.png,udiat/GT/000086.png,train,val,train,test,train
+udiat,0,udiat/original/000087.png,udiat/GT/000087.png,test,train,train,train,train
+udiat,0,udiat/original/000088.png,udiat/GT/000088.png,train,train,val,test,val
+udiat,0,udiat/original/000089.png,udiat/GT/000089.png,val,train,train,test,train
+udiat,0,udiat/original/000090.png,udiat/GT/000090.png,train,train,test,val,train
+udiat,0,udiat/original/000091.png,udiat/GT/000091.png,train,test,train,train,train
+udiat,0,udiat/original/000092.png,udiat/GT/000092.png,train,test,train,val,train
+udiat,0,udiat/original/000093.png,udiat/GT/000093.png,train,train,test,train,train
+udiat,0,udiat/original/000094.png,udiat/GT/000094.png,val,test,train,train,val
+udiat,0,udiat/original/000095.png,udiat/GT/000095.png,test,train,train,train,train
+udiat,0,udiat/original/000096.png,udiat/GT/000096.png,val,train,train,test,val
+udiat,0,udiat/original/000097.png,udiat/GT/000097.png,train,val,val,test,train
+udiat,0,udiat/original/000098.png,udiat/GT/000098.png,train,train,test,val,train
+udiat,0,udiat/original/000099.png,udiat/GT/000099.png,train,train,train,test,val
+udiat,0,udiat/original/000100.png,udiat/GT/000100.png,train,test,train,train,train
+udiat,0,udiat/original/000101.png,udiat/GT/000101.png,test,val,val,val,train
+udiat,0,udiat/original/000102.png,udiat/GT/000102.png,test,train,train,train,train
+udiat,0,udiat/original/000103.png,udiat/GT/000103.png,val,train,train,test,train
+udiat,0,udiat/original/000104.png,udiat/GT/000104.png,test,train,train,train,train
+udiat,0,udiat/original/000105.png,udiat/GT/000105.png,train,train,train,train,test
+udiat,0,udiat/original/000106.png,udiat/GT/000106.png,train,test,train,train,train
+udiat,0,udiat/original/000107.png,udiat/GT/000107.png,train,test,train,train,train
+udiat,0,udiat/original/000108.png,udiat/GT/000108.png,train,train,train,test,train
+udiat,0,udiat/original/000109.png,udiat/GT/000109.png,val,train,val,test,train
+udiat,0,udiat/original/000110.png,udiat/GT/000110.png,train,test,val,train,val
+udiat,0,udiat/original/000111.png,udiat/GT/000111.png,train,train,train,train,test
+udiat,0,udiat/original/000112.png,udiat/GT/000112.png,train,train,val,train,test
+udiat,0,udiat/original/000113.png,udiat/GT/000113.png,train,train,train,test,train
+udiat,0,udiat/original/000114.png,udiat/GT/000114.png,train,test,train,train,train
+udiat,0,udiat/original/000115.png,udiat/GT/000115.png,test,train,train,train,train
+udiat,0,udiat/original/000116.png,udiat/GT/000116.png,test,train,train,train,train
+udiat,0,udiat/original/000117.png,udiat/GT/000117.png,train,val,train,test,train
+udiat,0,udiat/original/000118.png,udiat/GT/000118.png,train,train,train,test,train
+udiat,0,udiat/original/000119.png,udiat/GT/000119.png,val,train,train,test,train
+udiat,0,udiat/original/000120.png,udiat/GT/000120.png,train,train,train,train,test
+udiat,0,udiat/original/000121.png,udiat/GT/000121.png,train,train,test,val,train
+udiat,0,udiat/original/000122.png,udiat/GT/000122.png,val,train,val,val,test
+udiat,0,udiat/original/000123.png,udiat/GT/000123.png,val,train,train,train,test
+udiat,0,udiat/original/000124.png,udiat/GT/000124.png,test,train,val,train,val
+udiat,0,udiat/original/000125.png,udiat/GT/000125.png,train,train,test,train,train
+udiat,0,udiat/original/000126.png,udiat/GT/000126.png,train,train,train,test,train
+udiat,0,udiat/original/000127.png,udiat/GT/000127.png,train,train,test,val,val
+udiat,0,udiat/original/000128.png,udiat/GT/000128.png,train,test,train,val,train
+udiat,0,udiat/original/000129.png,udiat/GT/000129.png,train,val,train,train,test
+udiat,0,udiat/original/000130.png,udiat/GT/000130.png,train,test,val,val,train
+udiat,0,udiat/original/000131.png,udiat/GT/000131.png,train,test,train,train,train
+udiat,1,udiat/original/000018.png,udiat/GT/000018.png,train,train,val,val,test
+udiat,1,udiat/original/000023.png,udiat/GT/000023.png,train,val,train,test,train
+udiat,1,udiat/original/000024.png,udiat/GT/000024.png,train,val,test,train,train
+udiat,1,udiat/original/000025.png,udiat/GT/000025.png,val,train,test,val,val
+udiat,1,udiat/original/000027.png,udiat/GT/000027.png,val,train,test,train,train
+udiat,1,udiat/original/000028.png,udiat/GT/000028.png,train,test,train,train,val
+udiat,1,udiat/original/000029.png,udiat/GT/000029.png,train,train,train,test,train
+udiat,1,udiat/original/000030.png,udiat/GT/000030.png,train,test,train,val,train
+udiat,1,udiat/original/000031.png,udiat/GT/000031.png,test,train,val,train,train
+udiat,1,udiat/original/000041.png,udiat/GT/000041.png,test,train,train,train,train
+udiat,1,udiat/original/000043.png,udiat/GT/000043.png,train,test,val,train,train
+udiat,1,udiat/original/000044.png,udiat/GT/000044.png,train,train,train,train,test
+udiat,1,udiat/original/000045.png,udiat/GT/000045.png,val,train,train,test,train
+udiat,1,udiat/original/000046.png,udiat/GT/000046.png,train,val,test,train,val
+udiat,1,udiat/original/000047.png,udiat/GT/000047.png,train,train,train,train,test
+udiat,1,udiat/original/000048.png,udiat/GT/000048.png,val,train,train,test,val
+udiat,1,udiat/original/000049.png,udiat/GT/000049.png,test,train,val,train,train
+udiat,1,udiat/original/000050.png,udiat/GT/000050.png,train,test,train,train,train
+udiat,1,udiat/original/000053.png,udiat/GT/000053.png,test,train,train,train,train
+udiat,1,udiat/original/000054.png,udiat/GT/000054.png,train,train,train,test,val
+udiat,1,udiat/original/000055.png,udiat/GT/000055.png,train,train,val,test,train
+udiat,1,udiat/original/000057.png,udiat/GT/000057.png,train,test,train,train,val
+udiat,1,udiat/original/000132.png,udiat/GT/000132.png,train,train,train,test,train
+udiat,1,udiat/original/000133.png,udiat/GT/000133.png,val,test,train,train,train
+udiat,1,udiat/original/000134.png,udiat/GT/000134.png,val,train,test,train,train
+udiat,1,udiat/original/000135.png,udiat/GT/000135.png,test,train,train,train,train
+udiat,1,udiat/original/000136.png,udiat/GT/000136.png,train,train,test,train,train
+udiat,1,udiat/original/000137.png,udiat/GT/000137.png,test,train,train,train,train
+udiat,1,udiat/original/000138.png,udiat/GT/000138.png,train,train,train,train,test
+udiat,1,udiat/original/000139.png,udiat/GT/000139.png,train,train,test,train,train
+udiat,1,udiat/original/000140.png,udiat/GT/000140.png,train,train,train,train,test
+udiat,1,udiat/original/000141.png,udiat/GT/000141.png,train,train,test,train,train
+udiat,1,udiat/original/000142.png,udiat/GT/000142.png,train,train,train,train,test
+udiat,1,udiat/original/000143.png,udiat/GT/000143.png,test,train,train,train,train
+udiat,1,udiat/original/000144.png,udiat/GT/000144.png,test,train,train,train,train
+udiat,1,udiat/original/000145.png,udiat/GT/000145.png,train,test,train,train,train
+udiat,1,udiat/original/000146.png,udiat/GT/000146.png,train,train,train,val,test
+udiat,1,udiat/original/000147.png,udiat/GT/000147.png,train,test,train,train,train
+udiat,1,udiat/original/000295.png,udiat/GT/000295.png,train,test,val,val,train
+udiat,1,udiat/original/000296.png,udiat/GT/000296.png,train,val,test,val,train
+udiat,1,udiat/original/000297.png,udiat/GT/000297.png,test,train,train,train,val
+udiat,1,udiat/original/000298.png,udiat/GT/000298.png,train,train,test,val,train
+udiat,1,udiat/original/000299.png,udiat/GT/000299.png,val,val,train,train,test
+udiat,1,udiat/original/000300.png,udiat/GT/000300.png,train,train,train,test,train
+udiat,1,udiat/original/000301.png,udiat/GT/000301.png,train,val,train,train,test
+udiat,1,udiat/original/000302.png,udiat/GT/000302.png,train,train,train,test,train
+udiat,1,udiat/original/000303.png,udiat/GT/000303.png,test,val,train,train,train
+udiat,1,udiat/original/000304.png,udiat/GT/000304.png,train,train,val,test,val
+udiat,1,udiat/original/000305.png,udiat/GT/000305.png,train,train,test,train,train
+udiat,1,udiat/original/000306.png,udiat/GT/000306.png,train,train,train,train,test
+udiat,1,udiat/original/000307.png,udiat/GT/000307.png,val,test,train,train,train
+udiat,1,udiat/original/000308.png,udiat/GT/000308.png,train,val,train,test,train
+oasbud,0,oasbud/images/benign_1.png,oasbud/masks/benign_1.png,train,train,train,train,test
+oasbud,0,oasbud/images/benign_100.png,oasbud/masks/benign_100.png,test,train,train,train,train
+oasbud,0,oasbud/images/benign_12.png,oasbud/masks/benign_12.png,test,val,val,train,train
+oasbud,0,oasbud/images/benign_15.png,oasbud/masks/benign_15.png,train,train,train,test,train
+oasbud,0,oasbud/images/benign_16.png,oasbud/masks/benign_16.png,train,test,train,train,train
+oasbud,0,oasbud/images/benign_17.png,oasbud/masks/benign_17.png,train,val,train,test,val
+oasbud,0,oasbud/images/benign_19.png,oasbud/masks/benign_19.png,train,train,test,train,val
+oasbud,0,oasbud/images/benign_2.png,oasbud/masks/benign_2.png,val,train,test,val,train
+oasbud,0,oasbud/images/benign_21.png,oasbud/masks/benign_21.png,train,train,test,train,train
+oasbud,0,oasbud/images/benign_23.png,oasbud/masks/benign_23.png,train,val,train,test,train
+oasbud,0,oasbud/images/benign_24.png,oasbud/masks/benign_24.png,train,train,val,val,test
+oasbud,0,oasbud/images/benign_25.png,oasbud/masks/benign_25.png,train,train,test,train,val
+oasbud,0,oasbud/images/benign_26.png,oasbud/masks/benign_26.png,test,val,train,train,val
+oasbud,0,oasbud/images/benign_27.png,oasbud/masks/benign_27.png,val,train,train,test,train
+oasbud,0,oasbud/images/benign_3.png,oasbud/masks/benign_3.png,test,train,train,train,train
+oasbud,0,oasbud/images/benign_30.png,oasbud/masks/benign_30.png,train,train,train,test,train
+oasbud,0,oasbud/images/benign_32.png,oasbud/masks/benign_32.png,test,train,train,val,train
+oasbud,0,oasbud/images/benign_33.png,oasbud/masks/benign_33.png,train,train,test,train,train
+oasbud,0,oasbud/images/benign_34.png,oasbud/masks/benign_34.png,train,train,test,train,train
+oasbud,0,oasbud/images/benign_36.png,oasbud/masks/benign_36.png,train,train,train,test,train
+oasbud,0,oasbud/images/benign_37.png,oasbud/masks/benign_37.png,train,train,train,val,test
+oasbud,0,oasbud/images/benign_38.png,oasbud/masks/benign_38.png,train,test,train,train,val
+oasbud,0,oasbud/images/benign_39.png,oasbud/masks/benign_39.png,val,train,train,train,test
+oasbud,0,oasbud/images/benign_40.png,oasbud/masks/benign_40.png,train,test,train,train,train
+oasbud,0,oasbud/images/benign_41.png,oasbud/masks/benign_41.png,test,val,train,train,train
+oasbud,0,oasbud/images/benign_42.png,oasbud/masks/benign_42.png,val,train,train,test,train
+oasbud,0,oasbud/images/benign_43.png,oasbud/masks/benign_43.png,train,train,train,train,test
+oasbud,0,oasbud/images/benign_44.png,oasbud/masks/benign_44.png,train,train,train,train,test
+oasbud,0,oasbud/images/benign_45.png,oasbud/masks/benign_45.png,train,train,test,train,train
+oasbud,0,oasbud/images/benign_46.png,oasbud/masks/benign_46.png,train,test,val,val,train
+oasbud,0,oasbud/images/benign_47.png,oasbud/masks/benign_47.png,train,test,train,train,train
+oasbud,0,oasbud/images/benign_48.png,oasbud/masks/benign_48.png,train,train,train,train,test
+oasbud,0,oasbud/images/benign_49.png,oasbud/masks/benign_49.png,train,train,train,train,test
+oasbud,0,oasbud/images/benign_5.png,oasbud/masks/benign_5.png,test,train,train,val,val
+oasbud,0,oasbud/images/benign_50.png,oasbud/masks/benign_50.png,val,test,train,train,train
+oasbud,0,oasbud/images/benign_51.png,oasbud/masks/benign_51.png,train,test,train,train,train
+oasbud,0,oasbud/images/benign_52.png,oasbud/masks/benign_52.png,train,train,test,train,train
+oasbud,0,oasbud/images/benign_53.png,oasbud/masks/benign_53.png,test,train,train,train,train
+oasbud,0,oasbud/images/benign_54.png,oasbud/masks/benign_54.png,val,train,test,train,train
+oasbud,0,oasbud/images/benign_55.png,oasbud/masks/benign_55.png,train,val,train,test,train
+oasbud,0,oasbud/images/benign_56.png,oasbud/masks/benign_56.png,test,train,val,train,train
+oasbud,0,oasbud/images/benign_57.png,oasbud/masks/benign_57.png,train,train,test,train,val
+oasbud,0,oasbud/images/benign_58.png,oasbud/masks/benign_58.png,test,train,train,train,train
+oasbud,0,oasbud/images/benign_59.png,oasbud/masks/benign_59.png,train,train,val,train,test
+oasbud,0,oasbud/images/benign_7.png,oasbud/masks/benign_7.png,val,test,train,train,train
+oasbud,0,oasbud/images/benign_8.png,oasbud/masks/benign_8.png,train,val,train,test,train
+oasbud,0,oasbud/images/benign_9.png,oasbud/masks/benign_9.png,train,test,val,train,train
+oasbud,0,oasbud/images/benign_99.png,oasbud/masks/benign_99.png,train,test,val,val,train
+oasbud,1,oasbud/images/malignant_10.png,oasbud/masks/malignant_10.png,train,train,train,train,test
+oasbud,1,oasbud/images/malignant_11.png,oasbud/masks/malignant_11.png,train,train,test,val,train
+oasbud,1,oasbud/images/malignant_13.png,oasbud/masks/malignant_13.png,train,test,val,val,train
+oasbud,1,oasbud/images/malignant_14.png,oasbud/masks/malignant_14.png,train,train,train,val,test
+oasbud,1,oasbud/images/malignant_18.png,oasbud/masks/malignant_18.png,train,train,test,train,train
+oasbud,1,oasbud/images/malignant_20.png,oasbud/masks/malignant_20.png,train,val,val,train,test
+oasbud,1,oasbud/images/malignant_22.png,oasbud/masks/malignant_22.png,test,train,train,train,train
+oasbud,1,oasbud/images/malignant_28.png,oasbud/masks/malignant_28.png,test,train,train,train,train
+oasbud,1,oasbud/images/malignant_29.png,oasbud/masks/malignant_29.png,test,val,train,train,train
+oasbud,1,oasbud/images/malignant_31.png,oasbud/masks/malignant_31.png,train,train,train,train,test
+oasbud,1,oasbud/images/malignant_35.png,oasbud/masks/malignant_35.png,train,train,test,train,train
+oasbud,1,oasbud/images/malignant_4.png,oasbud/masks/malignant_4.png,train,train,train,test,train
+oasbud,1,oasbud/images/malignant_6.png,oasbud/masks/malignant_6.png,test,train,train,train,val
+oasbud,1,oasbud/images/malignant_60.png,oasbud/masks/malignant_60.png,train,train,test,train,train
+oasbud,1,oasbud/images/malignant_61.png,oasbud/masks/malignant_61.png,test,train,train,val,train
+oasbud,1,oasbud/images/malignant_62.png,oasbud/masks/malignant_62.png,train,val,test,train,train
+oasbud,1,oasbud/images/malignant_63.png,oasbud/masks/malignant_63.png,test,train,train,train,train
+oasbud,1,oasbud/images/malignant_64.png,oasbud/masks/malignant_64.png,test,val,train,train,val
+oasbud,1,oasbud/images/malignant_65.png,oasbud/masks/malignant_65.png,train,test,train,train,train
+oasbud,1,oasbud/images/malignant_66.png,oasbud/masks/malignant_66.png,train,train,test,train,train
+oasbud,1,oasbud/images/malignant_67.png,oasbud/masks/malignant_67.png,train,train,train,test,val
+oasbud,1,oasbud/images/malignant_68.png,oasbud/masks/malignant_68.png,test,train,train,train,val
+oasbud,1,oasbud/images/malignant_69.png,oasbud/masks/malignant_69.png,train,train,test,train,train
+oasbud,1,oasbud/images/malignant_70.png,oasbud/masks/malignant_70.png,train,val,train,train,test
+oasbud,1,oasbud/images/malignant_71.png,oasbud/masks/malignant_71.png,val,train,train,train,test
+oasbud,1,oasbud/images/malignant_72.png,oasbud/masks/malignant_72.png,train,train,val,test,val
+oasbud,1,oasbud/images/malignant_73.png,oasbud/masks/malignant_73.png,train,val,train,train,test
+oasbud,1,oasbud/images/malignant_74.png,oasbud/masks/malignant_74.png,train,train,train,train,test
+oasbud,1,oasbud/images/malignant_75.png,oasbud/masks/malignant_75.png,train,train,train,train,test
+oasbud,1,oasbud/images/malignant_76.png,oasbud/masks/malignant_76.png,train,train,train,test,train
+oasbud,1,oasbud/images/malignant_77.png,oasbud/masks/malignant_77.png,train,test,train,train,train
+oasbud,1,oasbud/images/malignant_78.png,oasbud/masks/malignant_78.png,train,train,test,train,val
+oasbud,1,oasbud/images/malignant_79.png,oasbud/masks/malignant_79.png,train,test,val,train,val
+oasbud,1,oasbud/images/malignant_80.png,oasbud/masks/malignant_80.png,train,train,train,test,train
+oasbud,1,oasbud/images/malignant_81.png,oasbud/masks/malignant_81.png,train,train,val,train,test
+oasbud,1,oasbud/images/malignant_82.png,oasbud/masks/malignant_82.png,val,train,train,test,train
+oasbud,1,oasbud/images/malignant_83.png,oasbud/masks/malignant_83.png,train,test,train,train,train
+oasbud,1,oasbud/images/malignant_84.png,oasbud/masks/malignant_84.png,train,val,train,test,train
+oasbud,1,oasbud/images/malignant_85.png,oasbud/masks/malignant_85.png,train,train,test,train,train
+oasbud,1,oasbud/images/malignant_86.png,oasbud/masks/malignant_86.png,test,train,val,val,train
+oasbud,1,oasbud/images/malignant_87.png,oasbud/masks/malignant_87.png,val,test,train,val,val
+oasbud,1,oasbud/images/malignant_88.png,oasbud/masks/malignant_88.png,train,test,val,train,train
+oasbud,1,oasbud/images/malignant_89.png,oasbud/masks/malignant_89.png,train,test,train,train,train
+oasbud,1,oasbud/images/malignant_90.png,oasbud/masks/malignant_90.png,train,val,val,val,test
+oasbud,1,oasbud/images/malignant_91.png,oasbud/masks/malignant_91.png,train,train,test,val,train
+oasbud,1,oasbud/images/malignant_92.png,oasbud/masks/malignant_92.png,val,train,train,test,train
+oasbud,1,oasbud/images/malignant_93.png,oasbud/masks/malignant_93.png,val,train,train,test,train
+oasbud,1,oasbud/images/malignant_94.png,oasbud/masks/malignant_94.png,val,test,train,train,train
+oasbud,1,oasbud/images/malignant_95.png,oasbud/masks/malignant_95.png,val,train,train,test,train
+oasbud,1,oasbud/images/malignant_96.png,oasbud/masks/malignant_96.png,val,test,train,train,train
+oasbud,1,oasbud/images/malignant_97.png,oasbud/masks/malignant_97.png,train,train,train,test,train
+oasbud,1,oasbud/images/malignant_98.png,oasbud/masks/malignant_98.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_11130.png,ultrasoundcases/masks/lbox_11130.png,test,train,train,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_11152.png,ultrasoundcases/masks/lbox_11152.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_11546.png,ultrasoundcases/masks/lbox_11546.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_15330.png,ultrasoundcases/masks/lbox_15330.png,train,train,val,test,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_15409.png,ultrasoundcases/masks/lbox_15409.png,train,train,train,test,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_15708.png,ultrasoundcases/masks/lbox_15708.png,test,train,train,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_15913.png,ultrasoundcases/masks/lbox_15913.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_15917.png,ultrasoundcases/masks/lbox_15917.png,train,test,train,val,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_16256.png,ultrasoundcases/masks/lbox_16256.png,test,train,train,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_17222.png,ultrasoundcases/masks/lbox_17222.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_17728.png,ultrasoundcases/masks/lbox_17728.png,train,train,train,test,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_19584.png,ultrasoundcases/masks/lbox_19584.png,train,train,val,val,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_19587.png,ultrasoundcases/masks/lbox_19587.png,val,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_20034.png,ultrasoundcases/masks/lbox_20034.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_20603.png,ultrasoundcases/masks/lbox_20603.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_21324.png,ultrasoundcases/masks/lbox_21324.png,train,train,train,val,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_21333.png,ultrasoundcases/masks/lbox_21333.png,val,val,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_22048.png,ultrasoundcases/masks/lbox_22048.png,val,val,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_22058.png,ultrasoundcases/masks/lbox_22058.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_22957.png,ultrasoundcases/masks/lbox_22957.png,train,train,test,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_23674.png,ultrasoundcases/masks/lbox_23674.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_23676.png,ultrasoundcases/masks/lbox_23676.png,train,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_24490.png,ultrasoundcases/masks/lbox_24490.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_25127.png,ultrasoundcases/masks/lbox_25127.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_25134.png,ultrasoundcases/masks/lbox_25134.png,train,train,test,val,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_25137.png,ultrasoundcases/masks/lbox_25137.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_25680.png,ultrasoundcases/masks/lbox_25680.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_26046.png,ultrasoundcases/masks/lbox_26046.png,train,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_26053.png,ultrasoundcases/masks/lbox_26053.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_26067.png,ultrasoundcases/masks/lbox_26067.png,train,train,train,val,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_26567.png,ultrasoundcases/masks/lbox_26567.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_33298-Afbeelding1.png,ultrasoundcases/masks/lbox_33298-Afbeelding1.png,train,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_34823-Afbeelding1.png,ultrasoundcases/masks/lbox_34823-Afbeelding1.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_35905-Afbeelding1.png,ultrasoundcases/masks/lbox_35905-Afbeelding1.png,val,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_38847-Afbeelding1.png,ultrasoundcases/masks/lbox_38847-Afbeelding1.png,train,train,test,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_39094-Afbeelding1.png,ultrasoundcases/masks/lbox_39094-Afbeelding1.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_39166-Afbeelding1.png,ultrasoundcases/masks/lbox_39166-Afbeelding1.png,train,test,train,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_39280-Afbeelding1.png,ultrasoundcases/masks/lbox_39280-Afbeelding1.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_40456-Afbeelding2.png,ultrasoundcases/masks/lbox_40456-Afbeelding2.png,train,train,val,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_40473-Afbeelding3.png,ultrasoundcases/masks/lbox_40473-Afbeelding3.png,train,val,val,test,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_40895-Afbeelding1.png,ultrasoundcases/masks/lbox_40895-Afbeelding1.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_41570-Afbeelding1.png,ultrasoundcases/masks/lbox_41570-Afbeelding1.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_41590-Afbeelding4.png,ultrasoundcases/masks/lbox_41590-Afbeelding4.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_41608-Afbeelding3.png,ultrasoundcases/masks/lbox_41608-Afbeelding3.png,train,val,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_41623-Afbeelding1.png,ultrasoundcases/masks/lbox_41623-Afbeelding1.png,train,train,val,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_42185-Afbeelding1.png,ultrasoundcases/masks/lbox_42185-Afbeelding1.png,train,val,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_42210-Afbeelding1.png,ultrasoundcases/masks/lbox_42210-Afbeelding1.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_42218-Afbeelding2.png,ultrasoundcases/masks/lbox_42218-Afbeelding2.png,val,test,val,val,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_42815-Afbeelding3.png,ultrasoundcases/masks/lbox_42815-Afbeelding3.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_42825-Afbeelding1.png,ultrasoundcases/masks/lbox_42825-Afbeelding1.png,train,test,train,val,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_42870-Afbeelding4.png,ultrasoundcases/masks/lbox_42870-Afbeelding4.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_43720-Afbeelding1.png,ultrasoundcases/masks/lbox_43720-Afbeelding1.png,val,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_43733-Afbeelding2.png,ultrasoundcases/masks/lbox_43733-Afbeelding2.png,test,val,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_43749-Afbeelding6.png,ultrasoundcases/masks/lbox_43749-Afbeelding6.png,train,train,val,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_43752-Afbeelding1.png,ultrasoundcases/masks/lbox_43752-Afbeelding1.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_44918-Afbeelding1.png,ultrasoundcases/masks/lbox_44918-Afbeelding1.png,val,val,val,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_45607-Afbeelding1.png,ultrasoundcases/masks/lbox_45607-Afbeelding1.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_45622-Afbeelding1.png,ultrasoundcases/masks/lbox_45622-Afbeelding1.png,val,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_45647-Afbeelding1.png,ultrasoundcases/masks/lbox_45647-Afbeelding1.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_46050-Afbeelding4.png,ultrasoundcases/masks/lbox_46050-Afbeelding4.png,train,val,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_46083-Afbeelding3.png,ultrasoundcases/masks/lbox_46083-Afbeelding3.png,test,train,train,val,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_47524-Afbeelding3.png,ultrasoundcases/masks/lbox_47524-Afbeelding3.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_47536-Afbeelding1.png,ultrasoundcases/masks/lbox_47536-Afbeelding1.png,val,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_47555-Afbeelding1.png,ultrasoundcases/masks/lbox_47555-Afbeelding1.png,train,train,test,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_47565-Afbeelding1.png,ultrasoundcases/masks/lbox_47565-Afbeelding1.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_47830-Afbeelding1.png,ultrasoundcases/masks/lbox_47830-Afbeelding1.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_48848-Afbeelding1.png,ultrasoundcases/masks/lbox_48848-Afbeelding1.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_48873-Afbeelding6.png,ultrasoundcases/masks/lbox_48873-Afbeelding6.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_48956-Afbeelding1.png,ultrasoundcases/masks/lbox_48956-Afbeelding1.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_48970-Afbeelding4.png,ultrasoundcases/masks/lbox_48970-Afbeelding4.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_49631-Afbeelding2.png,ultrasoundcases/masks/lbox_49631-Afbeelding2.png,train,test,train,val,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_49643-Afbeelding1.png,ultrasoundcases/masks/lbox_49643-Afbeelding1.png,val,train,test,val,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_50102-Afbeelding1.png,ultrasoundcases/masks/lbox_50102-Afbeelding1.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_50115-Afbeelding1.png,ultrasoundcases/masks/lbox_50115-Afbeelding1.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_50164-Afbeelding2.png,ultrasoundcases/masks/lbox_50164-Afbeelding2.png,train,train,val,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_50541-Afbeelding4.png,ultrasoundcases/masks/lbox_50541-Afbeelding4.png,val,test,train,val,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_50553-Afbeelding1.png,ultrasoundcases/masks/lbox_50553-Afbeelding1.png,train,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_50569-Afbeelding1.png,ultrasoundcases/masks/lbox_50569-Afbeelding1.png,train,test,val,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_50587-Afbeelding2.png,ultrasoundcases/masks/lbox_50587-Afbeelding2.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_50616-Afbeelding1.png,ultrasoundcases/masks/lbox_50616-Afbeelding1.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_51125-Afbeelding2.png,ultrasoundcases/masks/lbox_51125-Afbeelding2.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_51134-Afbeelding1.png,ultrasoundcases/masks/lbox_51134-Afbeelding1.png,test,val,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_51145-Afbeelding1.png,ultrasoundcases/masks/lbox_51145-Afbeelding1.png,test,train,train,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_51690-Afbeelding1.png,ultrasoundcases/masks/lbox_51690-Afbeelding1.png,train,test,val,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_51701-Afbeelding1.png,ultrasoundcases/masks/lbox_51701-Afbeelding1.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_52307-Afbeelding1.png,ultrasoundcases/masks/lbox_52307-Afbeelding1.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_52321-Afbeelding1.png,ultrasoundcases/masks/lbox_52321-Afbeelding1.png,test,val,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_52329-Afbeelding1.png,ultrasoundcases/masks/lbox_52329-Afbeelding1.png,val,test,train,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_52403-Afbeelding4.png,ultrasoundcases/masks/lbox_52403-Afbeelding4.png,val,train,val,val,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_52824-Afbeelding1.png,ultrasoundcases/masks/lbox_52824-Afbeelding1.png,train,test,train,val,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_52838-Afbeelding1.png,ultrasoundcases/masks/lbox_52838-Afbeelding1.png,val,train,train,val,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_52876-Afbeelding2.png,ultrasoundcases/masks/lbox_52876-Afbeelding2.png,val,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_52922-Afbeelding1.png,ultrasoundcases/masks/lbox_52922-Afbeelding1.png,test,train,val,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_52935-Afbeelding1.png,ultrasoundcases/masks/lbox_52935-Afbeelding1.png,train,val,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_54054-Afbeelding4.png,ultrasoundcases/masks/lbox_54054-Afbeelding4.png,train,train,val,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_54417-Afbeelding1.png,ultrasoundcases/masks/lbox_54417-Afbeelding1.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_54432-Afbeelding1.png,ultrasoundcases/masks/lbox_54432-Afbeelding1.png,train,val,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_54655-Afbeelding2.png,ultrasoundcases/masks/lbox_54655-Afbeelding2.png,train,train,val,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5672.png,ultrasoundcases/masks/lbox_5672.png,train,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_56814-Afbeelding1.png,ultrasoundcases/masks/lbox_56814-Afbeelding1.png,val,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_56829-Afbeelding1.png,ultrasoundcases/masks/lbox_56829-Afbeelding1.png,val,val,train,val,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_5686.png,ultrasoundcases/masks/lbox_5686.png,train,train,train,test,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_5690.png,ultrasoundcases/masks/lbox_5690.png,train,train,test,val,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5691.png,ultrasoundcases/masks/lbox_5691.png,train,val,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5706.png,ultrasoundcases/masks/lbox_5706.png,train,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5712.png,ultrasoundcases/masks/lbox_5712.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_5734.png,ultrasoundcases/masks/lbox_5734.png,train,train,train,test,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_5740.png,ultrasoundcases/masks/lbox_5740.png,train,val,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5753.png,ultrasoundcases/masks/lbox_5753.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_5755.png,ultrasoundcases/masks/lbox_5755.png,train,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5761.png,ultrasoundcases/masks/lbox_5761.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5767.png,ultrasoundcases/masks/lbox_5767.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5769.png,ultrasoundcases/masks/lbox_5769.png,train,test,val,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5781.png,ultrasoundcases/masks/lbox_5781.png,val,train,val,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5795.png,ultrasoundcases/masks/lbox_5795.png,train,train,test,val,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5796.png,ultrasoundcases/masks/lbox_5796.png,val,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5826.png,ultrasoundcases/masks/lbox_5826.png,train,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5850.png,ultrasoundcases/masks/lbox_5850.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_58509-Afbeelding2.png,ultrasoundcases/masks/lbox_58509-Afbeelding2.png,train,val,test,val,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_5853.png,ultrasoundcases/masks/lbox_5853.png,train,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5864.png,ultrasoundcases/masks/lbox_5864.png,train,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5893.png,ultrasoundcases/masks/lbox_5893.png,test,train,val,val,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_5916.png,ultrasoundcases/masks/lbox_5916.png,val,val,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_5924.png,ultrasoundcases/masks/lbox_5924.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_59492-Afbeelding3.png,ultrasoundcases/masks/lbox_59492-Afbeelding3.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_59615-Afbeelding4.png,ultrasoundcases/masks/lbox_59615-Afbeelding4.png,test,val,val,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_60173-Afbeelding1.png,ultrasoundcases/masks/lbox_60173-Afbeelding1.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_60442-Afbeelding1.png,ultrasoundcases/masks/lbox_60442-Afbeelding1.png,train,train,val,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_61470-Afbeelding2.png,ultrasoundcases/masks/lbox_61470-Afbeelding2.png,train,train,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_61542-Afbeelding6.png,ultrasoundcases/masks/lbox_61542-Afbeelding6.png,train,test,train,val,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_61571-Afbeelding1.png,ultrasoundcases/masks/lbox_61571-Afbeelding1.png,val,test,val,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_62189-Afbeelding1.png,ultrasoundcases/masks/lbox_62189-Afbeelding1.png,test,val,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_62292-Afbeelding1.png,ultrasoundcases/masks/lbox_62292-Afbeelding1.png,train,train,train,train,test
+ultrasoundcases,1,ultrasoundcases/images/lbox_64185-Afbeelding2.png,ultrasoundcases/masks/lbox_64185-Afbeelding2.png,train,val,train,test,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_64199-Afbeelding1.png,ultrasoundcases/masks/lbox_64199-Afbeelding1.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_64618-Afbeelding1.png,ultrasoundcases/masks/lbox_64618-Afbeelding1.png,train,test,train,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_66803-Afbeelding1.png,ultrasoundcases/masks/lbox_66803-Afbeelding1.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_66907-Afbeelding2.png,ultrasoundcases/masks/lbox_66907-Afbeelding2.png,train,train,test,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_67184-Afbeelding1.png,ultrasoundcases/masks/lbox_67184-Afbeelding1.png,test,val,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_68664-Afbeelding1.png,ultrasoundcases/masks/lbox_68664-Afbeelding1.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_68826-Afbeelding1.png,ultrasoundcases/masks/lbox_68826-Afbeelding1.png,test,train,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_71195-Afbeelding1.png,ultrasoundcases/masks/lbox_71195-Afbeelding1.png,train,test,train,train,train
+ultrasoundcases,1,ultrasoundcases/images/lbox_72254-Afbeelding1.png,ultrasoundcases/masks/lbox_72254-Afbeelding1.png,test,train,train,train,val
+ultrasoundcases,1,ultrasoundcases/images/lbox_74897-Afbeelding1.png,ultrasoundcases/masks/lbox_74897-Afbeelding1.png,train,test,train,val,train
+ultrasoundcases,0,ultrasoundcases/images/5238.png,ultrasoundcases/masks/5238.png,train,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_11113.png,ultrasoundcases/masks/lbox_11113.png,train,train,test,train,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_11119.png,ultrasoundcases/masks/lbox_11119.png,val,test,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_11602.png,ultrasoundcases/masks/lbox_11602.png,train,train,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_12323.png,ultrasoundcases/masks/lbox_12323.png,train,train,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_12382.png,ultrasoundcases/masks/lbox_12382.png,test,val,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_14192.png,ultrasoundcases/masks/lbox_14192.png,train,test,val,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_14633.png,ultrasoundcases/masks/lbox_14633.png,train,test,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_15896.png,ultrasoundcases/masks/lbox_15896.png,train,val,test,val,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_16854.png,ultrasoundcases/masks/lbox_16854.png,train,train,val,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_19581.png,ultrasoundcases/masks/lbox_19581.png,train,test,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_19889.png,ultrasoundcases/masks/lbox_19889.png,val,train,val,test,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_20020.png,ultrasoundcases/masks/lbox_20020.png,train,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_21317.png,ultrasoundcases/masks/lbox_21317.png,train,test,train,val,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_22000.png,ultrasoundcases/masks/lbox_22000.png,test,train,train,train,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_22964.png,ultrasoundcases/masks/lbox_22964.png,val,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_24475.png,ultrasoundcases/masks/lbox_24475.png,train,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_3156.png,ultrasoundcases/masks/lbox_3156.png,test,train,train,train,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_33270-Afbeelding1.png,ultrasoundcases/masks/lbox_33270-Afbeelding1.png,train,train,val,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_33279-Afbeelding1.png,ultrasoundcases/masks/lbox_33279-Afbeelding1.png,train,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_33285-Afbeelding2.png,ultrasoundcases/masks/lbox_33285-Afbeelding2.png,test,train,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_34802-Afbeelding1.png,ultrasoundcases/masks/lbox_34802-Afbeelding1.png,train,train,val,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_35920-Afbeelding1.png,ultrasoundcases/masks/lbox_35920-Afbeelding1.png,train,train,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_36154-Afbeelding1.png,ultrasoundcases/masks/lbox_36154-Afbeelding1.png,val,val,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_36758-Afbeelding2.png,ultrasoundcases/masks/lbox_36758-Afbeelding2.png,test,train,val,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_3694.png,ultrasoundcases/masks/lbox_3694.png,val,test,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_3698.png,ultrasoundcases/masks/lbox_3698.png,train,train,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_38184-Afbeelding1.png,ultrasoundcases/masks/lbox_38184-Afbeelding1.png,train,train,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_3869.png,ultrasoundcases/masks/lbox_3869.png,test,val,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_38740-Afbeelding2.png,ultrasoundcases/masks/lbox_38740-Afbeelding2.png,val,val,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_39273-Afbeelding5.png,ultrasoundcases/masks/lbox_39273-Afbeelding5.png,test,train,train,val,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_39419-Afbeelding1.png,ultrasoundcases/masks/lbox_39419-Afbeelding1.png,train,train,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_39638-Afbeelding1.png,ultrasoundcases/masks/lbox_39638-Afbeelding1.png,train,train,train,val,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_40437-Afbeelding1.png,ultrasoundcases/masks/lbox_40437-Afbeelding1.png,train,train,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_41509-Afbeelding1.png,ultrasoundcases/masks/lbox_41509-Afbeelding1.png,test,train,train,val,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_41533-Afbeelding1.png,ultrasoundcases/masks/lbox_41533-Afbeelding1.png,val,test,train,val,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_42792-Afbeelding2.png,ultrasoundcases/masks/lbox_42792-Afbeelding2.png,train,val,test,val,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_42843-Afbeelding1.png,ultrasoundcases/masks/lbox_42843-Afbeelding1.png,test,train,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_4353.png,ultrasoundcases/masks/lbox_4353.png,val,test,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_4515.png,ultrasoundcases/masks/lbox_4515.png,val,test,train,train,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_47461-Afbeelding1.png,ultrasoundcases/masks/lbox_47461-Afbeelding1.png,train,train,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_48805-Afbeelding1.png,ultrasoundcases/masks/lbox_48805-Afbeelding1.png,test,val,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_4898.png,ultrasoundcases/masks/lbox_4898.png,train,train,val,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_50144-Afbeelding1.png,ultrasoundcases/masks/lbox_50144-Afbeelding1.png,val,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_51108-Afbeelding1.png,ultrasoundcases/masks/lbox_51108-Afbeelding1.png,train,test,train,val,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_51115-Afbeelding1.png,ultrasoundcases/masks/lbox_51115-Afbeelding1.png,test,train,train,val,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_51664-Afbeelding3.png,ultrasoundcases/masks/lbox_51664-Afbeelding3.png,train,test,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_51670-Afbeelding2.png,ultrasoundcases/masks/lbox_51670-Afbeelding2.png,train,train,val,test,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_5226.png,ultrasoundcases/masks/lbox_5226.png,test,train,train,train,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_5228.png,ultrasoundcases/masks/lbox_5228.png,train,test,val,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5232.png,ultrasoundcases/masks/lbox_5232.png,train,val,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_52906-Afbeelding1.png,ultrasoundcases/masks/lbox_52906-Afbeelding1.png,train,train,val,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_52913-Afbeelding1.png,ultrasoundcases/masks/lbox_52913-Afbeelding1.png,train,val,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5322.png,ultrasoundcases/masks/lbox_5322.png,train,test,train,val,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_53227-Afbeelding1.png,ultrasoundcases/masks/lbox_53227-Afbeelding1.png,train,val,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_53240-Afbeelding1.png,ultrasoundcases/masks/lbox_53240-Afbeelding1.png,train,train,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5333.png,ultrasoundcases/masks/lbox_5333.png,train,val,test,val,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5355.png,ultrasoundcases/masks/lbox_5355.png,train,test,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5372.png,ultrasoundcases/masks/lbox_5372.png,train,train,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_5374.png,ultrasoundcases/masks/lbox_5374.png,train,test,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5376.png,ultrasoundcases/masks/lbox_5376.png,train,val,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5379.png,ultrasoundcases/masks/lbox_5379.png,train,test,val,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5382.png,ultrasoundcases/masks/lbox_5382.png,train,train,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_5384.png,ultrasoundcases/masks/lbox_5384.png,test,train,val,val,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5390.png,ultrasoundcases/masks/lbox_5390.png,train,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5394.png,ultrasoundcases/masks/lbox_5394.png,train,test,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5405.png,ultrasoundcases/masks/lbox_5405.png,train,train,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_5419.png,ultrasoundcases/masks/lbox_5419.png,train,train,test,train,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_5423.png,ultrasoundcases/masks/lbox_5423.png,train,train,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5425.png,ultrasoundcases/masks/lbox_5425.png,train,train,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_5433.png,ultrasoundcases/masks/lbox_5433.png,val,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5454.png,ultrasoundcases/masks/lbox_5454.png,train,train,train,val,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_5463.png,ultrasoundcases/masks/lbox_5463.png,train,train,val,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_5468.png,ultrasoundcases/masks/lbox_5468.png,train,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5469.png,ultrasoundcases/masks/lbox_5469.png,train,train,train,test,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_5475.png,ultrasoundcases/masks/lbox_5475.png,train,train,train,test,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_5479.png,ultrasoundcases/masks/lbox_5479.png,test,train,train,val,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5481.png,ultrasoundcases/masks/lbox_5481.png,train,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5486.png,ultrasoundcases/masks/lbox_5486.png,test,val,val,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5489.png,ultrasoundcases/masks/lbox_5489.png,test,train,val,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5494.png,ultrasoundcases/masks/lbox_5494.png,test,train,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5496.png,ultrasoundcases/masks/lbox_5496.png,train,train,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_5499.png,ultrasoundcases/masks/lbox_5499.png,train,train,test,train,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_5514.png,ultrasoundcases/masks/lbox_5514.png,train,train,train,train,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_5518.png,ultrasoundcases/masks/lbox_5518.png,val,val,train,val,test
+ultrasoundcases,0,ultrasoundcases/images/lbox_55221-Afbeelding1.png,ultrasoundcases/masks/lbox_55221-Afbeelding1.png,train,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_55843-Afbeelding5.png,ultrasoundcases/masks/lbox_55843-Afbeelding5.png,train,train,test,train,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_55852-Afbeelding1.png,ultrasoundcases/masks/lbox_55852-Afbeelding1.png,test,train,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_5600.png,ultrasoundcases/masks/lbox_5600.png,train,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_57514-Afbeelding2.png,ultrasoundcases/masks/lbox_57514-Afbeelding2.png,test,train,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_58028-Afbeelding2.png,ultrasoundcases/masks/lbox_58028-Afbeelding2.png,val,train,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_59808-Afbeelding1.png,ultrasoundcases/masks/lbox_59808-Afbeelding1.png,train,train,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_59822-Afbeelding2.png,ultrasoundcases/masks/lbox_59822-Afbeelding2.png,train,test,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_60283-Afbeelding1.png,ultrasoundcases/masks/lbox_60283-Afbeelding1.png,train,train,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_60885-Afbeelding1.png,ultrasoundcases/masks/lbox_60885-Afbeelding1.png,train,train,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_61496-Afbeelding1.png,ultrasoundcases/masks/lbox_61496-Afbeelding1.png,test,train,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_61922-Afbeelding3.png,ultrasoundcases/masks/lbox_61922-Afbeelding3.png,train,test,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_62172-Afbeelding3.png,ultrasoundcases/masks/lbox_62172-Afbeelding3.png,train,train,test,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_62632-Afbeelding2.png,ultrasoundcases/masks/lbox_62632-Afbeelding2.png,train,test,train,val,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_66540-Afbeelding1.png,ultrasoundcases/masks/lbox_66540-Afbeelding1.png,val,train,train,test,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_67322-Afbeelding1.png,ultrasoundcases/masks/lbox_67322-Afbeelding1.png,test,train,train,train,train
+ultrasoundcases,0,ultrasoundcases/images/lbox_67551-Afbeelding1.png,ultrasoundcases/masks/lbox_67551-Afbeelding1.png,train,test,val,train,val
+ultrasoundcases,0,ultrasoundcases/images/lbox_71001-Afbeelding1.png,ultrasoundcases/masks/lbox_71001-Afbeelding1.png,val,val,train,train,test
+rodtook,1,rodtook/original/100065.png,rodtook/GT/100065.png,val,test,train,val,train
+rodtook,0,rodtook/original/100181.png,rodtook/GT/100181.png,train,train,train,test,train
+rodtook,1,rodtook/original/100041.png,rodtook/GT/100041.png,train,train,test,train,train
+rodtook,0,rodtook/original/100088.png,rodtook/GT/100088.png,test,val,val,train,train
+rodtook,1,rodtook/original/100113.png,rodtook/GT/100113.png,test,train,train,train,train
+rodtook,0,rodtook/original/100168.png,rodtook/GT/100168.png,train,train,test,train,train
+rodtook,1,rodtook/original/100021.png,rodtook/GT/100021.png,test,train,train,train,train
+rodtook,0,rodtook/original/100202.png,rodtook/GT/100202.png,test,train,train,val,train
+rodtook,1,rodtook/original/100108.png,rodtook/GT/100108.png,train,test,train,val,val
+rodtook,0,rodtook/original/100209.png,rodtook/GT/100209.png,train,train,test,train,train
+rodtook,0,rodtook/original/100192.png,rodtook/GT/100192.png,val,test,val,train,train
+rodtook,0,rodtook/original/100185.png,rodtook/GT/100185.png,train,train,train,train,test
+rodtook,1,rodtook/original/100110.png,rodtook/GT/100110.png,train,train,test,train,train
+rodtook,1,rodtook/original/100164.png,rodtook/GT/100164.png,train,train,test,train,train
+rodtook,1,rodtook/original/100155.png,rodtook/GT/100155.png,train,test,train,train,train
+rodtook,1,rodtook/original/100107.png,rodtook/GT/100107.png,train,train,test,train,train
+rodtook,1,rodtook/original/100120.png,rodtook/GT/100120.png,val,train,val,train,test
+rodtook,1,rodtook/original/100043.png,rodtook/GT/100043.png,train,val,train,test,val
+rodtook,1,rodtook/original/100034.png,rodtook/GT/100034.png,test,train,train,val,train
+rodtook,1,rodtook/original/100117.png,rodtook/GT/100117.png,val,test,val,train,train
+rodtook,0,rodtook/original/100208.png,rodtook/GT/100208.png,test,train,train,train,train
+rodtook,1,rodtook/original/100029.png,rodtook/GT/100029.png,train,train,train,train,test
+rodtook,0,rodtook/original/100198.png,rodtook/GT/100198.png,test,train,train,train,val
+rodtook,1,rodtook/original/100140.png,rodtook/GT/100140.png,test,train,train,train,val
+rodtook,1,rodtook/original/100151.png,rodtook/GT/100151.png,test,train,train,val,train
+rodtook,1,rodtook/original/100105.png,rodtook/GT/100105.png,train,train,train,test,train
+rodtook,0,rodtook/original/100190.png,rodtook/GT/100190.png,train,train,train,test,train
+rodtook,0,rodtook/original/100201.png,rodtook/GT/100201.png,train,val,train,test,val
+rodtook,0,rodtook/original/100196.png,rodtook/GT/100196.png,train,train,train,train,test
+rodtook,1,rodtook/original/100124.png,rodtook/GT/100124.png,train,test,train,train,train
+rodtook,0,rodtook/original/100182.png,rodtook/GT/100182.png,train,train,train,val,test
+rodtook,0,rodtook/original/100184.png,rodtook/GT/100184.png,train,test,train,train,val
+rodtook,0,rodtook/original/100195.png,rodtook/GT/100195.png,val,train,test,train,train
+rodtook,0,rodtook/original/100206.png,rodtook/GT/100206.png,train,train,train,train,test
+rodtook,0,rodtook/original/100093.png,rodtook/GT/100093.png,test,train,train,train,train
+rodtook,1,rodtook/original/100114.png,rodtook/GT/100114.png,train,val,train,train,test
+rodtook,1,rodtook/original/100125.png,rodtook/GT/100125.png,train,val,train,train,test
+rodtook,1,rodtook/original/100011.png,rodtook/GT/100011.png,train,test,train,train,val
+rodtook,0,rodtook/original/100197.png,rodtook/GT/100197.png,train,train,train,train,test
+rodtook,1,rodtook/original/100152.png,rodtook/GT/100152.png,train,train,train,train,test
+rodtook,1,rodtook/original/100131.png,rodtook/GT/100131.png,train,train,train,test,train
+rodtook,1,rodtook/original/100015.png,rodtook/GT/100015.png,test,train,train,train,train
+rodtook,0,rodtook/original/100205.png,rodtook/GT/100205.png,train,val,test,train,train
+rodtook,0,rodtook/original/100099.png,rodtook/GT/100099.png,train,train,val,test,val
+rodtook,1,rodtook/original/100044.png,rodtook/GT/100044.png,test,train,train,train,train
+rodtook,1,rodtook/original/100118.png,rodtook/GT/100118.png,test,train,train,train,val
+rodtook,0,rodtook/original/100180.png,rodtook/GT/100180.png,train,test,train,val,train
+rodtook,1,rodtook/original/100132.png,rodtook/GT/100132.png,train,train,train,train,test
+rodtook,1,rodtook/original/100144.png,rodtook/GT/100144.png,train,test,val,train,train
+rodtook,0,rodtook/original/100186.png,rodtook/GT/100186.png,train,val,train,val,test
+rodtook,0,rodtook/original/100094.png,rodtook/GT/100094.png,test,train,train,val,train
+rodtook,1,rodtook/original/100047.png,rodtook/GT/100047.png,train,train,train,train,test
+rodtook,1,rodtook/original/100135.png,rodtook/GT/100135.png,train,train,val,test,val
+rodtook,1,rodtook/original/100022.png,rodtook/GT/100022.png,test,train,train,train,val
+rodtook,1,rodtook/original/100156.png,rodtook/GT/100156.png,train,train,test,train,train
+rodtook,1,rodtook/original/100127.png,rodtook/GT/100127.png,train,train,test,train,train
+rodtook,0,rodtook/original/100191.png,rodtook/GT/100191.png,train,train,train,test,train
+rodtook,1,rodtook/original/100141.png,rodtook/GT/100141.png,test,train,val,train,train
+rodtook,1,rodtook/original/100042.png,rodtook/GT/100042.png,train,train,train,test,train
+rodtook,1,rodtook/original/100160.png,rodtook/GT/100160.png,train,test,val,val,val
+rodtook,1,rodtook/original/100153.png,rodtook/GT/100153.png,val,test,train,train,train
+rodtook,1,rodtook/original/100121.png,rodtook/GT/100121.png,train,val,val,test,train
+rodtook,0,rodtook/original/100091.png,rodtook/GT/100091.png,train,test,train,train,train
+rodtook,1,rodtook/original/100019.png,rodtook/GT/100019.png,val,val,val,train,test
+rodtook,1,rodtook/original/100028.png,rodtook/GT/100028.png,train,train,train,test,train
+rodtook,1,rodtook/original/100031.png,rodtook/GT/100031.png,train,test,train,train,val
+rodtook,1,rodtook/original/100138.png,rodtook/GT/100138.png,train,train,train,test,train
+rodtook,0,rodtook/original/100176.png,rodtook/GT/100176.png,val,test,val,train,train
+rodtook,1,rodtook/original/100133.png,rodtook/GT/100133.png,train,test,train,train,train
+rodtook,1,rodtook/original/100142.png,rodtook/GT/100142.png,val,train,test,train,train
+rodtook,0,rodtook/original/100170.png,rodtook/GT/100170.png,train,val,test,train,train
+rodtook,0,rodtook/original/100067.png,rodtook/GT/100067.png,train,val,test,train,train
+rodtook,1,rodtook/original/100134.png,rodtook/GT/100134.png,test,train,val,train,train
+rodtook,1,rodtook/original/100158.png,rodtook/GT/100158.png,train,test,train,train,train
+rodtook,1,rodtook/original/100136.png,rodtook/GT/100136.png,train,train,test,train,train
+rodtook,1,rodtook/original/100167.png,rodtook/GT/100167.png,train,val,train,test,train
+rodtook,1,rodtook/original/100150.png,rodtook/GT/100150.png,test,train,train,val,train
+rodtook,0,rodtook/original/100178.png,rodtook/GT/100178.png,train,train,train,test,train
+rodtook,0,rodtook/original/100199.png,rodtook/GT/100199.png,train,train,val,train,test
+rodtook,0,rodtook/original/100097.png,rodtook/GT/100097.png,train,train,train,test,train
+rodtook,0,rodtook/original/100187.png,rodtook/GT/100187.png,train,train,test,train,train
+rodtook,1,rodtook/original/100165.png,rodtook/GT/100165.png,train,test,train,train,train
+rodtook,0,rodtook/original/100095.png,rodtook/GT/100095.png,train,train,val,test,train
+rodtook,0,rodtook/original/100179.png,rodtook/GT/100179.png,test,train,train,train,val
+rodtook,1,rodtook/original/100139.png,rodtook/GT/100139.png,train,train,train,train,test
+rodtook,0,rodtook/original/100100.png,rodtook/GT/100100.png,val,test,train,val,train
+rodtook,1,rodtook/original/100157.png,rodtook/GT/100157.png,train,test,val,train,val
+rodtook,1,rodtook/original/100154.png,rodtook/GT/100154.png,train,val,train,train,test
+rodtook,0,rodtook/original/100188.png,rodtook/GT/100188.png,train,val,train,test,train
+rodtook,1,rodtook/original/100026.png,rodtook/GT/100026.png,train,train,test,train,train
+rodtook,0,rodtook/original/100175.png,rodtook/GT/100175.png,test,val,train,train,val
+rodtook,1,rodtook/original/100123.png,rodtook/GT/100123.png,test,train,train,val,train
+rodtook,1,rodtook/original/100048.png,rodtook/GT/100048.png,train,train,test,train,train
+rodtook,1,rodtook/original/100104.png,rodtook/GT/100104.png,train,train,train,val,test
+rodtook,1,rodtook/original/100129.png,rodtook/GT/100129.png,val,val,test,train,train
+rodtook,0,rodtook/original/100183.png,rodtook/GT/100183.png,test,train,train,train,train
+rodtook,1,rodtook/original/100126.png,rodtook/GT/100126.png,train,train,train,val,test
+rodtook,1,rodtook/original/100128.png,rodtook/GT/100128.png,train,test,train,val,train
+rodtook,1,rodtook/original/100122.png,rodtook/GT/100122.png,val,train,train,test,train
+rodtook,1,rodtook/original/100143.png,rodtook/GT/100143.png,train,train,val,train,test
+rodtook,0,rodtook/original/100169.png,rodtook/GT/100169.png,val,train,val,val,test
+rodtook,1,rodtook/original/100166.png,rodtook/GT/100166.png,train,train,train,train,test
+rodtook,1,rodtook/original/100115.png,rodtook/GT/100115.png,val,val,train,test,train
+rodtook,1,rodtook/original/100145.png,rodtook/GT/100145.png,train,val,train,train,test
+rodtook,0,rodtook/original/100173.png,rodtook/GT/100173.png,train,train,train,train,test
+rodtook,1,rodtook/original/100016.png,rodtook/GT/100016.png,train,val,train,test,train
+rodtook,1,rodtook/original/100106.png,rodtook/GT/100106.png,train,train,test,train,val
+rodtook,0,rodtook/original/100189.png,rodtook/GT/100189.png,val,train,test,train,train
+rodtook,1,rodtook/original/100130.png,rodtook/GT/100130.png,train,train,test,train,train
+rodtook,1,rodtook/original/100148.png,rodtook/GT/100148.png,test,val,train,val,train
+rodtook,1,rodtook/original/100023.png,rodtook/GT/100023.png,val,train,train,val,test
+rodtook,0,rodtook/original/100207.png,rodtook/GT/100207.png,train,test,train,train,train
+rodtook,1,rodtook/original/100119.png,rodtook/GT/100119.png,test,train,train,train,train
+rodtook,0,rodtook/original/100089.png,rodtook/GT/100089.png,train,test,train,train,train
+rodtook,0,rodtook/original/100172.png,rodtook/GT/100172.png,train,train,train,test,train
+rodtook,1,rodtook/original/100111.png,rodtook/GT/100111.png,test,train,train,train,train
+rodtook,1,rodtook/original/100036.png,rodtook/GT/100036.png,train,train,train,test,train
+rodtook,1,rodtook/original/100162.png,rodtook/GT/100162.png,train,train,test,train,train
+rodtook,0,rodtook/original/100096.png,rodtook/GT/100096.png,train,train,test,val,train
+rodtook,1,rodtook/original/100012.png,rodtook/GT/100012.png,train,test,train,train,train
+rodtook,0,rodtook/original/100171.png,rodtook/GT/100171.png,val,test,train,train,train
+rodtook,1,rodtook/original/100045.png,rodtook/GT/100045.png,val,train,train,test,val
+rodtook,1,rodtook/original/100147.png,rodtook/GT/100147.png,train,train,test,train,train
+rodtook,0,rodtook/original/100101.png,rodtook/GT/100101.png,train,test,train,train,val
+rodtook,1,rodtook/original/100159.png,rodtook/GT/100159.png,train,train,val,test,train
+rodtook,1,rodtook/original/100050.png,rodtook/GT/100050.png,val,train,test,train,train
+rodtook,1,rodtook/original/100146.png,rodtook/GT/100146.png,train,test,train,train,train
+rodtook,0,rodtook/original/100200.png,rodtook/GT/100200.png,train,train,val,test,train
+rodtook,1,rodtook/original/100109.png,rodtook/GT/100109.png,test,train,train,train,train
+rodtook,1,rodtook/original/100116.png,rodtook/GT/100116.png,train,train,test,train,train
+rodtook,0,rodtook/original/100204.png,rodtook/GT/100204.png,val,train,test,train,train
+rodtook,1,rodtook/original/100103.png,rodtook/GT/100103.png,val,train,train,test,train
+rodtook,0,rodtook/original/100174.png,rodtook/GT/100174.png,train,train,test,train,val
+rodtook,0,rodtook/original/100193.png,rodtook/GT/100193.png,train,train,train,train,test
+rodtook,0,rodtook/original/100203.png,rodtook/GT/100203.png,train,test,train,train,train
+rodtook,0,rodtook/original/100092.png,rodtook/GT/100092.png,train,train,train,test,train
+rodtook,0,rodtook/original/100102.png,rodtook/GT/100102.png,train,train,train,train,test
+rodtook,1,rodtook/original/100027.png,rodtook/GT/100027.png,train,train,train,test,val
+rodtook,0,rodtook/original/100194.png,rodtook/GT/100194.png,test,train,train,train,train
+rodtook,1,rodtook/original/100149.png,rodtook/GT/100149.png,train,test,train,train,train
+rodtook,1,rodtook/original/100032.png,rodtook/GT/100032.png,test,train,val,val,train
+rodtook,0,rodtook/original/100087.png,rodtook/GT/100087.png,train,train,test,train,train
+rodtook,0,rodtook/original/100098.png,rodtook/GT/100098.png,test,train,train,train,train
+rodtook,1,rodtook/original/100112.png,rodtook/GT/100112.png,train,val,train,train,test
+busis,0,busis/Original/case0001.png,busis/GT/case0001.png,train,train,test,train,train
+busis,0,busis/Original/case0002.png,busis/GT/case0002.png,train,train,train,test,train
+busis,0,busis/Original/case0003.png,busis/GT/case0003.png,test,train,train,train,val
+busis,0,busis/Original/case0004.png,busis/GT/case0004.png,test,val,train,train,train
+busis,0,busis/Original/case0005.png,busis/GT/case0005.png,train,train,train,test,train
+busis,0,busis/Original/case0006.png,busis/GT/case0006.png,test,train,train,train,train
+busis,0,busis/Original/case0007.png,busis/GT/case0007.png,train,train,train,train,test
+busis,0,busis/Original/case0008.png,busis/GT/case0008.png,train,train,train,test,train
+busis,0,busis/Original/case0009.png,busis/GT/case0009.png,val,train,test,train,train
+busis,0,busis/Original/case0010.png,busis/GT/case0010.png,train,train,train,test,train
+busis,0,busis/Original/case0011.png,busis/GT/case0011.png,train,train,train,train,test
+busis,0,busis/Original/case0012.png,busis/GT/case0012.png,train,train,test,train,train
+busis,0,busis/Original/case0013.png,busis/GT/case0013.png,val,train,test,train,train
+busis,0,busis/Original/case0014.png,busis/GT/case0014.png,train,test,train,val,train
+busis,0,busis/Original/case0015.png,busis/GT/case0015.png,train,val,test,train,train
+busis,0,busis/Original/case0016.png,busis/GT/case0016.png,train,train,val,train,test
+busis,0,busis/Original/case0017.png,busis/GT/case0017.png,test,train,train,train,val
+busis,0,busis/Original/case0018.png,busis/GT/case0018.png,test,train,train,train,val
+busis,0,busis/Original/case0019.png,busis/GT/case0019.png,train,train,train,test,train
+busis,0,busis/Original/case0020.png,busis/GT/case0020.png,train,val,test,val,val
+busis,0,busis/Original/case0021.png,busis/GT/case0021.png,train,val,test,train,train
+busis,0,busis/Original/case0022.png,busis/GT/case0022.png,val,train,test,train,train
+busis,0,busis/Original/case0023.png,busis/GT/case0023.png,train,train,train,train,test
+busis,0,busis/Original/case0024.png,busis/GT/case0024.png,test,train,train,train,train
+busis,0,busis/Original/case0025.png,busis/GT/case0025.png,test,train,val,train,train
+busis,0,busis/Original/case0026.png,busis/GT/case0026.png,test,train,train,train,train
+busis,0,busis/Original/case0027.png,busis/GT/case0027.png,train,train,val,test,train
+busis,0,busis/Original/case0028.png,busis/GT/case0028.png,test,train,train,train,train
+busis,0,busis/Original/case0029.png,busis/GT/case0029.png,train,train,train,test,train
+busis,0,busis/Original/case0030.png,busis/GT/case0030.png,test,train,train,train,train
+busis,0,busis/Original/case0031.png,busis/GT/case0031.png,train,train,train,test,val
+busis,0,busis/Original/case0032.png,busis/GT/case0032.png,train,train,train,test,train
+busis,0,busis/Original/case0033.png,busis/GT/case0033.png,val,train,train,test,train
+busis,0,busis/Original/case0034.png,busis/GT/case0034.png,train,train,test,train,train
+busis,0,busis/Original/case0035.png,busis/GT/case0035.png,val,test,val,val,train
+busis,0,busis/Original/case0036.png,busis/GT/case0036.png,test,train,val,train,train
+busis,0,busis/Original/case0037.png,busis/GT/case0037.png,train,test,train,train,train
+busis,0,busis/Original/case0038.png,busis/GT/case0038.png,test,train,train,train,train
+busis,0,busis/Original/case0039.png,busis/GT/case0039.png,train,test,train,val,train
+busis,0,busis/Original/case0040.png,busis/GT/case0040.png,val,val,train,test,train
+busis,0,busis/Original/case0041.png,busis/GT/case0041.png,train,train,test,train,train
+busis,0,busis/Original/case0042.png,busis/GT/case0042.png,test,train,val,train,train
+busis,0,busis/Original/case0043.png,busis/GT/case0043.png,test,train,train,train,train
+busis,0,busis/Original/case0044.png,busis/GT/case0044.png,test,train,val,train,val
+busis,0,busis/Original/case0045.png,busis/GT/case0045.png,train,train,test,val,train
+busis,0,busis/Original/case0046.png,busis/GT/case0046.png,train,val,train,test,train
+busis,0,busis/Original/case0047.png,busis/GT/case0047.png,val,train,train,train,test
+busis,0,busis/Original/case0048.png,busis/GT/case0048.png,test,train,val,train,train
+busis,0,busis/Original/case0049.png,busis/GT/case0049.png,train,train,train,test,train
+busis,0,busis/Original/case0050.png,busis/GT/case0050.png,train,train,train,test,train
+busis,0,busis/Original/case0051.png,busis/GT/case0051.png,val,val,train,train,test
+busis,0,busis/Original/case0052.png,busis/GT/case0052.png,val,test,train,train,train
+busis,0,busis/Original/case0053.png,busis/GT/case0053.png,train,train,train,test,train
+busis,0,busis/Original/case0054.png,busis/GT/case0054.png,test,train,train,train,train
+busis,0,busis/Original/case0055.png,busis/GT/case0055.png,train,train,train,train,test
+busis,0,busis/Original/case0056.png,busis/GT/case0056.png,train,test,train,train,val
+busis,0,busis/Original/case0057.png,busis/GT/case0057.png,train,test,train,train,train
+busis,0,busis/Original/case0058.png,busis/GT/case0058.png,train,val,train,train,test
+busis,0,busis/Original/case0059.png,busis/GT/case0059.png,train,test,val,train,train
+busis,0,busis/Original/case0060.png,busis/GT/case0060.png,val,train,train,train,test
+busis,0,busis/Original/case0061.png,busis/GT/case0061.png,train,train,test,train,val
+busis,0,busis/Original/case0062.png,busis/GT/case0062.png,val,train,test,train,train
+busis,0,busis/Original/case0063.png,busis/GT/case0063.png,train,train,val,train,test
+busis,0,busis/Original/case0064.png,busis/GT/case0064.png,test,val,val,train,train
+busis,0,busis/Original/case0065.png,busis/GT/case0065.png,train,train,val,test,train
+busis,0,busis/Original/case0066.png,busis/GT/case0066.png,train,test,train,val,train
+busis,0,busis/Original/case0067.png,busis/GT/case0067.png,test,train,train,train,train
+busis,0,busis/Original/case0068.png,busis/GT/case0068.png,val,train,train,test,val
+busis,0,busis/Original/case0069.png,busis/GT/case0069.png,test,train,val,train,train
+busis,0,busis/Original/case0070.png,busis/GT/case0070.png,train,train,train,test,train
+busis,0,busis/Original/case0071.png,busis/GT/case0071.png,train,train,test,train,val
+busis,0,busis/Original/case0072.png,busis/GT/case0072.png,train,train,train,val,test
+busis,0,busis/Original/case0073.png,busis/GT/case0073.png,train,train,train,test,val
+busis,0,busis/Original/case0074.png,busis/GT/case0074.png,train,train,test,train,train
+busis,0,busis/Original/case0075.png,busis/GT/case0075.png,train,test,train,train,train
+busis,0,busis/Original/case0076.png,busis/GT/case0076.png,test,train,train,train,train
+busis,0,busis/Original/case0077.png,busis/GT/case0077.png,val,train,train,test,val
+busis,0,busis/Original/case0078.png,busis/GT/case0078.png,train,val,test,val,train
+busis,0,busis/Original/case0079.png,busis/GT/case0079.png,train,train,train,test,train
+busis,0,busis/Original/case0080.png,busis/GT/case0080.png,train,val,test,train,train
+busis,0,busis/Original/case0081.png,busis/GT/case0081.png,train,test,train,train,train
+busis,0,busis/Original/case0082.png,busis/GT/case0082.png,test,train,train,train,train
+busis,0,busis/Original/case0083.png,busis/GT/case0083.png,train,train,train,train,test
+busis,0,busis/Original/case0084.png,busis/GT/case0084.png,test,train,train,train,train
+busis,0,busis/Original/case0085.png,busis/GT/case0085.png,train,val,test,val,train
+busis,0,busis/Original/case0086.png,busis/GT/case0086.png,test,train,train,train,train
+busis,0,busis/Original/case0087.png,busis/GT/case0087.png,train,test,train,train,val
+busis,0,busis/Original/case0088.png,busis/GT/case0088.png,train,test,train,train,train
+busis,0,busis/Original/case0089.png,busis/GT/case0089.png,train,val,train,train,test
+busis,0,busis/Original/case0090.png,busis/GT/case0090.png,test,train,train,train,train
+busis,0,busis/Original/case0091.png,busis/GT/case0091.png,train,train,train,val,test
+busis,0,busis/Original/case0092.png,busis/GT/case0092.png,val,test,train,train,val
+busis,0,busis/Original/case0093.png,busis/GT/case0093.png,train,train,test,train,train
+busis,0,busis/Original/case0094.png,busis/GT/case0094.png,train,train,train,test,train
+busis,0,busis/Original/case0095.png,busis/GT/case0095.png,val,train,train,train,test
+busis,0,busis/Original/case0096.png,busis/GT/case0096.png,val,val,test,val,train
+busis,0,busis/Original/case0097.png,busis/GT/case0097.png,test,train,train,val,train
+busis,0,busis/Original/case0098.png,busis/GT/case0098.png,train,val,train,train,test
+busis,0,busis/Original/case0099.png,busis/GT/case0099.png,val,train,test,train,train
+busis,0,busis/Original/case0100.png,busis/GT/case0100.png,val,train,train,train,test
+busis,0,busis/Original/case0101.png,busis/GT/case0101.png,test,train,train,train,train
+busis,0,busis/Original/case0102.png,busis/GT/case0102.png,test,train,train,train,val
+busis,0,busis/Original/case0103.png,busis/GT/case0103.png,test,train,train,train,val
+busis,0,busis/Original/case0104.png,busis/GT/case0104.png,test,train,train,val,train
+busis,0,busis/Original/case0105.png,busis/GT/case0105.png,train,test,val,val,train
+busis,0,busis/Original/case0106.png,busis/GT/case0106.png,val,test,val,train,val
+busis,0,busis/Original/case0107.png,busis/GT/case0107.png,train,train,test,val,train
+busis,0,busis/Original/case0108.png,busis/GT/case0108.png,train,test,train,val,train
+busis,0,busis/Original/case0109.png,busis/GT/case0109.png,test,train,val,train,train
+busis,0,busis/Original/case0110.png,busis/GT/case0110.png,test,train,train,train,train
+busis,0,busis/Original/case0111.png,busis/GT/case0111.png,train,val,train,train,test
+busis,0,busis/Original/case0112.png,busis/GT/case0112.png,train,train,train,test,train
+busis,0,busis/Original/case0113.png,busis/GT/case0113.png,test,train,val,train,train
+busis,0,busis/Original/case0114.png,busis/GT/case0114.png,train,test,train,train,train
+busis,0,busis/Original/case0115.png,busis/GT/case0115.png,train,test,train,train,train
+busis,0,busis/Original/case0116.png,busis/GT/case0116.png,test,train,train,train,train
+busis,0,busis/Original/case0117.png,busis/GT/case0117.png,train,test,train,train,train
+busis,0,busis/Original/case0118.png,busis/GT/case0118.png,train,train,train,train,test
+busis,0,busis/Original/case0119.png,busis/GT/case0119.png,train,train,test,val,train
+busis,0,busis/Original/case0120.png,busis/GT/case0120.png,train,train,val,val,test
+busis,0,busis/Original/case0121.png,busis/GT/case0121.png,train,test,train,train,train
+busis,0,busis/Original/case0122.png,busis/GT/case0122.png,train,test,val,train,train
+busis,0,busis/Original/case0123.png,busis/GT/case0123.png,train,train,test,train,train
+busis,0,busis/Original/case0124.png,busis/GT/case0124.png,train,train,test,val,val
+busis,0,busis/Original/case0125.png,busis/GT/case0125.png,test,train,train,val,train
+busis,0,busis/Original/case0126.png,busis/GT/case0126.png,train,train,val,test,train
+busis,0,busis/Original/case0127.png,busis/GT/case0127.png,train,train,test,train,train
+busis,0,busis/Original/case0128.png,busis/GT/case0128.png,val,val,train,train,test
+busis,0,busis/Original/case0129.png,busis/GT/case0129.png,test,train,train,train,val
+busis,0,busis/Original/case0130.png,busis/GT/case0130.png,val,train,train,train,test
+busis,0,busis/Original/case0131.png,busis/GT/case0131.png,train,test,train,train,train
+busis,1,busis/Original/case0132.png,busis/GT/case0132.png,test,val,train,train,train
+busis,1,busis/Original/case0133.png,busis/GT/case0133.png,train,val,train,train,test
+busis,1,busis/Original/case0134.png,busis/GT/case0134.png,train,test,train,train,train
+busis,1,busis/Original/case0135.png,busis/GT/case0135.png,test,train,train,val,train
+busis,1,busis/Original/case0136.png,busis/GT/case0136.png,val,train,train,test,train
+busis,1,busis/Original/case0137.png,busis/GT/case0137.png,val,train,train,val,test
+busis,1,busis/Original/case0138.png,busis/GT/case0138.png,val,train,train,train,test
+busis,1,busis/Original/case0139.png,busis/GT/case0139.png,train,train,train,train,test
+busis,1,busis/Original/case0140.png,busis/GT/case0140.png,train,test,train,val,train
+busis,1,busis/Original/case0141.png,busis/GT/case0141.png,train,train,train,test,val
+busis,1,busis/Original/case0142.png,busis/GT/case0142.png,train,train,test,val,train
+busis,1,busis/Original/case0143.png,busis/GT/case0143.png,train,train,val,test,train
+busis,1,busis/Original/case0144.png,busis/GT/case0144.png,test,train,train,train,train
+busis,1,busis/Original/case0145.png,busis/GT/case0145.png,train,train,test,val,train
+busis,1,busis/Original/case0146.png,busis/GT/case0146.png,train,train,test,train,val
+busis,1,busis/Original/case0147.png,busis/GT/case0147.png,train,train,test,train,train
+busis,1,busis/Original/case0148.png,busis/GT/case0148.png,train,train,test,val,train
+busis,1,busis/Original/case0149.png,busis/GT/case0149.png,train,train,test,train,train
+busis,1,busis/Original/case0150.png,busis/GT/case0150.png,train,test,train,val,train
+busis,1,busis/Original/case0151.png,busis/GT/case0151.png,val,train,val,test,val
+busis,1,busis/Original/case0152.png,busis/GT/case0152.png,val,train,train,val,test
+busis,1,busis/Original/case0153.png,busis/GT/case0153.png,train,test,val,train,train
+busis,1,busis/Original/case0154.png,busis/GT/case0154.png,train,train,train,test,train
+busis,1,busis/Original/case0155.png,busis/GT/case0155.png,train,test,train,train,train
+busis,1,busis/Original/case0156.png,busis/GT/case0156.png,train,train,test,val,val
+busis,1,busis/Original/case0157.png,busis/GT/case0157.png,train,test,train,train,train
+busis,1,busis/Original/case0158.png,busis/GT/case0158.png,train,train,train,test,train
+busis,1,busis/Original/case0159.png,busis/GT/case0159.png,test,train,train,train,train
+busis,1,busis/Original/case0160.png,busis/GT/case0160.png,train,train,test,train,train
+busis,1,busis/Original/case0161.png,busis/GT/case0161.png,test,train,train,train,train
+busis,1,busis/Original/case0162.png,busis/GT/case0162.png,train,train,train,test,train
+busis,1,busis/Original/case0163.png,busis/GT/case0163.png,test,train,train,val,train
+busis,1,busis/Original/case0164.png,busis/GT/case0164.png,train,test,train,train,train
+busis,1,busis/Original/case0165.png,busis/GT/case0165.png,train,train,val,train,test
+busis,1,busis/Original/case0166.png,busis/GT/case0166.png,train,val,train,test,train
+busis,1,busis/Original/case0167.png,busis/GT/case0167.png,test,train,val,train,train
+busis,1,busis/Original/case0168.png,busis/GT/case0168.png,train,train,train,train,test
+busis,1,busis/Original/case0169.png,busis/GT/case0169.png,train,train,test,train,train
+busis,1,busis/Original/case0170.png,busis/GT/case0170.png,train,val,test,train,train
+busis,1,busis/Original/case0171.png,busis/GT/case0171.png,train,train,train,test,train
+busis,1,busis/Original/case0172.png,busis/GT/case0172.png,test,train,train,train,train
+busis,1,busis/Original/case0173.png,busis/GT/case0173.png,test,train,train,train,train
+busis,1,busis/Original/case0174.png,busis/GT/case0174.png,test,train,train,val,train
+busis,1,busis/Original/case0175.png,busis/GT/case0175.png,test,val,train,train,train
+busis,1,busis/Original/case0176.png,busis/GT/case0176.png,train,test,train,val,train
+busis,1,busis/Original/case0177.png,busis/GT/case0177.png,val,train,test,train,train
+busis,1,busis/Original/case0178.png,busis/GT/case0178.png,val,test,train,train,train
+busis,1,busis/Original/case0179.png,busis/GT/case0179.png,train,test,val,train,train
+busis,1,busis/Original/case0180.png,busis/GT/case0180.png,train,train,train,test,train
+busis,1,busis/Original/case0181.png,busis/GT/case0181.png,train,train,train,test,train
+busis,1,busis/Original/case0182.png,busis/GT/case0182.png,train,train,train,val,test
+busis,1,busis/Original/case0183.png,busis/GT/case0183.png,train,train,train,train,test
+busis,1,busis/Original/case0184.png,busis/GT/case0184.png,train,val,train,test,train
+busis,1,busis/Original/case0185.png,busis/GT/case0185.png,train,val,train,test,train
+busis,1,busis/Original/case0186.png,busis/GT/case0186.png,train,train,train,test,train
+busis,1,busis/Original/case0187.png,busis/GT/case0187.png,train,train,train,test,train
+busis,1,busis/Original/case0188.png,busis/GT/case0188.png,train,test,train,train,train
+busis,1,busis/Original/case0189.png,busis/GT/case0189.png,test,val,train,val,val
+busis,1,busis/Original/case0190.png,busis/GT/case0190.png,train,train,test,val,train
+busis,1,busis/Original/case0191.png,busis/GT/case0191.png,test,train,train,train,train
+busis,1,busis/Original/case0192.png,busis/GT/case0192.png,test,val,train,train,train
+busis,1,busis/Original/case0193.png,busis/GT/case0193.png,train,test,train,train,train
+busis,1,busis/Original/case0194.png,busis/GT/case0194.png,train,train,train,train,test
+busis,1,busis/Original/case0195.png,busis/GT/case0195.png,train,val,train,train,test
+busis,1,busis/Original/case0196.png,busis/GT/case0196.png,train,test,train,train,train
+busis,1,busis/Original/case0197.png,busis/GT/case0197.png,train,train,test,train,train
+busis,1,busis/Original/case0198.png,busis/GT/case0198.png,test,train,train,val,train
+busis,1,busis/Original/case0199.png,busis/GT/case0199.png,train,train,test,train,train
+busis,1,busis/Original/case0200.png,busis/GT/case0200.png,train,train,train,test,train
+busis,1,busis/Original/case0201.png,busis/GT/case0201.png,test,train,train,train,train
+busis,1,busis/Original/case0202.png,busis/GT/case0202.png,train,train,val,train,test
+busis,1,busis/Original/case0203.png,busis/GT/case0203.png,test,train,train,val,val
+busis,1,busis/Original/case0204.png,busis/GT/case0204.png,train,train,test,train,train
+busis,1,busis/Original/case0205.png,busis/GT/case0205.png,val,val,train,test,val
+busis,1,busis/Original/case0206.png,busis/GT/case0206.png,train,train,train,train,test
+busis,1,busis/Original/case0207.png,busis/GT/case0207.png,train,train,val,val,test
+busis,1,busis/Original/case0208.png,busis/GT/case0208.png,val,train,train,test,val
+busis,1,busis/Original/case0209.png,busis/GT/case0209.png,train,val,train,test,train
+busis,1,busis/Original/case0210.png,busis/GT/case0210.png,train,train,train,train,test
+busis,1,busis/Original/case0211.png,busis/GT/case0211.png,train,test,train,train,train
+busis,1,busis/Original/case0212.png,busis/GT/case0212.png,train,train,test,train,val
+busis,1,busis/Original/case0213.png,busis/GT/case0213.png,train,val,train,test,val
+busis,1,busis/Original/case0214.png,busis/GT/case0214.png,test,val,train,val,train
+busis,1,busis/Original/case0215.png,busis/GT/case0215.png,train,train,train,test,train
+busis,1,busis/Original/case0216.png,busis/GT/case0216.png,train,test,val,train,train
+busis,1,busis/Original/case0217.png,busis/GT/case0217.png,test,train,val,train,train
+busis,1,busis/Original/case0218.png,busis/GT/case0218.png,val,val,test,train,val
+busis,1,busis/Original/case0219.png,busis/GT/case0219.png,train,train,test,val,train
+busis,1,busis/Original/case0220.png,busis/GT/case0220.png,train,train,train,train,test
+busis,1,busis/Original/case0221.png,busis/GT/case0221.png,val,train,test,val,train
+busis,1,busis/Original/case0222.png,busis/GT/case0222.png,train,train,test,train,train
+busis,1,busis/Original/case0223.png,busis/GT/case0223.png,train,test,train,val,train
+busis,1,busis/Original/case0224.png,busis/GT/case0224.png,train,train,train,train,test
+busis,1,busis/Original/case0225.png,busis/GT/case0225.png,test,train,train,val,train
+busis,1,busis/Original/case0226.png,busis/GT/case0226.png,train,test,train,train,train
+busis,1,busis/Original/case0227.png,busis/GT/case0227.png,train,val,train,train,test
+busis,1,busis/Original/case0228.png,busis/GT/case0228.png,test,train,train,train,train
+busis,1,busis/Original/case0229.png,busis/GT/case0229.png,test,train,val,train,train
+busis,1,busis/Original/case0230.png,busis/GT/case0230.png,test,train,train,val,train
+busis,1,busis/Original/case0231.png,busis/GT/case0231.png,train,test,train,train,train
+busis,1,busis/Original/case0232.png,busis/GT/case0232.png,train,test,train,train,val
+busis,1,busis/Original/case0233.png,busis/GT/case0233.png,train,train,train,train,test
+busis,1,busis/Original/case0234.png,busis/GT/case0234.png,test,train,val,train,train
+busis,1,busis/Original/case0235.png,busis/GT/case0235.png,train,test,train,train,train
+busis,1,busis/Original/case0236.png,busis/GT/case0236.png,train,test,train,train,train
+busis,1,busis/Original/case0237.png,busis/GT/case0237.png,train,train,test,train,val
+busis,1,busis/Original/case0238.png,busis/GT/case0238.png,train,train,val,test,val
+busis,1,busis/Original/case0239.png,busis/GT/case0239.png,test,train,train,train,train
+busis,1,busis/Original/case0240.png,busis/GT/case0240.png,train,train,train,test,train
+busis,1,busis/Original/case0241.png,busis/GT/case0241.png,test,train,train,train,train
+busis,1,busis/Original/case0242.png,busis/GT/case0242.png,train,train,test,train,train
+busis,1,busis/Original/case0243.png,busis/GT/case0243.png,val,train,train,train,test
+busis,1,busis/Original/case0244.png,busis/GT/case0244.png,train,train,val,test,train
+busis,1,busis/Original/case0245.png,busis/GT/case0245.png,train,train,train,train,test
+busis,1,busis/Original/case0246.png,busis/GT/case0246.png,test,train,train,val,train
+busis,1,busis/Original/case0247.png,busis/GT/case0247.png,train,train,test,train,train
+busis,1,busis/Original/case0248.png,busis/GT/case0248.png,train,train,val,test,train
+busis,1,busis/Original/case0249.png,busis/GT/case0249.png,val,train,train,train,test
+busis,1,busis/Original/case0250.png,busis/GT/case0250.png,train,val,test,train,train
+busis,1,busis/Original/case0251.png,busis/GT/case0251.png,train,train,val,train,test
+busis,1,busis/Original/case0252.png,busis/GT/case0252.png,train,train,train,test,train
+busis,1,busis/Original/case0253.png,busis/GT/case0253.png,train,train,test,train,train
+busis,1,busis/Original/case0254.png,busis/GT/case0254.png,val,train,train,train,test
+busis,1,busis/Original/case0255.png,busis/GT/case0255.png,train,train,train,train,test
+busis,1,busis/Original/case0256.png,busis/GT/case0256.png,test,train,train,train,train
+busis,1,busis/Original/case0257.png,busis/GT/case0257.png,test,train,train,train,val
+busis,1,busis/Original/case0258.png,busis/GT/case0258.png,train,train,test,val,train
+busis,1,busis/Original/case0259.png,busis/GT/case0259.png,val,val,test,train,train
+busis,1,busis/Original/case0260.png,busis/GT/case0260.png,train,train,train,test,train
+busis,1,busis/Original/case0261.png,busis/GT/case0261.png,test,train,train,train,train
+busis,1,busis/Original/case0262.png,busis/GT/case0262.png,train,train,train,train,test
+busis,1,busis/Original/case0263.png,busis/GT/case0263.png,train,train,test,train,train
+busis,1,busis/Original/case0264.png,busis/GT/case0264.png,val,test,val,train,val
+busis,1,busis/Original/case0265.png,busis/GT/case0265.png,val,val,test,val,train
+busis,1,busis/Original/case0266.png,busis/GT/case0266.png,val,test,train,train,train
+busis,1,busis/Original/case0267.png,busis/GT/case0267.png,val,train,train,test,train
+busis,1,busis/Original/case0268.png,busis/GT/case0268.png,val,train,train,test,train
+busis,1,busis/Original/case0269.png,busis/GT/case0269.png,train,test,train,train,train
+busis,1,busis/Original/case0270.png,busis/GT/case0270.png,test,val,train,train,val
+busis,1,busis/Original/case0271.png,busis/GT/case0271.png,train,train,train,test,train
+busis,1,busis/Original/case0272.png,busis/GT/case0272.png,train,test,train,train,train
+busis,0,busis/Original/case0273.png,busis/GT/case0273.png,val,train,train,test,train
+busis,0,busis/Original/case0274.png,busis/GT/case0274.png,train,train,train,train,test
+busis,0,busis/Original/case0275.png,busis/GT/case0275.png,train,train,train,train,test
+busis,0,busis/Original/case0276.png,busis/GT/case0276.png,train,train,train,test,train
+busis,0,busis/Original/case0277.png,busis/GT/case0277.png,train,train,train,test,train
+busis,0,busis/Original/case0278.png,busis/GT/case0278.png,val,test,val,train,train
+busis,0,busis/Original/case0279.png,busis/GT/case0279.png,train,val,train,test,train
+busis,0,busis/Original/case0280.png,busis/GT/case0280.png,train,train,val,test,val
+busis,0,busis/Original/case0281.png,busis/GT/case0281.png,val,test,train,train,train
+busis,0,busis/Original/case0282.png,busis/GT/case0282.png,train,val,test,train,train
+busis,0,busis/Original/case0283.png,busis/GT/case0283.png,val,test,val,val,train
+busis,0,busis/Original/case0284.png,busis/GT/case0284.png,test,train,val,train,val
+busis,0,busis/Original/case0285.png,busis/GT/case0285.png,train,train,train,test,train
+busis,0,busis/Original/case0286.png,busis/GT/case0286.png,train,val,train,test,train
+busis,0,busis/Original/case0287.png,busis/GT/case0287.png,val,train,test,train,val
+busis,0,busis/Original/case0288.png,busis/GT/case0288.png,train,test,train,train,train
+busis,0,busis/Original/case0289.png,busis/GT/case0289.png,train,train,train,test,train
+busis,0,busis/Original/case0290.png,busis/GT/case0290.png,test,train,train,train,train
+busis,0,busis/Original/case0291.png,busis/GT/case0291.png,train,train,train,test,train
+busis,0,busis/Original/case0292.png,busis/GT/case0292.png,val,val,train,train,test
+busis,0,busis/Original/case0293.png,busis/GT/case0293.png,train,test,train,train,train
+busis,0,busis/Original/case0294.png,busis/GT/case0294.png,train,train,test,train,val
+busis,0,busis/Original/case0295.png,busis/GT/case0295.png,test,val,train,train,val
+busis,0,busis/Original/case0296.png,busis/GT/case0296.png,train,train,val,test,train
+busis,0,busis/Original/case0297.png,busis/GT/case0297.png,train,train,train,val,test
+busis,0,busis/Original/case0298.png,busis/GT/case0298.png,val,train,val,val,test
+busis,0,busis/Original/case0299.png,busis/GT/case0299.png,train,train,train,test,train
+busis,0,busis/Original/case0300.png,busis/GT/case0300.png,train,test,val,train,train
+busis,0,busis/Original/case0301.png,busis/GT/case0301.png,train,val,train,test,train
+busis,0,busis/Original/case0302.png,busis/GT/case0302.png,test,val,train,val,val
+busis,0,busis/Original/case0303.png,busis/GT/case0303.png,val,train,train,train,test
+busis,0,busis/Original/case0304.png,busis/GT/case0304.png,train,val,train,train,test
+busis,0,busis/Original/case0305.png,busis/GT/case0305.png,train,test,train,train,train
+busis,0,busis/Original/case0306.png,busis/GT/case0306.png,train,train,test,train,train
+busis,0,busis/Original/case0307.png,busis/GT/case0307.png,train,train,test,train,train
+busis,0,busis/Original/case0308.png,busis/GT/case0308.png,train,train,train,test,train
+busis,0,busis/Original/case0309.png,busis/GT/case0309.png,train,test,train,train,val
+busis,0,busis/Original/case0310.png,busis/GT/case0310.png,train,test,train,train,train
+busis,0,busis/Original/case0311.png,busis/GT/case0311.png,train,test,train,train,train
+busis,0,busis/Original/case0312.png,busis/GT/case0312.png,train,val,test,val,train
+busis,0,busis/Original/case0313.png,busis/GT/case0313.png,test,val,train,train,train
+busis,0,busis/Original/case0314.png,busis/GT/case0314.png,test,train,train,train,val
+busis,0,busis/Original/case0315.png,busis/GT/case0315.png,train,val,test,val,train
+busis,0,busis/Original/case0316.png,busis/GT/case0316.png,train,val,val,train,test
+busis,0,busis/Original/case0317.png,busis/GT/case0317.png,train,test,train,val,train
+busis,0,busis/Original/case0318.png,busis/GT/case0318.png,test,train,train,train,train
+busis,0,busis/Original/case0319.png,busis/GT/case0319.png,train,test,train,val,train
+busis,0,busis/Original/case0320.png,busis/GT/case0320.png,val,train,val,train,test
+busis,1,busis/Original/case0321.png,busis/GT/case0321.png,train,test,train,train,train
+busis,1,busis/Original/case0322.png,busis/GT/case0322.png,train,train,train,train,test
+busis,1,busis/Original/case0323.png,busis/GT/case0323.png,test,train,train,train,train
+busis,1,busis/Original/case0324.png,busis/GT/case0324.png,train,val,val,train,test
+busis,1,busis/Original/case0325.png,busis/GT/case0325.png,train,test,val,train,val
+busis,1,busis/Original/case0326.png,busis/GT/case0326.png,train,val,val,train,test
+busis,1,busis/Original/case0327.png,busis/GT/case0327.png,train,val,train,train,test
+busis,1,busis/Original/case0328.png,busis/GT/case0328.png,train,val,test,train,val
+busis,1,busis/Original/case0329.png,busis/GT/case0329.png,train,train,train,test,train
+busis,1,busis/Original/case0330.png,busis/GT/case0330.png,train,train,val,train,test
+busis,1,busis/Original/case0331.png,busis/GT/case0331.png,train,test,train,train,val
+busis,1,busis/Original/case0332.png,busis/GT/case0332.png,train,val,train,test,train
+busis,1,busis/Original/case0333.png,busis/GT/case0333.png,train,test,train,val,train
+busis,1,busis/Original/case0334.png,busis/GT/case0334.png,train,train,val,val,test
+busis,1,busis/Original/case0335.png,busis/GT/case0335.png,test,train,train,train,train
+busis,1,busis/Original/case0336.png,busis/GT/case0336.png,train,val,train,test,train
+busis,1,busis/Original/case0337.png,busis/GT/case0337.png,val,train,test,train,train
+busis,0,busis/Original/case0338.png,busis/GT/case0338.png,test,train,train,train,train
+busis,0,busis/Original/case0339.png,busis/GT/case0339.png,train,train,train,test,train
+busis,0,busis/Original/case0340.png,busis/GT/case0340.png,train,train,test,train,val
+busis,0,busis/Original/case0341.png,busis/GT/case0341.png,test,train,train,train,train
+busis,0,busis/Original/case0342.png,busis/GT/case0342.png,test,train,train,train,train
+busis,0,busis/Original/case0343.png,busis/GT/case0343.png,train,train,train,train,test
+busis,0,busis/Original/case0344.png,busis/GT/case0344.png,train,test,train,train,val
+busis,0,busis/Original/case0345.png,busis/GT/case0345.png,train,train,train,val,test
+busis,0,busis/Original/case0346.png,busis/GT/case0346.png,test,val,train,train,train
+busis,0,busis/Original/case0347.png,busis/GT/case0347.png,train,test,train,train,train
+busis,0,busis/Original/case0348.png,busis/GT/case0348.png,train,test,val,train,train
+busis,0,busis/Original/case0349.png,busis/GT/case0349.png,train,train,test,train,train
+busis,0,busis/Original/case0350.png,busis/GT/case0350.png,train,train,train,train,test
+busis,0,busis/Original/case0351.png,busis/GT/case0351.png,train,test,train,train,train
+busis,0,busis/Original/case0352.png,busis/GT/case0352.png,test,train,train,train,train
+busis,0,busis/Original/case0353.png,busis/GT/case0353.png,test,train,train,train,train
+busis,0,busis/Original/case0354.png,busis/GT/case0354.png,train,train,train,train,test
+busis,0,busis/Original/case0355.png,busis/GT/case0355.png,train,train,val,train,test
+busis,0,busis/Original/case0356.png,busis/GT/case0356.png,train,train,val,train,test
+busis,0,busis/Original/case0357.png,busis/GT/case0357.png,train,val,test,train,val
+busis,0,busis/Original/case0358.png,busis/GT/case0358.png,train,val,train,train,test
+busis,0,busis/Original/case0359.png,busis/GT/case0359.png,train,test,val,train,train
+busis,0,busis/Original/case0360.png,busis/GT/case0360.png,train,test,train,train,train
+busis,0,busis/Original/case0361.png,busis/GT/case0361.png,train,train,train,train,test
+busis,0,busis/Original/case0362.png,busis/GT/case0362.png,train,test,val,train,train
+busis,0,busis/Original/case0363.png,busis/GT/case0363.png,train,train,val,train,test
+busis,0,busis/Original/case0364.png,busis/GT/case0364.png,train,train,test,val,train
+busis,0,busis/Original/case0365.png,busis/GT/case0365.png,test,train,train,train,train
+busis,0,busis/Original/case0366.png,busis/GT/case0366.png,train,train,train,val,test
+busis,0,busis/Original/case0367.png,busis/GT/case0367.png,train,val,train,train,test
+busis,0,busis/Original/case0368.png,busis/GT/case0368.png,val,test,train,train,train
+busis,0,busis/Original/case0369.png,busis/GT/case0369.png,train,train,train,test,train
+busis,0,busis/Original/case0370.png,busis/GT/case0370.png,train,train,train,train,test
+busis,0,busis/Original/case0371.png,busis/GT/case0371.png,train,test,train,train,train
+busis,0,busis/Original/case0372.png,busis/GT/case0372.png,train,train,train,val,test
+busis,0,busis/Original/case0373.png,busis/GT/case0373.png,train,val,test,train,train
+busis,0,busis/Original/case0374.png,busis/GT/case0374.png,train,train,train,train,test
+busis,0,busis/Original/case0375.png,busis/GT/case0375.png,train,train,train,train,test
+busis,0,busis/Original/case0376.png,busis/GT/case0376.png,train,val,test,train,train
+busis,1,busis/Original/case0377.png,busis/GT/case0377.png,train,val,test,train,train
+busis,1,busis/Original/case0378.png,busis/GT/case0378.png,train,train,train,train,test
+busis,1,busis/Original/case0379.png,busis/GT/case0379.png,test,train,train,train,train
+busis,1,busis/Original/case0380.png,busis/GT/case0380.png,val,test,train,train,train
+busis,1,busis/Original/case0381.png,busis/GT/case0381.png,train,train,train,test,val
+busis,1,busis/Original/case0382.png,busis/GT/case0382.png,test,train,train,train,val
+busis,1,busis/Original/case0383.png,busis/GT/case0383.png,train,train,test,val,val
+busis,1,busis/Original/case0384.png,busis/GT/case0384.png,test,train,train,train,train
+busis,1,busis/Original/case0385.png,busis/GT/case0385.png,train,train,train,test,train
+busis,1,busis/Original/case0386.png,busis/GT/case0386.png,val,test,train,train,train
+busis,1,busis/Original/case0387.png,busis/GT/case0387.png,train,train,test,val,train
+busis,1,busis/Original/case0388.png,busis/GT/case0388.png,train,test,train,train,train
+busis,1,busis/Original/case0389.png,busis/GT/case0389.png,train,val,test,train,train
+busis,1,busis/Original/case0390.png,busis/GT/case0390.png,val,train,val,test,val
+busis,1,busis/Original/case0391.png,busis/GT/case0391.png,train,test,train,train,train
+busis,1,busis/Original/case0392.png,busis/GT/case0392.png,train,train,test,val,train
+busis,1,busis/Original/case0393.png,busis/GT/case0393.png,train,train,train,test,train
+busis,1,busis/Original/case0394.png,busis/GT/case0394.png,val,test,train,train,train
+busis,1,busis/Original/case0395.png,busis/GT/case0395.png,test,val,train,train,train
+busis,1,busis/Original/case0396.png,busis/GT/case0396.png,train,train,train,test,val
+busis,1,busis/Original/case0397.png,busis/GT/case0397.png,train,train,val,test,train
+busis,1,busis/Original/case0398.png,busis/GT/case0398.png,train,train,val,train,test
+busis,1,busis/Original/case0399.png,busis/GT/case0399.png,val,test,train,train,train
+busis,1,busis/Original/case0400.png,busis/GT/case0400.png,test,val,val,train,train
+busis,1,busis/Original/case0401.png,busis/GT/case0401.png,train,train,test,val,train
+busis,0,busis/Original/case0402.png,busis/GT/case0402.png,test,train,train,train,train
+busis,0,busis/Original/case0403.png,busis/GT/case0403.png,val,train,train,test,train
+busis,1,busis/Original/case0404.png,busis/GT/case0404.png,train,val,train,train,test
+busis,1,busis/Original/case0405.png,busis/GT/case0405.png,val,train,val,train,test
+busis,0,busis/Original/case0406.png,busis/GT/case0406.png,train,train,val,train,test
+busis,1,busis/Original/case0407.png,busis/GT/case0407.png,train,train,test,val,train
+busis,0,busis/Original/case0408.png,busis/GT/case0408.png,train,train,train,test,train
+busis,1,busis/Original/case0409.png,busis/GT/case0409.png,train,train,val,train,test
+busis,1,busis/Original/case0410.png,busis/GT/case0410.png,val,train,train,test,train
+busis,1,busis/Original/case0411.png,busis/GT/case0411.png,test,train,train,train,train
+busis,0,busis/Original/case0412.png,busis/GT/case0412.png,train,train,train,test,train
+busis,0,busis/Original/case0413.png,busis/GT/case0413.png,train,val,train,train,test
+busis,0,busis/Original/case0414.png,busis/GT/case0414.png,test,val,train,train,train
+busis,1,busis/Original/case0415.png,busis/GT/case0415.png,train,train,test,train,train
+busis,1,busis/Original/case0416.png,busis/GT/case0416.png,train,val,train,test,train
+busis,0,busis/Original/case0417.png,busis/GT/case0417.png,val,train,test,train,val
+busis,0,busis/Original/case0418.png,busis/GT/case0418.png,train,train,test,train,train
+busis,1,busis/Original/case0419.png,busis/GT/case0419.png,test,train,val,train,val
+busis,1,busis/Original/case0420.png,busis/GT/case0420.png,train,train,val,test,val
+busis,1,busis/Original/case0421.png,busis/GT/case0421.png,train,train,train,train,test
+busis,0,busis/Original/case0422.png,busis/GT/case0422.png,train,train,train,test,train
+busis,1,busis/Original/case0423.png,busis/GT/case0423.png,train,val,test,train,val
+busis,1,busis/Original/case0424.png,busis/GT/case0424.png,val,test,train,train,train
+busis,1,busis/Original/case0425.png,busis/GT/case0425.png,train,train,train,val,test
+busis,0,busis/Original/case0426.png,busis/GT/case0426.png,train,train,train,test,val
+busis,0,busis/Original/case0427.png,busis/GT/case0427.png,train,test,val,train,train
+busis,0,busis/Original/case0428.png,busis/GT/case0428.png,test,val,train,train,train
+busis,1,busis/Original/case0429.png,busis/GT/case0429.png,train,test,train,train,val
+busis,1,busis/Original/case0430.png,busis/GT/case0430.png,test,train,train,train,train
+busis,1,busis/Original/case0431.png,busis/GT/case0431.png,test,train,train,train,train
+busis,1,busis/Original/case0432.png,busis/GT/case0432.png,train,test,train,train,train
+busis,0,busis/Original/case0433.png,busis/GT/case0433.png,test,val,train,val,train
+busis,1,busis/Original/case0434.png,busis/GT/case0434.png,train,train,train,train,test
+busis,0,busis/Original/case0435.png,busis/GT/case0435.png,train,train,train,test,train
+busis,1,busis/Original/case0436.png,busis/GT/case0436.png,train,train,test,train,train
+busis,1,busis/Original/case0437.png,busis/GT/case0437.png,val,train,train,train,test
+busis,0,busis/Original/case0438.png,busis/GT/case0438.png,train,train,test,train,train
+busis,0,busis/Original/case0439.png,busis/GT/case0439.png,train,train,val,train,test
+busis,1,busis/Original/case0440.png,busis/GT/case0440.png,train,train,val,train,test
+busis,1,busis/Original/case0441.png,busis/GT/case0441.png,test,train,train,train,train
+busis,1,busis/Original/case0442.png,busis/GT/case0442.png,train,train,train,train,test
+busis,0,busis/Original/case0443.png,busis/GT/case0443.png,val,train,train,train,test
+busis,0,busis/Original/case0444.png,busis/GT/case0444.png,train,train,test,train,val
+busis,1,busis/Original/case0445.png,busis/GT/case0445.png,train,val,train,test,val
+busis,1,busis/Original/case0446.png,busis/GT/case0446.png,train,train,train,test,val
+busis,1,busis/Original/case0447.png,busis/GT/case0447.png,train,test,train,train,train
+busis,1,busis/Original/case0448.png,busis/GT/case0448.png,train,test,val,val,val
+busis,1,busis/Original/case0449.png,busis/GT/case0449.png,train,test,train,train,train
+busis,1,busis/Original/case0450.png,busis/GT/case0450.png,train,test,val,train,train
+busis,0,busis/Original/case0451.png,busis/GT/case0451.png,test,val,train,train,train
+busis,1,busis/Original/case0452.png,busis/GT/case0452.png,test,train,val,train,train
+busis,1,busis/Original/case0453.png,busis/GT/case0453.png,train,test,train,train,train
+busis,1,busis/Original/case0454.png,busis/GT/case0454.png,train,test,train,train,train
+busis,0,busis/Original/case0455.png,busis/GT/case0455.png,val,train,train,test,train
+busis,0,busis/Original/case0456.png,busis/GT/case0456.png,val,train,train,train,test
+busis,0,busis/Original/case0457.png,busis/GT/case0457.png,train,test,train,train,train
+busis,0,busis/Original/case0458.png,busis/GT/case0458.png,train,train,val,test,train
+busis,0,busis/Original/case0459.png,busis/GT/case0459.png,train,test,train,train,train
+busis,0,busis/Original/case0460.png,busis/GT/case0460.png,test,train,train,train,train
+busis,1,busis/Original/case0461.png,busis/GT/case0461.png,train,train,train,train,test
+busis,0,busis/Original/case0462.png,busis/GT/case0462.png,train,train,test,val,train
+busis,0,busis/Original/case0463.png,busis/GT/case0463.png,train,train,train,test,train
+busis,1,busis/Original/case0464.png,busis/GT/case0464.png,train,val,val,test,val
+busis,1,busis/Original/case0465.png,busis/GT/case0465.png,train,val,val,test,train
+busis,1,busis/Original/case0466.png,busis/GT/case0466.png,test,train,train,train,train
+busis,1,busis/Original/case0467.png,busis/GT/case0467.png,test,train,train,train,train
+busis,1,busis/Original/case0468.png,busis/GT/case0468.png,train,train,val,test,train
+busis,1,busis/Original/case0469.png,busis/GT/case0469.png,train,train,train,train,test
+busis,1,busis/Original/case0470.png,busis/GT/case0470.png,train,train,test,train,train
+busis,1,busis/Original/case0471.png,busis/GT/case0471.png,test,train,train,train,train
+busis,0,busis/Original/case0472.png,busis/GT/case0472.png,train,test,train,train,val
+busis,1,busis/Original/case0473.png,busis/GT/case0473.png,train,test,val,train,train
+busis,1,busis/Original/case0474.png,busis/GT/case0474.png,train,train,test,train,val
+busis,1,busis/Original/case0475.png,busis/GT/case0475.png,test,train,train,train,train
+busis,1,busis/Original/case0476.png,busis/GT/case0476.png,train,test,train,train,train
+busis,1,busis/Original/case0477.png,busis/GT/case0477.png,val,val,train,test,train
+busis,1,busis/Original/case0478.png,busis/GT/case0478.png,train,test,train,train,train
+busis,0,busis/Original/case0479.png,busis/GT/case0479.png,train,test,train,val,val
+busis,1,busis/Original/case0480.png,busis/GT/case0480.png,train,train,train,val,test
+busis,0,busis/Original/case0481.png,busis/GT/case0481.png,val,train,train,train,test
+busis,0,busis/Original/case0482.png,busis/GT/case0482.png,test,train,train,train,train
+busis,0,busis/Original/case0483.png,busis/GT/case0483.png,train,train,test,train,train
+busis,1,busis/Original/case0484.png,busis/GT/case0484.png,train,train,train,train,test
+busis,1,busis/Original/case0485.png,busis/GT/case0485.png,train,train,train,test,train
+busis,1,busis/Original/case0486.png,busis/GT/case0486.png,train,test,train,train,val
+busis,1,busis/Original/case0487.png,busis/GT/case0487.png,train,test,train,train,train
+busis,1,busis/Original/case0488.png,busis/GT/case0488.png,val,train,test,train,train
+busis,0,busis/Original/case0489.png,busis/GT/case0489.png,val,val,train,test,train
+busis,0,busis/Original/case0490.png,busis/GT/case0490.png,train,train,test,train,train
+busis,1,busis/Original/case0491.png,busis/GT/case0491.png,test,train,train,train,train
+busis,1,busis/Original/case0492.png,busis/GT/case0492.png,train,train,test,train,train
+busis,0,busis/Original/case0493.png,busis/GT/case0493.png,train,train,val,test,train
+busis,0,busis/Original/case0494.png,busis/GT/case0494.png,val,test,train,train,train
+busis,0,busis/Original/case0495.png,busis/GT/case0495.png,train,test,train,val,train
+busis,1,busis/Original/case0496.png,busis/GT/case0496.png,val,train,train,train,test
+busis,1,busis/Original/case0497.png,busis/GT/case0497.png,train,train,train,train,test
+busis,0,busis/Original/case0498.png,busis/GT/case0498.png,train,test,train,train,val
+busis,0,busis/Original/case0499.png,busis/GT/case0499.png,train,test,train,train,train
+busis,0,busis/Original/case0500.png,busis/GT/case0500.png,train,test,train,train,train
+busis,0,busis/Original/case0501.png,busis/GT/case0501.png,train,val,train,train,test
+busis,0,busis/Original/case0502.png,busis/GT/case0502.png,val,train,val,test,train
+busis,0,busis/Original/case0503.png,busis/GT/case0503.png,test,train,train,train,val
+busis,0,busis/Original/case0504.png,busis/GT/case0504.png,train,train,train,train,test
+busis,0,busis/Original/case0505.png,busis/GT/case0505.png,train,train,test,train,val
+busis,0,busis/Original/case0506.png,busis/GT/case0506.png,train,train,train,test,train
+busis,0,busis/Original/case0507.png,busis/GT/case0507.png,train,test,val,val,train
+busis,0,busis/Original/case0508.png,busis/GT/case0508.png,train,train,test,train,train
+busis,0,busis/Original/case0509.png,busis/GT/case0509.png,train,train,train,test,train
+busis,0,busis/Original/case0510.png,busis/GT/case0510.png,val,test,train,train,train
+busis,0,busis/Original/case0511.png,busis/GT/case0511.png,train,test,train,train,train
+busis,0,busis/Original/case0512.png,busis/GT/case0512.png,train,test,val,val,train
+busis,1,busis/Original/case0513.png,busis/GT/case0513.png,train,train,test,train,val
+busis,1,busis/Original/case0514.png,busis/GT/case0514.png,train,test,train,train,train
+busis,1,busis/Original/case0515.png,busis/GT/case0515.png,train,train,test,train,train
+busis,0,busis/Original/case0516.png,busis/GT/case0516.png,test,train,train,val,train
+busis,0,busis/Original/case0517.png,busis/GT/case0517.png,test,train,train,val,val
+busis,0,busis/Original/case0518.png,busis/GT/case0518.png,train,train,test,train,train
+busis,0,busis/Original/case0519.png,busis/GT/case0519.png,train,train,test,train,train
+busis,0,busis/Original/case0520.png,busis/GT/case0520.png,train,train,test,train,val
+busis,0,busis/Original/case0521.png,busis/GT/case0521.png,val,train,val,test,train
+busis,0,busis/Original/case0522.png,busis/GT/case0522.png,train,val,test,val,val
+busis,0,busis/Original/case0523.png,busis/GT/case0523.png,train,train,test,train,train
+busis,0,busis/Original/case0524.png,busis/GT/case0524.png,train,test,train,val,train
+busis,0,busis/Original/case0525.png,busis/GT/case0525.png,train,train,test,train,train
+busis,0,busis/Original/case0526.png,busis/GT/case0526.png,train,train,train,train,test
+busis,0,busis/Original/case0527.png,busis/GT/case0527.png,train,train,train,test,train
+busis,0,busis/Original/case0528.png,busis/GT/case0528.png,train,train,train,train,test
+busis,0,busis/Original/case0529.png,busis/GT/case0529.png,val,train,train,train,test
+busis,0,busis/Original/case0530.png,busis/GT/case0530.png,train,train,train,train,test
+busis,0,busis/Original/case0531.png,busis/GT/case0531.png,train,train,train,test,train
+busis,0,busis/Original/case0532.png,busis/GT/case0532.png,train,val,test,train,train
+busis,0,busis/Original/case0533.png,busis/GT/case0533.png,train,train,train,test,train
+busis,1,busis/Original/case0534.png,busis/GT/case0534.png,test,train,train,train,train
+busis,0,busis/Original/case0535.png,busis/GT/case0535.png,val,val,train,train,test
+busis,0,busis/Original/case0536.png,busis/GT/case0536.png,train,val,test,train,train
+busis,1,busis/Original/case0537.png,busis/GT/case0537.png,val,train,test,train,train
+busis,0,busis/Original/case0538.png,busis/GT/case0538.png,train,train,test,val,train
+busis,0,busis/Original/case0539.png,busis/GT/case0539.png,train,train,test,train,val
+busis,0,busis/Original/case0540.png,busis/GT/case0540.png,train,train,train,test,train
+busis,0,busis/Original/case0541.png,busis/GT/case0541.png,train,test,train,train,val
+busis,0,busis/Original/case0542.png,busis/GT/case0542.png,train,test,val,train,val
+busis,0,busis/Original/case0543.png,busis/GT/case0543.png,test,train,train,val,train
+busis,0,busis/Original/case0544.png,busis/GT/case0544.png,train,train,train,test,val
+busis,0,busis/Original/case0545.png,busis/GT/case0545.png,train,train,train,train,test
+busis,0,busis/Original/case0546.png,busis/GT/case0546.png,train,train,test,train,train
+busis,0,busis/Original/case0547.png,busis/GT/case0547.png,val,train,train,test,train
+busis,0,busis/Original/case0548.png,busis/GT/case0548.png,train,train,val,val,test
+busis,0,busis/Original/case0549.png,busis/GT/case0549.png,train,train,train,test,train
+busis,0,busis/Original/case0550.png,busis/GT/case0550.png,test,train,train,val,train
+busis,0,busis/Original/case0551.png,busis/GT/case0551.png,train,train,test,train,train
+busis,1,busis/Original/case0552.png,busis/GT/case0552.png,val,test,train,train,train
+busis,1,busis/Original/case0553.png,busis/GT/case0553.png,train,train,test,train,train
+busis,1,busis/Original/case0554.png,busis/GT/case0554.png,train,val,train,val,test
+busis,1,busis/Original/case0555.png,busis/GT/case0555.png,test,train,train,train,val
+busis,1,busis/Original/case0556.png,busis/GT/case0556.png,train,test,train,train,train
+busis,1,busis/Original/case0557.png,busis/GT/case0557.png,val,train,train,test,train
+busis,1,busis/Original/case0558.png,busis/GT/case0558.png,train,train,train,train,test
+busis,1,busis/Original/case0559.png,busis/GT/case0559.png,val,train,test,train,train
+busis,1,busis/Original/case0560.png,busis/GT/case0560.png,train,train,test,train,train
+busis,0,busis/Original/case0561.png,busis/GT/case0561.png,val,train,test,train,val
+busis,1,busis/Original/case0562.png,busis/GT/case0562.png,val,train,train,test,val
+cva,0,cva/images/benign_263b86b85a58f270_000066.png,cva/masks/benign_263b86b85a58f270_000066.png,train,train,test,train,train
+cva,0,cva/images/benign_2cda21c3aab26332_000067.png,cva/masks/benign_2cda21c3aab26332_000067.png,train,train,train,train,test
+cva,0,cva/images/benign_4414661bcb60d5cf_000018.png,cva/masks/benign_4414661bcb60d5cf_000018.png,train,test,train,train,train
+cva,0,cva/images/benign_4c67b4ec376f06b4_000034.png,cva/masks/benign_4c67b4ec376f06b4_000034.png,test,train,val,val,val
+cva,0,cva/images/benign_531bdc37158304f9_000062.png,cva/masks/benign_531bdc37158304f9_000062.png,test,train,val,train,val
+cva,0,cva/images/benign_5563954a01f2e103_000067.png,cva/masks/benign_5563954a01f2e103_000067.png,train,train,test,train,val
+cva,0,cva/images/benign_5e9e25fe01fecbde_000034.png,cva/masks/benign_5e9e25fe01fecbde_000034.png,train,train,train,train,test
+cva,0,cva/images/benign_5f053610403f7478_000154.png,cva/masks/benign_5f053610403f7478_000154.png,train,train,train,test,val
+cva,0,cva/images/benign_6085475b648ee8f7_000187.png,cva/masks/benign_6085475b648ee8f7_000187.png,test,train,train,train,train
+cva,0,cva/images/benign_60e246dd25972f25_000053.png,cva/masks/benign_60e246dd25972f25_000053.png,val,train,train,train,test
+cva,0,cva/images/benign_61f569f918fa4e91_000020.png,cva/masks/benign_61f569f918fa4e91_000020.png,train,test,val,val,train
+cva,0,cva/images/benign_6206535f64624442_000061.png,cva/masks/benign_6206535f64624442_000061.png,test,train,train,train,train
+cva,0,cva/images/benign_625ad56f085b9b07_000055.png,cva/masks/benign_625ad56f085b9b07_000055.png,train,train,test,train,train
+cva,0,cva/images/benign_666818cd5f46c701_000026.png,cva/masks/benign_666818cd5f46c701_000026.png,val,test,train,train,train
+cva,0,cva/images/benign_670e132749ce2925_000037.png,cva/masks/benign_670e132749ce2925_000037.png,test,train,val,train,train
+cva,0,cva/images/benign_69bd11c0456eb2f5_000044.png,cva/masks/benign_69bd11c0456eb2f5_000044.png,train,train,train,test,val
+cva,0,cva/images/benign_786ebd9dada09453_000019.png,cva/masks/benign_786ebd9dada09453_000019.png,train,test,train,train,train
+cva,0,cva/images/benign_7918d0fb994e8b8d_000023.png,cva/masks/benign_7918d0fb994e8b8d_000023.png,test,train,train,train,train
+cva,0,cva/images/benign_7c5574c3f669669f_000113.png,cva/masks/benign_7c5574c3f669669f_000113.png,val,train,train,val,test
+cva,0,cva/images/benign_7db72602c876da5c_000058.png,cva/masks/benign_7db72602c876da5c_000058.png,test,val,val,train,train
+cva,0,cva/images/benign_bf669588716546e_000061.png,cva/masks/benign_bf669588716546e_000061.png,test,train,train,train,train
+cva,0,cva/images/benign_c6245b90cc6db38_000100.png,cva/masks/benign_c6245b90cc6db38_000100.png,train,train,train,test,train
+cva,0,cva/images/benign_dd4a021723b952b_000033.png,cva/masks/benign_dd4a021723b952b_000033.png,train,val,train,train,test
+cva,0,cva/images/benign_f29dca90eb2022f_000015.png,cva/masks/benign_f29dca90eb2022f_000015.png,train,train,val,train,test
+cva,0,cva/images/benign_x1282311c38f808f_000054.png,cva/masks/benign_x1282311c38f808f_000054.png,train,test,train,train,train
+cva,0,cva/images/benign_x15b845abcccc6f4a_000055.png,cva/masks/benign_x15b845abcccc6f4a_000055.png,train,train,test,train,train
+cva,0,cva/images/benign_x1befd37d51d96ee9_000052.png,cva/masks/benign_x1befd37d51d96ee9_000052.png,train,train,train,train,test
+cva,0,cva/images/benign_x28f299ceb056964c_000078.png,cva/masks/benign_x28f299ceb056964c_000078.png,train,train,train,train,test
+cva,0,cva/images/benign_x2b276529233e7007_000025.png,cva/masks/benign_x2b276529233e7007_000025.png,train,train,test,train,train
+cva,0,cva/images/benign_x2be0b0e1c5d5aa61_000124.png,cva/masks/benign_x2be0b0e1c5d5aa61_000124.png,val,train,test,train,train
+cva,0,cva/images/benign_x2c53d7998b5cc9f_000026.png,cva/masks/benign_x2c53d7998b5cc9f_000026.png,test,train,train,train,val
+cva,0,cva/images/benign_x32a4159934e524d5_000022.png,cva/masks/benign_x32a4159934e524d5_000022.png,train,train,test,train,train
+cva,0,cva/images/benign_x35717a5a6e90362b_000018.png,cva/masks/benign_x35717a5a6e90362b_000018.png,val,train,test,val,train
+cva,0,cva/images/benign_x3748594d89375c56_000072.png,cva/masks/benign_x3748594d89375c56_000072.png,train,train,train,test,train
+cva,0,cva/images/benign_x39f4ca5252085d82_000060.png,cva/masks/benign_x39f4ca5252085d82_000060.png,train,train,train,test,train
+cva,0,cva/images/benign_x3fbd62a35b3610e5_000052.png,cva/masks/benign_x3fbd62a35b3610e5_000052.png,test,val,train,train,train
+cva,0,cva/images/benign_x4771d87a9fdeb83b_000025.png,cva/masks/benign_x4771d87a9fdeb83b_000025.png,train,test,train,train,train
+cva,0,cva/images/benign_x4966baa34099fb85_000052.png,cva/masks/benign_x4966baa34099fb85_000052.png,test,train,train,train,train
+cva,0,cva/images/benign_x4bea72fdbc93f2f0_000078.png,cva/masks/benign_x4bea72fdbc93f2f0_000078.png,train,val,train,test,train
+cva,0,cva/images/benign_x4cdeb03e350b6747_000062.png,cva/masks/benign_x4cdeb03e350b6747_000062.png,train,train,train,test,val
+cva,0,cva/images/benign_x5064979e8aa0aa5_000076.png,cva/masks/benign_x5064979e8aa0aa5_000076.png,train,val,train,test,train
+cva,0,cva/images/benign_x54e1c05fd2287965_000046.png,cva/masks/benign_x54e1c05fd2287965_000046.png,train,train,test,train,train
+cva,0,cva/images/benign_x54e63696be637e25_000102.png,cva/masks/benign_x54e63696be637e25_000102.png,train,test,train,train,val
+cva,0,cva/images/benign_x5872f6368719568a_000038.png,cva/masks/benign_x5872f6368719568a_000038.png,val,train,train,test,train
+cva,0,cva/images/benign_x5884ac9e245060c7_000014.png,cva/masks/benign_x5884ac9e245060c7_000014.png,train,train,test,val,train
+cva,0,cva/images/benign_x5bf13bab47cb0d26_000086.png,cva/masks/benign_x5bf13bab47cb0d26_000086.png,train,test,train,train,train
+cva,0,cva/images/benign_x5d28852e092c471b_000118.png,cva/masks/benign_x5d28852e092c471b_000118.png,train,test,val,val,train
+cva,0,cva/images/benign_x63b732fdded83b62_000016.png,cva/masks/benign_x63b732fdded83b62_000016.png,train,test,train,train,train
+cva,0,cva/images/benign_x63d5f68df3e660df_000040.png,cva/masks/benign_x63d5f68df3e660df_000040.png,train,train,val,train,test
+cva,0,cva/images/benign_x671a7cb526b42548_000130.png,cva/masks/benign_x671a7cb526b42548_000130.png,train,val,train,test,train
+cva,0,cva/images/benign_x6ad6e92a9f2d2bc_000151.png,cva/masks/benign_x6ad6e92a9f2d2bc_000151.png,train,test,train,train,train
+cva,0,cva/images/benign_x6f7af0c0342a44ed_000025.png,cva/masks/benign_x6f7af0c0342a44ed_000025.png,train,train,test,val,train
+cva,0,cva/images/benign_x7177931c21f40518_000033.png,cva/masks/benign_x7177931c21f40518_000033.png,val,val,train,test,train
+cva,0,cva/images/benign_x766f17fff454136f_000052.png,cva/masks/benign_x766f17fff454136f_000052.png,train,val,train,train,test
+cva,0,cva/images/benign_x7d959113466b09ea_000044.png,cva/masks/benign_x7d959113466b09ea_000044.png,test,val,train,train,train
+cva,0,cva/images/benign_x7e02f7d01743b210_000038.png,cva/masks/benign_x7e02f7d01743b210_000038.png,val,train,train,train,test
+cva,0,cva/images/benign_xca03e9925e2f762_000133.png,cva/masks/benign_xca03e9925e2f762_000133.png,train,train,val,test,train
+cva,0,cva/images/benign_xe241f9d440204eb_000096.png,cva/masks/benign_xe241f9d440204eb_000096.png,val,test,train,val,val
+cva,0,cva/images/benign_xff3777c79744514_000063.png,cva/masks/benign_xff3777c79744514_000063.png,train,train,test,val,train
+cva,1,cva/images/malignant_1165dd767cf0f4f3_000036.png,cva/masks/malignant_1165dd767cf0f4f3_000036.png,val,train,train,train,test
+cva,1,cva/images/malignant_129dded7559f99cf_000112.png,cva/masks/malignant_129dded7559f99cf_000112.png,train,val,val,val,test
+cva,1,cva/images/malignant_13b8293635639a4c_000066.png,cva/masks/malignant_13b8293635639a4c_000066.png,train,train,train,test,train
+cva,1,cva/images/malignant_16a87e92f1b53338_000056.png,cva/masks/malignant_16a87e92f1b53338_000056.png,train,train,train,train,test
+cva,1,cva/images/malignant_2a2716116cf2a1da_000177.png,cva/masks/malignant_2a2716116cf2a1da_000177.png,train,train,test,train,train
+cva,1,cva/images/malignant_2aef523b046e4671_000018.png,cva/masks/malignant_2aef523b046e4671_000018.png,train,test,val,train,train
+cva,1,cva/images/malignant_2c977dd2ec9d714a_000066.png,cva/masks/malignant_2c977dd2ec9d714a_000066.png,val,test,train,train,train
+cva,1,cva/images/malignant_2e374bbb7be3cf6a_000081.png,cva/masks/malignant_2e374bbb7be3cf6a_000081.png,train,train,test,train,val
+cva,1,cva/images/malignant_2f60c46643464ab5_000107.png,cva/masks/malignant_2f60c46643464ab5_000107.png,test,train,train,train,train
+cva,1,cva/images/malignant_30945123ea4d9e62_000070.png,cva/masks/malignant_30945123ea4d9e62_000070.png,train,test,train,val,train
+cva,1,cva/images/malignant_30cd9711e8ddbf01_000063.png,cva/masks/malignant_30cd9711e8ddbf01_000063.png,train,train,val,test,train
+cva,1,cva/images/malignant_355f8098c8aa52ed_000031.png,cva/masks/malignant_355f8098c8aa52ed_000031.png,test,train,train,val,train
+cva,1,cva/images/malignant_37235fe6195d301a_000068.png,cva/masks/malignant_37235fe6195d301a_000068.png,train,train,val,test,train
+cva,1,cva/images/malignant_38db199653d7170f_000061.png,cva/masks/malignant_38db199653d7170f_000061.png,val,train,test,val,train
+cva,1,cva/images/malignant_3bc71617347b8826_000074.png,cva/masks/malignant_3bc71617347b8826_000074.png,test,train,train,train,train
+cva,1,cva/images/malignant_3dd5fca83e9bb9ec_000019.png,cva/masks/malignant_3dd5fca83e9bb9ec_000019.png,train,train,test,train,train
+cva,1,cva/images/malignant_3f88a121e5e77ebe_000025.png,cva/masks/malignant_3f88a121e5e77ebe_000025.png,train,train,train,test,train
+cva,1,cva/images/malignant_44ee98288ea9f1f4_000034.png,cva/masks/malignant_44ee98288ea9f1f4_000034.png,test,train,val,val,train
+cva,1,cva/images/malignant_46127d08b575d72_000058.png,cva/masks/malignant_46127d08b575d72_000058.png,train,train,train,train,test
+cva,1,cva/images/malignant_49f974ba579679df_000049.png,cva/masks/malignant_49f974ba579679df_000049.png,train,train,train,val,test
+cva,1,cva/images/malignant_4d4db26cc9dd4024_000034.png,cva/masks/malignant_4d4db26cc9dd4024_000034.png,train,train,test,train,val
+cva,1,cva/images/malignant_4dc30d4e51ee2e48_000057.png,cva/masks/malignant_4dc30d4e51ee2e48_000057.png,train,test,train,train,train
+cva,1,cva/images/malignant_4f2c2fab1501d098_000063.png,cva/masks/malignant_4f2c2fab1501d098_000063.png,test,val,train,train,train
+cva,1,cva/images/malignant_504948d63a364d20_000046.png,cva/masks/malignant_504948d63a364d20_000046.png,train,train,train,test,train
+cva,1,cva/images/malignant_59ed378fcabf125d_000035.png,cva/masks/malignant_59ed378fcabf125d_000035.png,train,test,train,train,train
+cva,1,cva/images/malignant_5acb28328e37ef57_000027.png,cva/masks/malignant_5acb28328e37ef57_000027.png,train,test,train,train,train
+cva,1,cva/images/malignant_5b01151520267051_000150.png,cva/masks/malignant_5b01151520267051_000150.png,train,train,val,val,test
+cva,1,cva/images/malignant_61663866db6802ce_000026.png,cva/masks/malignant_61663866db6802ce_000026.png,train,train,train,train,test
+cva,1,cva/images/malignant_69f4b1d2f756e60e_000080.png,cva/masks/malignant_69f4b1d2f756e60e_000080.png,train,train,val,train,test
+cva,1,cva/images/malignant_6c4a81bc03ea416b_000088.png,cva/masks/malignant_6c4a81bc03ea416b_000088.png,train,train,train,test,train
+cva,1,cva/images/malignant_6e3a77d5b588c5fb_000066.png,cva/masks/malignant_6e3a77d5b588c5fb_000066.png,train,val,test,train,train
+cva,1,cva/images/malignant_6e961391d009a706_000073.png,cva/masks/malignant_6e961391d009a706_000073.png,train,train,train,train,test
+cva,1,cva/images/malignant_6f27d394645c00f8_000021.png,cva/masks/malignant_6f27d394645c00f8_000021.png,test,train,train,train,train
+cva,1,cva/images/malignant_758c7ef001885a88_000089.png,cva/masks/malignant_758c7ef001885a88_000089.png,train,test,train,train,train
+cva,1,cva/images/malignant_76070c32f89abc62_000040.png,cva/masks/malignant_76070c32f89abc62_000040.png,test,train,val,train,val
+cva,1,cva/images/malignant_7a39ab5d4970bf89_000052.png,cva/masks/malignant_7a39ab5d4970bf89_000052.png,train,train,train,test,train
+cva,1,cva/images/malignant_7dfdb91ee9d7eb69_000093.png,cva/masks/malignant_7dfdb91ee9d7eb69_000093.png,test,val,train,train,train
+cva,1,cva/images/malignant_x1296b567ca4aceef_000068.png,cva/masks/malignant_x1296b567ca4aceef_000068.png,train,val,test,train,val
+cva,1,cva/images/malignant_x15ecb0b5256a4db_000094.png,cva/masks/malignant_x15ecb0b5256a4db_000094.png,train,test,train,val,train
+cva,1,cva/images/malignant_x1e9c4864c1e7c5b_000028.png,cva/masks/malignant_x1e9c4864c1e7c5b_000028.png,train,train,train,test,train
+cva,1,cva/images/malignant_x22348897b96c20ff_000076.png,cva/masks/malignant_x22348897b96c20ff_000076.png,test,val,train,train,val
+cva,1,cva/images/malignant_x237b754340100e54_000074.png,cva/masks/malignant_x237b754340100e54_000074.png,train,test,train,train,train
+cva,1,cva/images/malignant_x26b7abde2fb90d84_000036.png,cva/masks/malignant_x26b7abde2fb90d84_000036.png,train,train,train,test,val
+cva,1,cva/images/malignant_x2a14fc40130faa71_000057.png,cva/masks/malignant_x2a14fc40130faa71_000057.png,train,train,train,test,train
+cva,1,cva/images/malignant_x2aa349a509b04bce_000033.png,cva/masks/malignant_x2aa349a509b04bce_000033.png,val,test,train,train,train
+cva,1,cva/images/malignant_x2b8173ccbe4a0b7c_000039.png,cva/masks/malignant_x2b8173ccbe4a0b7c_000039.png,train,test,train,train,val
+cva,1,cva/images/malignant_x2cd35753cd695245_000154.png,cva/masks/malignant_x2cd35753cd695245_000154.png,val,train,train,train,test
+cva,1,cva/images/malignant_x2ceef396ee055bee_000093.png,cva/masks/malignant_x2ceef396ee055bee_000093.png,test,train,val,train,train
+cva,1,cva/images/malignant_x2d561f74f9e9532d_000049.png,cva/masks/malignant_x2d561f74f9e9532d_000049.png,train,test,train,train,train
+cva,1,cva/images/malignant_x2ec05819a4aafe2a_000146.png,cva/masks/malignant_x2ec05819a4aafe2a_000146.png,val,test,train,train,train
+cva,1,cva/images/malignant_x30c9d9bb3f0c6bff_000028.png,cva/masks/malignant_x30c9d9bb3f0c6bff_000028.png,val,train,test,train,train
+cva,1,cva/images/malignant_x30fdb049d2060a3f_000124.png,cva/masks/malignant_x30fdb049d2060a3f_000124.png,test,train,train,train,val
+cva,1,cva/images/malignant_x3206c740e53a558c_000048.png,cva/masks/malignant_x3206c740e53a558c_000048.png,train,train,train,train,test
+cva,1,cva/images/malignant_x3b71e7e2f2960f1_000085.png,cva/masks/malignant_x3b71e7e2f2960f1_000085.png,val,train,val,train,test
+cva,1,cva/images/malignant_x3b88488853e8b7d1_000122.png,cva/masks/malignant_x3b88488853e8b7d1_000122.png,train,test,train,train,train
+cva,1,cva/images/malignant_x3d153e5f5b0bcde5_000033.png,cva/masks/malignant_x3d153e5f5b0bcde5_000033.png,test,train,train,train,train
+cva,1,cva/images/malignant_x43ddd60b2f249f9c_000098.png,cva/masks/malignant_x43ddd60b2f249f9c_000098.png,train,train,train,train,test
+cva,1,cva/images/malignant_x460c43be47ad80b9_000118.png,cva/masks/malignant_x460c43be47ad80b9_000118.png,train,val,test,train,train
+cva,1,cva/images/malignant_x46d9ac246dbda50_000047.png,cva/masks/malignant_x46d9ac246dbda50_000047.png,train,val,test,train,train
+cva,1,cva/images/malignant_x482b8dc6649140a0_000126.png,cva/masks/malignant_x482b8dc6649140a0_000126.png,test,val,train,train,val
+cva,1,cva/images/malignant_x489d6fb55d2f0cd1_000083.png,cva/masks/malignant_x489d6fb55d2f0cd1_000083.png,test,train,train,train,train
+cva,1,cva/images/malignant_x48efc0d10583c373_000071.png,cva/masks/malignant_x48efc0d10583c373_000071.png,test,train,train,train,train
+cva,1,cva/images/malignant_x4bb046844e002870_000047.png,cva/masks/malignant_x4bb046844e002870_000047.png,train,train,train,test,train
+cva,1,cva/images/malignant_x53ce7f0e44720712_000021.png,cva/masks/malignant_x53ce7f0e44720712_000021.png,val,train,train,test,train
+cva,1,cva/images/malignant_x56fa67202af8fc78_000080.png,cva/masks/malignant_x56fa67202af8fc78_000080.png,train,val,val,test,train
+cva,1,cva/images/malignant_x59e4ed2abb496371_000052.png,cva/masks/malignant_x59e4ed2abb496371_000052.png,train,train,train,train,test
+cva,1,cva/images/malignant_x5a3b3ab36fea435d_000049.png,cva/masks/malignant_x5a3b3ab36fea435d_000049.png,train,val,train,test,val
+cva,1,cva/images/malignant_x5d893f3f3ae2bd22_000045.png,cva/masks/malignant_x5d893f3f3ae2bd22_000045.png,val,train,test,train,train
+cva,1,cva/images/malignant_x6178742ccbd3d1a0_000064.png,cva/masks/malignant_x6178742ccbd3d1a0_000064.png,train,train,test,train,train
+cva,1,cva/images/malignant_x6535d12c2a5aab9b_000096.png,cva/masks/malignant_x6535d12c2a5aab9b_000096.png,val,test,train,train,val
+cva,1,cva/images/malignant_x6862f478fdf97441_000014.png,cva/masks/malignant_x6862f478fdf97441_000014.png,val,train,train,test,train
+cva,1,cva/images/malignant_x6af4dbdbcc8cb3f8_000101.png,cva/masks/malignant_x6af4dbdbcc8cb3f8_000101.png,train,train,test,train,train
+cva,1,cva/images/malignant_x6f6bfd8c8a33248d_000069.png,cva/masks/malignant_x6f6bfd8c8a33248d_000069.png,train,train,train,test,train
+cva,1,cva/images/malignant_x70ed0f8509d73ff0_000016.png,cva/masks/malignant_x70ed0f8509d73ff0_000016.png,train,train,test,train,train
+cva,1,cva/images/malignant_x71559b11320fd2a_000079.png,cva/masks/malignant_x71559b11320fd2a_000079.png,train,train,train,val,test
+cva,1,cva/images/malignant_x72154d60722eb7dd_000036.png,cva/masks/malignant_x72154d60722eb7dd_000036.png,train,test,train,train,val
+cva,1,cva/images/malignant_x72392ccc925ed9d4_000064.png,cva/masks/malignant_x72392ccc925ed9d4_000064.png,train,train,train,train,test
+cva,1,cva/images/malignant_x7cd4703a73a52918_000046.png,cva/masks/malignant_x7cd4703a73a52918_000046.png,train,train,train,val,test
+cva,1,cva/images/malignant_x9c1c965d274c457_000059.png,cva/masks/malignant_x9c1c965d274c457_000059.png,train,train,test,train,train
+cva,1,cva/images/malignant_xb60099fde76c0ea_000095.png,cva/masks/malignant_xb60099fde76c0ea_000095.png,train,val,test,val,train
+cva,1,cva/images/malignant_xc92f65176f4b7a7_000124.png,cva/masks/malignant_xc92f65176f4b7a7_000124.png,test,train,train,train,train
+cva,1,cva/images/malignant_xe60a9301eb8c62f_000056.png,cva/masks/malignant_xe60a9301eb8c62f_000056.png,test,train,val,val,train
