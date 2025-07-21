@@ -18,11 +18,11 @@ for param in model.layer4.parameters():
 for param in model.fc.parameters():
     param.requires_grad = True
 
-model = ResNet18.train(nEpochs=30,
+model = ResNet18.train_binary(nEpochs=30,
                               lr=0.0001,
                               model=model,
                               name="resnet18_busbra_pretrained")
-ResNet18.evaluate(name="resnet18_busbra_pretrained")
+ResNet18.evaluate_binary(name="resnet18_busbra_pretrained")
 
 
 ##########################################################################################
@@ -88,7 +88,7 @@ std = [0.229, 0.224, 0.225]
 
 
 model = ResNet18.return_model(2)
-model.load_state_dict(torch.load("models_checkpoints/resnet18_busbra_pretrained_freezed.pth")) #required model's name
+model.load_state_dict(torch.load("models_checkpoints/resnet18_busbra_pretrained_freezed_L1.pth")) #required model's name
 model.eval()
 
 train_ds, test_ds, val_ds = load_data_with_segmentation()
