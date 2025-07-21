@@ -11,7 +11,7 @@ class RISE(nn.Module):
         self.model = model
         self.input_size = input_size
         self.gpu_batch = gpu_batch
-        self.device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
+        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model.to(self.device)
 
     def generate_masks(self, N, s, p1, savepath='rise/masks.npy'):
@@ -52,6 +52,23 @@ class RISE(nn.Module):
         # print(f"[RISE] Mean activation (p1): {self.p1:.4f}")
         # print(f"[RISE] Tensor dtype: {self.masks.dtype}")
 
+    # def forward(self, x):
+    #     N = self.N
+    #     x = x.to(self.device)
+    #     _, _, H, W = x.size()
+    #     stack = self.masks * x
+    #
+    #     preds = []
+    #     for i in range(0, N, self.gpu_batch):
+    #         preds.append(self.model(stack[i:min(i + self.gpu_batch, N)]))
+    #     p = torch.cat(preds)
+    #
+    #     CL = p.size(1)
+    #     sal = torch.matmul(p.transpose(0, 1), self.masks.view(N, H * W))
+    #     sal = sal.view(CL, H, W)
+    #     sal = sal / N / self.p1
+    #     return sal
+
     def forward(self, x):
         N = self.N
         x = x.to(self.device)
@@ -60,11 +77,22 @@ class RISE(nn.Module):
 
         preds = []
         for i in range(0, N, self.gpu_batch):
-            preds.append(self.model(stack[i:min(i + self.gpu_batch, N)]))
-        p = torch.cat(preds)
+            out = self.model(stack[i:min(i + self.gpu_batch, N)])
 
+            # 🛠 Zapewnij, że wyjście ma kształt [batch, num_classes]
+            if out.ndim == 1:
+                out = out.unsqueeze(1)  # [N] → [N, 1]
+            elif out.ndim == 2 and out.size(1) == 1:
+                out = torch.sigmoid(out)  # Jeśli logit, przekształć na probabilistyczne
+            elif out.ndim == 2:
+                out = torch.softmax(out, dim=1)  # Dla wieloklasowych
+
+            preds.append(out)
+
+        p = torch.cat(preds)  # [N, CL]
         CL = p.size(1)
-        sal = torch.matmul(p.transpose(0, 1), self.masks.view(N, H * W))
+
+        sal = torch.matmul(p.transpose(0, 1), self.masks.view(N, H * W))  # [CL, H*W]
         sal = sal.view(CL, H, W)
         sal = sal / N / self.p1
         return sal
