@@ -3,6 +3,7 @@ import numpy as np
 from tqdm import tqdm
 from skimage.transform import resize
 import torch
+from rise.utils import *
 
 
 class RISE(nn.Module):
@@ -73,19 +74,24 @@ class RISE(nn.Module):
         N = self.N
         x = x.to(self.device)
         _, _, H, W = x.size()
+
+        mean = [0.485, 0.456, 0.406]
+        std = [0.229, 0.224, 0.225]
+
+        x = denormalize(x, mean, std)
         stack = self.masks * x
+        stack = normalize(stack, mean, std)
 
         preds = []
         for i in range(0, N, self.gpu_batch):
             out = self.model(stack[i:min(i + self.gpu_batch, N)])
 
-            # 🛠 Zapewnij, że wyjście ma kształt [batch, num_classes]
             if out.ndim == 1:
                 out = out.unsqueeze(1)  # [N] → [N, 1]
             elif out.ndim == 2 and out.size(1) == 1:
-                out = torch.sigmoid(out)  # Jeśli logit, przekształć na probabilistyczne
+                out = torch.sigmoid(out)
             elif out.ndim == 2:
-                out = torch.softmax(out, dim=1)  # Dla wieloklasowych
+                out = torch.softmax(out, dim=1)
 
             preds.append(out)
 

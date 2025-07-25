@@ -328,7 +328,7 @@ def load_data_with_segmentation():
     data_csv = "data/BUSBRA/bus_data.csv"
     folds_csv = "data/BUSBRA/10-fold-cv.csv"
 
-    train_df, val_df, test_df = load_df(data_csv, fold_csv=folds_csv)
+    train_df, val_df, test_df = load_df(data_csv, fold_csv=folds_csv, fold_no=1)
 
     mean = [0.485, 0.456, 0.406]
     std = [0.229, 0.224, 0.225]

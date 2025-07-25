@@ -2,7 +2,7 @@ from torch import nn
 from tqdm import tqdm
 from scipy.ndimage.filters import gaussian_filter
 
-from .utils import *
+from rise.utils import *
 
 HW = 224 * 224  # image area
 n_classes = 1000

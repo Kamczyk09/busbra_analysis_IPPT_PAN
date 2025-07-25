@@ -115,6 +115,7 @@ def get_num_output_neurons(dataset):
 def binarize_mask_tensor(mask: torch.Tensor, threshold: float = 0.5) -> torch.Tensor:
   return (mask > threshold).float()
 
+
 def evaluate_accuracy(model, dataloader, device):
   model.eval()
   correct = 0

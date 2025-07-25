@@ -37,10 +37,11 @@ def train(nEpochs, lr=0.0005,
     print(f"Training on {nOutputNeurons} neurons")
 
     if model is None: #if model wasn't previously trained
-        model = models.resnet18(pretrained=pretrained)
+        model = models.resnet101(pretrained=pretrained)
 
     model.fc = nn.Sequential(
-        nn.Linear(512, nOutputNeurons)
+        nn.Dropout(0.5),
+        nn.Linear(2048, nOutputNeurons)
     )
     model.to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=lr)
@@ -130,7 +131,7 @@ def train(nEpochs, lr=0.0005,
     os.makedirs(save_dir, exist_ok=True)
 
     if name is not None:
-        torch.save(model.state_dict(), f'{save_dir}/resnet18_{"pretrained" if pretrained else "raw"}.pth')
+        torch.save(model.state_dict(), f'{save_dir}/resnet101_{"pretrained" if pretrained else "raw"}.pth')
 
     torch.save(model.state_dict(), f'{save_dir}/{name}.pth')
     print(f"Model saved in {save_dir}/{name}.pth")
@@ -166,13 +167,13 @@ def train_binary(nEpochs, lr=0.0005,
     print(f"Training on {nOutputNeurons} neurons")
 
     if model is None: #if model wasn't previously trained
-        model = models.resnet18(pretrained=pretrained)
+        model = models.resnet101(pretrained=pretrained)
 
     model.fc = nn.Sequential(
-        nn.Linear(512, nOutputNeurons)
+        nn.Linear(2048, nOutputNeurons)
     )
     model.to(device)
-    optimizer = torch.optim.Adam(filter(lambda p: p.requires_grad, model.parameters()), lr=lr)
+    optimizer = torch.optim.Adam(filter(lambda p: p.requires_grad, model.parameters()), lr=1e-4)
     scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=10, gamma=0.1)
     criterion = nn.CrossEntropyLoss()
 
@@ -260,7 +261,7 @@ def train_binary(nEpochs, lr=0.0005,
     os.makedirs(save_dir, exist_ok=True)
 
     if name is not None:
-        torch.save(model.state_dict(), f'{save_dir}/resnet18_{"pretrained" if pretrained else "raw"}.pth')
+        torch.save(model.state_dict(), f'{save_dir}/resnet101_{"pretrained" if pretrained else "raw"}.pth')
 
     torch.save(model.state_dict(), f'{save_dir}/{name}.pth')
     print(f"Model saved in {save_dir}/{name}.pth")
@@ -353,9 +354,9 @@ def evaluate_binary(model=None, name=None):
 
 
 def return_model(nOutputNeurons):
-    model = models.resnet18(pretrained=False)
+    model = models.resnet101(pretrained=False)
     model.fc = nn.Sequential(
-        nn.Linear(512, nOutputNeurons),
+        nn.Linear(2048, nOutputNeurons)
     )
     model.to(device)
     return model

@@ -1,12 +1,7 @@
 from torchvision import transforms
 import pytorch_grad_cam
-from PIL import Image
 from data.cifar10 import load_data
-import matplotlib.pyplot as plt
 import models.ResNet18 as ResNet18
-import torch
-import numpy as np
-from utils_module.utils import merge_models
 from scipy.stats import spearmanr
 from torch.utils.tensorboard import SummaryWriter
 from utils_module.utils import *

@@ -12,8 +12,6 @@ from rise import *
 from models import ResNet18
 from torchvision.transforms.functional import to_pil_image
 from torchvision import transforms
-import matplotlib.pyplot as plt
-import numpy as np
 from torch.utils.tensorboard import SummaryWriter
 from utils_module.utils import *
 from utils_module.linear_interpolation import interpolate_softmax

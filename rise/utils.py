@@ -52,3 +52,33 @@ class RangeSampler(Sampler):
 
     def __len__(self):
         return len(self.r)
+
+
+def denormalize(tensor, mean, std):
+    """
+    Reverses the normalization step for a tensor image.
+    """
+    device = tensor.device
+    dtype = tensor.dtype
+
+    mean = torch.tensor(mean, dtype=dtype, device=device).view(-1, 1, 1)
+    std = torch.tensor(std, dtype=dtype, device=device).view(-1, 1, 1)
+
+    if tensor.dim() == 4:
+        mean = mean.unsqueeze(0)  # [1, C, 1, 1]
+        std = std.unsqueeze(0)
+
+    return tensor * std + mean
+
+def normalize(tensor, mean, std):
+    """
+    Normalizes a tensor image with mean and standard deviation.
+    """
+    mean = torch.tensor(mean, dtype=tensor.dtype, device=tensor.device).view(-1, 1, 1)
+    std = torch.tensor(std, dtype=tensor.dtype, device=tensor.device).view(-1, 1, 1)
+
+    if tensor.dim() == 4:
+        mean = mean.unsqueeze(0)  # [1, C, 1, 1]
+        std = std.unsqueeze(0)
+
+    return (tensor - mean) / std

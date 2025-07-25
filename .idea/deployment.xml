@@ -12,7 +12,14 @@
       <paths name="skaminsk@148.81.54.244:22 password">
         <serverdata>
           <mappings>
-            <mapping deploy="/home/skaminsk/Pulpit/obrazy_med_analiza" local="$PROJECT_DIR$" />
+            <mapping deploy="/Pulpit/obrazy_med_analiza" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="skaminsk@148.81.54.244:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
