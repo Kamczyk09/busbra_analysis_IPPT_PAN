@@ -7,12 +7,12 @@ from rise.utils import *
 
 
 class RISE(nn.Module):
-    def __init__(self, model, input_size, gpu_batch=10):
+    def __init__(self, model, input_size, gpu_batch=4):
         super(RISE, self).__init__()
         self.model = model
         self.input_size = input_size
         self.gpu_batch = gpu_batch
-        self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.device = torch.device("cuda:1" if torch.cuda.is_available() else "cpu")
         self.model.to(self.device)
 
     def generate_masks(self, N, s, p1, savepath='rise/masks.npy'):

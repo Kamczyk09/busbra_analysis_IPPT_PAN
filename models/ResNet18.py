@@ -5,7 +5,7 @@ import torchvision.models as models
 from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
 import numpy as np
-from data.busbra_loader import load_data_with_segmentation
+from data.cub200 import load_data_with_segmentation
 import os
 from torch.utils.tensorboard import SummaryWriter
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -295,8 +295,8 @@ def evaluate(model=None, name=None):
             outputs = model(images)
 
             if nOutputNeurons == 1:
-                preds = (torch.sigmoid(outputs) > 0.5).float().squeeze(1)  # usuń wymiar 1 z preds
-                labels = labels.long()  # lub float, ale musi mieć ten sam kształt co preds
+                preds = (torch.sigmoid(outputs) > 0.5).float().squeeze(1)
+                labels = labels.long()
             else:
                 _, preds = torch.max(outputs, 1)
 
@@ -352,8 +352,8 @@ def evaluate_binary(model=None, name=None):
     return acc.item()
 
 
-def return_model(nOutputNeurons):
-    model = models.resnet18(pretrained=False)
+def return_model(nOutputNeurons, pretrained=False):
+    model = models.resnet18(pretrained=pretrained)
     model.fc = nn.Sequential(
         nn.Linear(512, nOutputNeurons),
     )

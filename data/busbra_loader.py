@@ -323,20 +323,22 @@ class GrayscaleToRGB:
         # tensor: [1, H, W] → [3, H, W]
         return tensor.expand(3, -1, -1)
 
-def load_data_with_segmentation():
+def load_data_with_segmentation(transform=None, fold_no=1):
 
     data_csv = "data/BUSBRA/bus_data.csv"
     folds_csv = "data/BUSBRA/10-fold-cv.csv"
 
-    train_df, val_df, test_df = load_df(data_csv, fold_csv=folds_csv, fold_no=1)
+    train_df, val_df, test_df = load_df(data_csv, fold_csv=folds_csv, fold_no=fold_no)
 
     mean = [0.485, 0.456, 0.406]
     std = [0.229, 0.224, 0.225]
-    transform = transforms.Compose([
-        transforms.Resize((200, 200)),
-        GrayscaleToRGB(),
-        transforms.Normalize(mean=mean, std=std)
-    ])
+
+    if transform is None:
+        transform = transforms.Compose([
+            transforms.Resize((200, 200)),
+            GrayscaleToRGB(),
+            transforms.Normalize(mean=mean, std=std)
+        ])
 
     data, w, h, idx = easy_data(train_df)
     geom = geometric_data().astype({col: np.float32 for col in geometric_data().columns[1:]})

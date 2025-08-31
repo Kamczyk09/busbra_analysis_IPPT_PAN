@@ -4,6 +4,10 @@ import io
 import matplotlib.pyplot as plt
 from PIL import Image
 import torch
+from skimage import segmentation
+from skimage import segmentation
+from scipy.ndimage import distance_transform_edt
+import math
 
 def flatten_params(model):
   return model.state_dict()
@@ -116,6 +120,10 @@ def binarize_mask_tensor(mask: torch.Tensor, threshold: float = 0.5) -> torch.Te
   return (mask > threshold).float()
 
 
+def binarize_mask(mask, threshold=0.5):
+  return (mask > threshold).float()
+
+
 def evaluate_accuracy(model, dataloader, device):
   model.eval()
   correct = 0
@@ -139,3 +147,98 @@ def evaluate_accuracy(model, dataloader, device):
 
   accuracy = correct / total
   return accuracy
+
+
+class GrayscaleToRGB:
+  def __call__(self, tensor):
+    # tensor: [1, H, W] → [3, H, W]
+    return tensor.expand(3, -1, -1)
+
+
+def create_ring_mask(mask):
+  """
+  Returns a new segmentation mask that is a thickened border of an original mask.
+  """
+  mask_bin = (mask > 0).astype(bool)
+
+  border = segmentation.find_boundaries(mask_bin, mode='outer')
+
+  perimeter = np.sum(border)
+
+  radius = perimeter / (2 * math.pi)
+
+  thickness = radius/5
+
+  dist_outside = distance_transform_edt(~mask_bin)
+  dist_inside = distance_transform_edt(mask_bin)
+
+  border_thick = (dist_outside <= (thickness + 1) / 2) & (dist_inside <= (thickness + 1) / 2)
+
+  return border_thick.astype(np.float32)
+
+
+def create_sub_mask(mask: np.ndarray) -> np.ndarray:
+  """
+  Returns a new segmentation mask that is a space beneath an original mask.
+  """
+  m = mask.astype(bool)
+
+  if m.ndim == 3 and m.shape[2] == 3:
+    m = m[..., 0]
+
+  if m.ndim != 2:
+    raise ValueError(f"Mask must have shape of (H,W) or (H,W,3), but given {m.shape}")
+
+  h, w = m.shape
+  any_true = m.any(axis=0)
+
+  bottom_idx = h - 1 - np.argmax(m[::-1, :], axis=0)
+  bottom_idx = np.where(any_true, bottom_idx, h)
+
+  rr = np.arange(h)[:, None]
+  out = rr > bottom_idx[None, :]
+
+  return out.astype(np.float32)
+
+def find_maximum_points(array):
+  """
+  Finds the maximum points of an array.
+
+  Args:
+      array (np.ndarray): input array (2D or 3D)
+
+  Returns:
+      list of tuples
+  """
+  max_val = array.max()
+  coords = np.argwhere(array == max_val)
+  return [tuple(coord) for coord in coords]
+
+def max_points_in_mask(sal, mask):
+  """
+  Verifies that the maximum points of an array are within a segmentation mask.
+
+  Args:
+      sal (np.ndarray): mapa istotności (H,W) lub (H,W,C)
+      mask (np.ndarray): binarna maska segmentacji (H,W)
+
+  Returns:
+      bool: True jeśli wszystkie maksymalne punkty są w masce, False jeśli którykolwiek nie jest
+      list: lista współrzędnych maksymalnych punktów
+      list: lista współrzędnych maksymalnych punktów, które są w masce
+  """
+  # Jeśli mapa jest kolorowa (H,W,C), zredukuj do 2D (np. przez sumę po kanałach)
+  if sal.ndim == 3:
+    sal_gray = sal.sum(axis=2)
+  else:
+    sal_gray = sal
+
+  # znajdź współrzędne maksymalnych pikseli
+  max_coords = find_maximum_points(sal_gray)
+
+  # sprawdzenie, które maksymalne punkty są w masce
+  max_in_mask = [coord for coord in max_coords if mask[coord] > 0]
+
+  all_in_mask = len(max_coords) == len(max_in_mask)
+
+  return all_in_mask, max_coords, max_in_mask
