@@ -12,18 +12,25 @@ class CLIP_with_mlp(nn.Module):
         super().__init__()
         self.clip = clip
         self.mlp = mlp
+        self.preprocess = transforms.Compose([
+            transforms.Resize((256, 256)),  # <-- tu zmiana
+            transforms.ToTensor(),
+            transforms.Normalize(mean=(0.48145466, 0.4578275, 0.40821073),
+                                 std=(0.26862954, 0.26130258, 0.27577711)),
+        ])
 
     def forward(self, x):
+        x = self.preprocess(x)
         x = self.clip.encode_image(x)
         x = self.mlp(x)
         return x
 
-def merged_model():
+def merged_model(nOutputNeurons):
     model, _, preprocess = open_clip.create_model_and_transforms('ViT-L-14', pretrained='laion2b_s32b_b82k')
     mlp = nn.Sequential(
         nn.Linear(in_features=768, out_features=256),
         nn.ReLU(),
-        nn.Linear(in_features=256, out_features=1),
+        nn.Linear(in_features=256, out_features=nOutputNeurons),
     )
 
     clip_mlp = CLIP_with_mlp(model, mlp)

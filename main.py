@@ -1,33 +1,57 @@
-from data.cub200 import load_data_with_segmentation
+"""
+importy
 
-train_ds, test_ds, val_ds = load_data_with_segmentation()
+resnet_cub = ... #już wcześniej wytrenowane
+clip_cub = ... #już wcześniej wytrenowane
 
-print(len(train_ds))
-print(len(test_ds))
-print(len(val_ds))
-####################################################################
+GRAD-CAM dla resnet_cub
+RISE dla resnet_cub
+Guided-BP dla resnet_cub
+
+RISE dla clip_cub
+
+funkcja, która przyjmuje jako parametr nazwę pliku npz i plotuje podane indeksy (włącznie z dodatkowymi segmentacjami)
+"""
+import torch
+import numpy as np
+from models import CLIP_lora
+import apply_rise
+import matplotlib.pyplot as plt
+
+
+model = CLIP_lora.return_model(200)
+model.load_state_dict(torch.load('models_checkpoints/CLIP_lora_cub_2e_200n.pth'))
+
+apply_rise.save_rise_cub(model, image_idx=[0,1,2,3], save_path="XAI_numpy/cub/rise_CLIP.npz")
+
+data = np.load("XAI_numpy/cub/rise_CLIP.npz")
+
+fig, axes = plt.subplots(1,4)
+axes[0].imshow(data['images'][0])
+axes[1].imshow(data['masks'][0])
+axes[2].imshow(data['binarized_masks'][0])
+axes[3].imshow(data['sal'][0])
+fig.show()
+
 
 """
-Ten fragment służy do treningu sieci. Funkcja 'train' przyjmuje parametr 'model',
-czyli będzie dotrenowywać istniejąca sieć o nazwie model. Wagi modelu zapisywane są w katalogu models_checkpoints
+importy 
 
-Funkcja evaluate liczy ACC dla wytrenowanej sieci
+for fold in k-folds:
+    resnet: trening + eval + saving state (busbra)
+    clip: trening + eval + saving state (busbra)
+    
+for fold in k-folds:
+    resnet_busbra = ...
+    clip_busbra = ...
+    
+    GRAD-CAM dla resnet_busbra
+    RISE dla resnet_busbra
+    Guided-BP dla resnet_busbra
+    
+    RISE dla clip_busbra
+    
+
 """
-# from models import ResNet18
-# from torchvision.models import resnet18
-#
-# model = ResNet18.return_model(200, pretrained=True)
-#
-# model = ResNet18.train(nEpochs=20,
-#                           lr=1e-4,
-#                           model=model,
-#                           name="resnet18_cub_pretrained")
-# ResNet18.evaluate(name="resnet18_cub_pretrained")
-#
-# #najlepszy model: resnet18_busbra_pretrained -- ACC = 77%
-# #najlepszy model: resnet101_busbra_pretrained_freezed -- ACC = 75%
-# #najlepszy model: resnet152_busbra_pretrained_freezed -- ACC = 77%
-
-# ##########################################################################################
 
 

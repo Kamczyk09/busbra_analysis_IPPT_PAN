@@ -5,7 +5,7 @@ import torchvision.models as models
 from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
 import numpy as np
-from data.cub200 import load_data_with_segmentation
+from data.busbra_loader import load_data_with_segmentation
 import os
 from torch.utils.tensorboard import SummaryWriter
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -19,6 +19,7 @@ def train(nEpochs, lr=0.0005,
           lambda_l2=None,
           pretrained=False,
           model=None,
+          data_fold_no=1,
           name=None):
 
     assert lambda_l1 is None or lambda_l2 is None, \
@@ -27,7 +28,7 @@ def train(nEpochs, lr=0.0005,
     batch_size = 128
 
     #####LOADING DATA############
-    dataset_train, dataset_test, dataset_val = load_data_with_segmentation() # modele muszą być trenowane na tak samo przygotowanych danych
+    dataset_train, dataset_test, dataset_val = load_data_with_segmentation(fold_no=data_fold_no) # modele muszą być trenowane na tak samo przygotowanych danych
     #############################
 
     train_loader = DataLoader(dataset_train, batch_size=batch_size, shuffle=False)
@@ -268,10 +269,10 @@ def train_binary(nEpochs, lr=0.0005,
     return model.state_dict()
 
 
-def evaluate(model=None, name=None):
+def evaluate(model=None, name=None, data_fold_no=1):
     batch_size = 128
 
-    dataset_train, dataset_test, dataset_val = load_data_with_segmentation()
+    dataset_train, dataset_test, dataset_val = load_data_with_segmentation(fold_no=data_fold_no)
     test_loader = DataLoader(dataset_test, batch_size=batch_size, shuffle=False)
     nOutputNeurons = get_num_output_neurons(dataset_train)
     print(f"Testing on {nOutputNeurons} neurons")

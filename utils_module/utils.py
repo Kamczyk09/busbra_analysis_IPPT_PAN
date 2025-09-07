@@ -8,6 +8,7 @@ from skimage import segmentation
 from skimage import segmentation
 from scipy.ndimage import distance_transform_edt
 import math
+import torchvision.transforms.functional as TF
 
 def flatten_params(model):
   return model.state_dict()
@@ -150,9 +151,10 @@ def evaluate_accuracy(model, dataloader, device):
 
 
 class GrayscaleToRGB:
-  def __call__(self, tensor):
-    # tensor: [1, H, W] → [3, H, W]
-    return tensor.expand(3, -1, -1)
+  def __call__(self, image):
+    if not isinstance(image, torch.Tensor):
+        image = TF.to_tensor(image)  # zamiana PIL.Image -> Tensor [C,H,W]
+    return image.expand(3, -1, -1)
 
 
 def create_ring_mask(mask):

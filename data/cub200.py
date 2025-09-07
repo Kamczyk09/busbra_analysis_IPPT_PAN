@@ -82,7 +82,7 @@ class CUBWithSegmentation(Dataset):
         return image, segmentation, label
 
 
-def load_data_with_segmentation():
+def load_data_with_segmentation(transform=None, fold_no=None):
     base_dir = os.path.dirname(os.path.abspath(__file__))
     data_dir = os.path.join(base_dir, "CUB_200_2011", "CUB_200_2011", "images")
     segmentation_dir = os.path.join(base_dir, "CUB_200_2011", "CUB_200_2011", "segmentations")
@@ -99,11 +99,12 @@ def load_data_with_segmentation():
     mean = [0.485, 0.456, 0.406]
     std = [0.229, 0.224, 0.225]
 
-    image_transform = transforms.Compose([
-        transforms.Resize((200, 200)),
-        transforms.ToTensor(),
-        transforms.Normalize(mean, std)
-    ])
+    if transform is None:
+        transform = transforms.Compose([
+            transforms.Resize((200, 200)),
+            transforms.ToTensor(),
+            transforms.Normalize(mean, std)
+        ])
 
     # Dla masek segmentacyjnych: tylko ToTensor (bez normalizacji!)
     mask_transform = transforms.Compose([
@@ -115,7 +116,7 @@ def load_data_with_segmentation():
 
     full_dataset = CUBWithSegmentation(
         image_folder=base_image_folder,
-        transform=image_transform,
+        transform=transform,
         target_transform=mask_transform,
         segmentation_folder=segmentation_dir
     )
