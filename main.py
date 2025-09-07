@@ -18,7 +18,7 @@ from models import CLIP_lora
 import apply_rise
 import matplotlib.pyplot as plt
 
-#chuj
+#chuj + xd
 model = CLIP_lora.return_model(200)
 model.load_state_dict(torch.load('models_checkpoints/CLIP_lora_cub_2e_200n.pth'))
 
