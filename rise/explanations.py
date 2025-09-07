@@ -7,7 +7,7 @@ from rise.utils import *
 
 
 class RISE(nn.Module):
-    def __init__(self, model, input_size, gpu_batch=4):
+    def __init__(self, model, input_size, gpu_batch=2):
         super(RISE, self).__init__()
         self.model = model
         self.input_size = input_size

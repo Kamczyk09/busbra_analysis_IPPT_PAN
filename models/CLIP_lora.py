@@ -176,5 +176,5 @@ def evaluate(name, data_fold_no=1):
 
 
 def return_model(nOutputNeurons):
-    model = CLIP.merged_model(nOutputNeurons=nOutputNeurons)
+    model, preprocess = CLIP.merged_model(nOutputNeurons=nOutputNeurons)
     return model
