@@ -3,7 +3,7 @@ from torchvision import transforms
 from torch.utils.data import DataLoader
 import torch.nn as nn
 import torch
-from data.busbra_loader import load_data_with_segmentation
+from data.cub200 import load_data_with_segmentation
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 import os
 from utils_module.utils import GrayscaleToRGB
@@ -145,7 +145,7 @@ def evaluate(name, data_fold_no=1):
     test_loader = DataLoader(test_ds, batch_size=batch_size, shuffle=False)
 
     nOutputNeurons = get_num_output_neurons(train_ds)
-    print(f"Training on {nOutputNeurons} neurons")
+    print(f"Evaluating on {nOutputNeurons} neurons")
 
     model = return_model(nOutputNeurons=nOutputNeurons)
     model.load_state_dict(torch.load(f"../obrazy_med_analiza/models_checkpoints/{name}.pth"))
