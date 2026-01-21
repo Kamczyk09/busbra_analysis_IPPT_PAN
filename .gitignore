@@ -1,5 +1,5 @@
 models_checkpoints/
-data/bus_data
-data/BUSBRA
-data/CUB_200_2011
+data/bus_data/
+data/BUSBRA/
+data/CUB_200_2011/
 .idea
